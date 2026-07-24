@@ -1,0 +1,1959 @@
+transaction_id,amount,user_id,service,service_type,payment_status,reason,date
+RCG_0C338474B366,926.59,PP0021371,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-06-09
+RCG_6B3B86B07A76,1211.64,PP0002388,Recharge_Bills,Dth,Successful,Successful,2024-08-04
+RCG_767822392A0E,746.27,PP1101831,Recharge_Bills,Cable Tv,Successful,Successful,2024-02-19
+RCG_527E6AC74B11,1319.89,PP0033099,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-12-22
+RCG_6B50A8C694E1,112.44,PP1059869,Recharge_Bills,Cable Tv,Successful,Successful,2024-09-07
+RCG_E63DCBDBB8C9,1278.95,PP1093720,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-07-25
+RCG_DD16B3117FB9,1206.69,PP1067328,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-08-06
+RCG_654D31ECCDC2,1945.11,PP0041770,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-04-23
+RCG_6C53A7808151,1014.3,PP0017979,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-06-25
+RCG_92AE572161FA,1954.71,PP1085390,Recharge_Bills,Dth,Successful,Successful,2024-11-20
+RCG_F318A83120F2,198.23,PP1086434,Recharge_Bills,Mobile Recharge,Successful,Unknown,2024-08-19
+RCG_2841A00FD86A,1815.32,PP0006016,Recharge_Bills,Cable Tv,Successful,Successful,2024-04-26
+RCG_43541CA10FD1,1014.3,PP1089257,Recharge_Bills,Cable Tv,Failed,Insufficient amount,2024-10-17
+RCG_E2611C60AB17,1975.16,PP0046798,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-04-24
+RCG_FD9B254440AF,1541.82,PP0006864,Recharge_Bills,Dth,Unknown,Successful,2024-12-18
+RCG_7F994AAA8517,542.9,PP1074431,Recharge_Bills,Dth,Successful,Successful,2024-04-19
+RCG_CED50D53511D,1003.89,PP1084946,Recharge_Bills,Cable Tv,Successful,Successful,2024-08-24
+RCG_834ECCB39D81,1805.79,PP1050343,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-08-25
+RCG_3727F03EF2B8,300.71,PP0006342,Recharge_Bills,Dth,Unknown,Successful,2024-03-24
+RCG_576C893FD092,1201.85,PP1061529,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-02-08
+RCG_C960C7358F3A,1101.28,PP1058940,Recharge_Bills,Cable Tv,Successful,Successful,2024-09-11
+RCG_E7C3CD65734C,1373.12,PP0029000,Recharge_Bills,Cable Tv,Successful,Successful,2024-09-14
+RCG_1EED4FC6F884,967.14,PP1085625,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-11-23
+RCG_8C15912F58E7,825.94,PP1093095,Recharge_Bills,Cable Tv,Successful,Unknown,2024-10-07
+RCG_99E9393B4215,663.4,PP0049549,Recharge_Bills,Dth,Successful,Successful,2024-05-01
+RCG_46F40BE55ECB,1954.45,PP1070797,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-02-01
+RCG_164B5F26A311,1124.64,PP1074057,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-05-25
+RCG_D21053B16DC2,1562.92,PP1078446,Recharge_Bills,Cable Tv,Successful,Successful,2024-03-21
+RCG_5BAA424C0E25,1605.76,PP1103129,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-04-06
+RCG_2A4EA52E7BB9,673.2,PP0042994,Recharge_Bills,Dth,Successful,Unknown,2024-01-31
+RCG_906B5B9B547D,72.88,PP0016256,Recharge_Bills,Dth,Successful,Successful,2024-01-15
+RCG_1091F897F0E8,1547.41,PP0011010,Recharge_Bills,Cable Tv,Successful,Successful,2024-03-01
+RCG_29FC81027FA5,1095.92,PP0041253,Recharge_Bills,Dth,Successful,Successful,2024-06-07
+RCG_B4145FE478D4,542.59,PP0007150,Recharge_Bills,Cable Tv,Successful,Successful,2024-11-28
+RCG_5BCA4D3ECB7F,41.74,PP0016257,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-06-07
+RCG_E290CED72CA8,400.71,PP0049992,Recharge_Bills,Cable Tv,Successful,Successful,2024-07-23
+RCG_A8DA9CEAC215,1750.47,PP0026380,Recharge_Bills,Dth,Successful,Successful,2024-07-05
+RCG_13B40D66447C,1313.58,PP1071169,Recharge_Bills,Dth,Successful,Successful,2024-11-01
+RCG_1FA3FC7B10A1,742.93,PP0038419,Recharge_Bills,Cable Tv,Successful,Successful,2024-10-26
+RCG_5EB7F7B90C36,1615.3,PP1089425,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-11-30
+RCG_FC08BD999764,1208.84,PP0022493,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-12-18
+RCG_6284487A0EA1,585.66,PP0036570,Recharge_Bills,Dth,Successful,Successful,2024-10-31
+RCG_1CCF8271C267,93.1,PP0004412,Recharge_Bills,Dth,Successful,Successful,2024-04-27
+RCG_01D3FDA6B427,43.97,PP0011417,Recharge_Bills,Cable Tv,Successful,Successful,2024-04-03
+RCG_1E7065368033,881.33,PP0030742,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-01-23
+RCG_BA443C7B8055,959.9,PP1063934,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-09-26
+RCG_7F345CEADF7A,1274.95,PP0017139,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-03-28
+RCG_40D033464178,1070.63,PP1053943,Recharge_Bills,Cable Tv,Successful,Successful,2024-05-01
+RCG_B3E0F17040BC,149.08,PP0048818,Recharge_Bills,Dth,Successful,Successful,2024-06-01
+RCG_EA0FB29C8BB3,1292.38,PP1081362,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-02-19
+RCG_767DFB1FF3BA,634.65,PP1105723,Recharge_Bills,Cable Tv,Successful,Successful,2024-09-08
+RCG_AB72DB36A407,1330.0,PP0043346,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-11-22
+RCG_93E6BE4ABFD5,1399.43,PP0005108,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-02-02
+RCG_93A31927CC9A,651.71,PP0029285,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-08-28
+RCG_D1F4E9AE563B,235.98,PP0017331,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-03-06
+RCG_86080D069139,853.38,PP0024458,Recharge_Bills,Cable Tv,Successful,Successful,2024-11-17
+RCG_B0FDEAB9F05F,1726.23,PP0019953,Recharge_Bills,Fastag Recharge,Unknown,Successful,2024-11-20
+RCG_C17E769F04BE,1396.68,PP0009877,Recharge_Bills,Cable Tv,Successful,Successful,2024-03-09
+RCG_F36A0484A294,285.37,PP1058794,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-06-23
+RCG_FE01C1B025BA,652.62,PP1073731,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-04-30
+RCG_28A9DE597E5D,129.5,PP0005781,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-10-09
+RCG_8A5EEC9CA939,913.77,PP1094047,Recharge_Bills,Dth,Successful,Successful,2024-09-08
+RCG_8ADC10BD3AC3,1014.3,PP1106339,Recharge_Bills,Dth,Successful,Successful,2024-09-21
+RCG_220D198C0E21,1996.84,PP0027223,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-09-19
+RCG_9EACD8A9A04A,305.72,PP0004453,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-07-29
+RCG_1E68956BB65A,122.51,PP0003802,Recharge_Bills,Fastag Recharge,Successful,Unknown,2024-07-28
+RCG_1D84150FB200,1180.83,PP1084353,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-08-25
+RCG_9138764B242D,224.91,PP1080268,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-03-20
+RCG_F59C1DD98E0E,1659.4,PP0026339,Recharge_Bills,Cable Tv,Successful,Successful,2024-12-12
+RCG_F579A0CA89CC,1014.3,PP1064156,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-01-18
+RCG_DD90A6529DD4,629.87,PP1096809,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-02-28
+RCG_F417B39DA523,1507.36,PP0015723,Recharge_Bills,Fastag Recharge,Failed,Wrong PIN,2024-09-19
+RCG_C7956914719A,900.08,PP1085031,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-02-03
+RCG_1363AA1125A8,1124.37,PP1063251,Recharge_Bills,Dth,Successful,Successful,2024-02-29
+RCG_D9E80909EF6D,408.65,PP0006367,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-06-13
+RCG_39705489EFB0,1077.01,PP0048943,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-10-24
+RCG_CAC74B637B9B,1720.62,PP1081514,Recharge_Bills,Dth,Successful,Successful,2024-05-17
+RCG_C445B3AC15EC,1134.71,PP1087154,Recharge_Bills,Cable Tv,Failed,Wrong PIN,2024-05-15
+RCG_B7130FB6BC27,524.8,PP0030827,Recharge_Bills,Fastag Recharge,Unknown,Successful,2024-12-07
+RCG_87292160A313,878.49,PP0013892,Recharge_Bills,Dth,Successful,Successful,2024-11-13
+RCG_7194A9F25F09,820.04,PP1094193,Recharge_Bills,Dth,Successful,Successful,2024-06-08
+RCG_922656271CC8,91.92,PP0048381,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-01-10
+RCG_E923B193B84D,135.36,PP1098476,Recharge_Bills,Cable Tv,Successful,Successful,2024-07-28
+RCG_F72DB3FA1D35,448.66,PP0043913,Recharge_Bills,Cable Tv,Successful,Successful,2024-05-18
+RCG_E4DE1A9CE2F8,496.6,PP1083030,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-09-07
+RCG_E23818CF65EF,1662.94,PP0018910,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-06-15
+RCG_48611B34D98B,871.99,PP1055194,Recharge_Bills,Dth,Successful,Successful,2024-04-15
+RCG_73265DBA7557,1014.3,PP1090849,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-07-04
+RCG_996F236E3353,422.21,PP1107603,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-02-18
+RCG_D4627E754077,295.18,PP1093377,Recharge_Bills,Dth,Successful,Successful,2024-12-14
+RCG_C6AB1411FE96,1977.05,PP0030128,Recharge_Bills,Dth,Successful,Successful,2024-11-15
+RCG_11B298C49495,81.24,PP0021081,Recharge_Bills,Dth,Successful,Successful,2024-04-02
+RCG_39262D6F795A,1455.0,PP0007516,Recharge_Bills,Cable Tv,Successful,Successful,2024-04-22
+RCG_1447F00F9425,1014.3,PP0036738,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-11-23
+RCG_3FD12C6F2585,1520.03,PP1096380,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-07-09
+RCG_F28823144989,676.28,PP0041579,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-05-25
+RCG_33F3D062CD8B,530.82,PP1101557,Recharge_Bills,Dth,Successful,Successful,2024-12-14
+RCG_832A37907241,1862.65,PP1068689,Recharge_Bills,Fastag Recharge,Failed,Wrong PIN,2024-08-15
+RCG_647B8869E9A9,1511.13,PP1084469,Recharge_Bills,Cable Tv,Successful,Successful,2024-06-07
+RCG_092BFFF115BE,1986.77,PP0037867,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-12-24
+RCG_30427093F5A1,878.71,PP0031603,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-09-07
+RCG_54D4235E2457,588.27,PP1105435,Recharge_Bills,Cable Tv,Successful,Successful,2024-05-03
+RCG_421B3C29168F,1458.86,PP1079875,Recharge_Bills,Fastag Recharge ,Successful,Successful,2024-09-30
+RCG_B7838A2900E5,372.61,PP0031255,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-11-15
+RCG_82E9990083E3,551.27,PP0027595,Recharge_Bills,Cable Tv,Successful,Successful,2024-04-27
+RCG_9046851CA41A,271.4,Unknown,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-10-10
+RCG_A33BA746D0B8,1607.24,PP1100066,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-12-03
+RCG_022FDE8D221F,366.65,PP0040370,Recharge_Bills,Dth,Successful,Successful,2024-06-25
+RCG_8287B6789DF3,1464.55,PP1064631,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-04-15
+RCG_9D0BB38EBB19,1335.26,Unknown,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-03-25
+RCG_48598B11401A,1119.05,PP1064905,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-09-29
+RCG_1CC6D0C07678,854.16,PP1083381,Recharge_Bills,Mobile Recharge ,Successful,Successful,2024-03-09
+RCG_339C5EB998AE,740.31,PP1090945,Recharge_Bills,Cable Tv,Successful,Successful,2024-05-14
+RCG_10C277EEBD71,1704.84,PP0045965,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-08-08
+RCG_9277B5A4B161,1835.03,PP0021604,Recharge_Bills,Dth,Successful,Successful,2024-06-04
+RCG_FC1FEB7B57DC,1347.29,PP1099173,Recharge_Bills,Cable Tv,Successful,Successful,2024-06-25
+RCG_5375C754DEA0,541.61,PP0034013,Recharge_Bills,Dth,Successful,Successful,2024-09-06
+RCG_D205EBCBBFA2,722.14,PP1063259,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-12-02
+RCG_2C7591F5513B,1556.87,PP0013998,Recharge_Bills,Cable Tv,Successful,Successful,2024-08-12
+RCG_71D1704E69A0,394.13,PP0042158,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-04-23
+RCG_F534B3D437D2,270.03,PP1065867,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-07-28
+RCG_62A8C8187B46,133.72,PP0017903,Recharge_Bills,Mobile Recharge,Unknown,Wrong PIN,2024-03-04
+RCG_76D39F6F4EA0,1564.11,PP0010132,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-02-08
+RCG_D087A1457D9E,1758.66,PP1060780,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-07-03
+RCG_A6F718395A49,108.64,PP1092907,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-09-23
+RCG_5ADCC7FC1C01,1728.96,PP1054719,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-02-16
+RCG_C1C77BFE49B5,1741.62,PP0025296,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-10-17
+RCG_0AD1030F0E68,1994.17,PP0015267,Recharge_Bills,Mobile Recharge,Unknown,Successful,2024-10-30
+RCG_BA0A03A87A81,1257.55,PP1049418,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-01-19
+RCG_34794D767F78,1233.03,PP0011698,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-01-21
+RCG_0142DB1A9356,1833.92,PP0016411,Recharge_Bills,Cable Tv,Successful,Successful,2024-06-10
+RCG_ECEF05F42BD4,951.4,PP1061974,Recharge_Bills,Cable Tv,Successful,Successful,2024-03-19
+RCG_B62419133BF8,1207.59,PP0026398,Recharge_Bills,Cable Tv,Successful,Successful,2024-10-18
+RCG_033045A28131,1011.32,PP0001743,Recharge_Bills,Dth,Successful,Successful,2024-11-30
+RCG_1F8BF7930AE3,588.43,PP1083299,Recharge_Bills,Dth,Successful,Successful,2024-04-10
+RCG_447D4DE5DDF1,151.64,Unknown,Recharge_Bills,Cable Tv,Successful,Successful,2024-01-03
+RCG_2EF47A9B14F1,741.64,PP1075386,Recharge_Bills,Cable Tv,Successful,Successful,2024-12-12
+RCG_EF016C8FB888,1973.24,PP1071161,Recharge_Bills,Cable Tv,Successful,Successful,2024-11-17
+RCG_489C23A41F8E,1014.3,PP1049965,Recharge_Bills,Dth,Unknown,Successful,2024-04-22
+RCG_49C397538517,1698.45,Unknown,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-04-02
+RCG_C25E40D61199,964.44,PP1068533,Recharge_Bills,Dth,Successful,Successful,2024-05-20
+RCG_4EED2A329E99,80.79,PP1101226,Recharge_Bills,Cable Tv,Successful,Successful,2024-03-04
+RCG_A3E72A26992D,1051.29,PP1098488,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-10-07
+RCG_D1B4DAC195D5,1888.15,PP1054163,Recharge_Bills,Cable Tv,Successful,Successful,2024-07-21
+RCG_9C762229C223,350.28,PP0017159,Recharge_Bills,Cable Tv,Unknown,Successful,2024-05-09
+RCG_98F574307935,1155.35,PP0037253,Recharge_Bills,Fastag Recharge,Unknown,Successful,2024-04-08
+RCG_DB1A3ADA025B,504.69,PP0022802,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-11-02
+RCG_3EB5D6A2A778,1639.03,PP0014374,Recharge_Bills,Dth,Successful,Successful,2024-01-10
+RCG_53D054E3390E,1365.69,PP0017214,Recharge_Bills,Cable Tv,Successful,Successful,2024-09-07
+RCG_4F20AADF3C48,599.02,PP1074110,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-12-26
+RCG_E3BE0AEF7363,1478.87,PP1090265,Recharge_Bills,Dth ,Successful,Successful,2024-01-19
+RCG_FD1523F638E6,1479.42,PP0016561,Recharge_Bills,Cable Tv,Successful,Successful,2024-09-19
+RCG_3383AD436279,1524.91,PP1102795,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-01-04
+RCG_E99C3B222875,240.96,PP1083315,Recharge_Bills,Dth,Successful,Successful,2024-08-02
+RCG_8E4B061766F7,422.37,PP1105839,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-03-12
+RCG_6FC14261CE0A,225.31,PP0021461,Recharge_Bills,Dth,Successful,Successful,2024-08-24
+RCG_1695AC7CA826,1014.3,PP1058124,Recharge_Bills,Fastag Recharge,Failed,Insufficient amount,2024-10-18
+RCG_19D46C6C08B7,1515.07,PP0015156,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-08-24
+RCG_FCD96AFB0248,886.48,Unknown,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-12-07
+RCG_57EBCC7B15AE,675.38,PP1085536,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-01-22
+RCG_888CC4669D50,380.96,PP1073743,Recharge_Bills,Cable Tv,Successful,Successful,2024-07-31
+RCG_9DD46F4E24BF,723.89,PP0025686,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-01-07
+RCG_676C48C5E5AF,258.2,PP1055640,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-02-10
+RCG_5B83A5334F0E,1215.69,PP1055807,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-09-17
+RCG_030F1D5BEB96,1320.66,PP1088823,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-03-06
+RCG_216A742B6A35,1891.59,PP1089613,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-07-10
+RCG_9E540E2E1CA7,1578.42,PP1100758,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-11-11
+RCG_C3DBA9F25F81,1444.63,PP1107023,Recharge_Bills,Dth,Successful,Successful,2024-02-22
+RCG_1CABDAB2F1C2,397.67,PP0036278,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-10-06
+RCG_13156DBD4F6E,1014.3,PP0044339,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-01-09
+RCG_5D63EB2AAF73,786.47,PP0034551,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-08-28
+RCG_2D706761986E,1760.35,PP1063412,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-08-19
+RCG_5D7441006392,187.78,PP0035973,Recharge_Bills,Cable Tv,Successful,Successful,2024-10-19
+RCG_8FEDF27C1A4D,619.57,PP1092013,Recharge_Bills,Cable Tv,Successful,Successful,2024-10-11
+RCG_6A8B71B65EE5,822.62,PP0021790,Recharge_Bills,Cable Tv ,Successful,Successful,2024-09-04
+RCG_057C68C1D382,1845.27,PP1086689,Recharge_Bills,Dth,Successful,Successful,2024-05-09
+RCG_B1A794B397A4,1262.76,PP1102805,Recharge_Bills,Cable Tv,Successful,Successful,2024-07-16
+RCG_102CA100FF37,715.51,PP0024790,Recharge_Bills,Cable Tv,Successful,Successful,2024-04-01
+RCG_0454CDF3863E,1611.89,PP1096113,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-09-03
+RCG_2C6E4A0172F7,502.63,PP0009707,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-04-17
+RCG_970E196731A9,58.19,PP0009166,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-07-24
+RCG_C89F1B5C14AB,392.48,PP1096810,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-09-21
+RCG_100C6683AAF1,1188.8,PP1066357,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-04-16
+RCG_7B96A08A6475,1940.36,Unknown,Recharge_Bills,Dth,Successful,Successful,2024-09-17
+RCG_D2CC5392DF3C,583.04,PP0023368,Recharge_Bills,Dth,Successful,Successful,2024-08-18
+RCG_C1C9E6055D56,1886.44,PP0029259,Recharge_Bills,Mobile Recharge ,Successful,Successful,2024-03-29
+RCG_FA817CDB4075,945.05,PP0012433,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-07-13
+RCG_23E90BA5C877,1151.77,PP0048322,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-10-25
+RCG_638578906501,1139.03,PP0013377,Recharge_Bills,Cable Tv,Successful,Successful,2024-01-23
+RCG_4174E220ED23,444.07,PP0016328,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-10-30
+RCG_FEBE85930339,686.86,PP1104185,Recharge_Bills,Dth,Successful,Successful,2024-06-03
+RCG_FB63A41633D5,632.95,PP1072085,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-04-11
+RCG_00372C9EDBAE,57.57,PP1088726,Recharge_Bills,Cable Tv,Successful,Successful,2024-07-25
+RCG_F8AF3B25DEEC,1657.89,Unknown,Recharge_Bills,Cable Tv,Successful,Successful,2024-07-31
+RCG_9D5CFCA3E638,930.94,PP0032686,Recharge_Bills,Mobile Recharge ,Successful,Successful,2024-06-09
+RCG_5E553CDC3182,1077.61,PP1061607,Recharge_Bills,Cable Tv,Successful,Successful,2024-03-26
+RCG_78587E4755EB,1314.82,PP1081346,Recharge_Bills,Cable Tv,Successful,Successful,2024-07-07
+RCG_7F48534443BD,714.42,PP0017786,Recharge_Bills,Dth,Successful,Successful,2024-03-01
+RCG_B2C25D199A0D,337.5,PP1097321,Recharge_Bills,Dth,Successful,Successful,2024-03-10
+RCG_C3285EE648B3,50.27,PP1057590,Recharge_Bills,Dth,Successful,Successful,2024-12-14
+RCG_38A3DD1D0DB6,359.81,PP1063160,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-08-16
+RCG_63A27F9870A3,1316.2,Unknown,Recharge_Bills,Dth ,Successful,Successful,2024-07-09
+RCG_6753FB33770B,829.96,PP1079351,Recharge_Bills,Cable Tv,Successful,Successful,2024-07-16
+RCG_3630C8E62F87,1250.27,PP0009925,Recharge_Bills,Mobile Recharge,Failed,Server error,2024-12-01
+RCG_BCBFE35B3BBB,258.13,PP0011613,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-03-16
+RCG_69FF91948D19,1909.56,PP1081431,Recharge_Bills,Cable Tv,Successful,Successful,2024-02-09
+RCG_61D289806BD1,1574.09,PP1087342,Recharge_Bills,Cable Tv,Successful,Successful,2024-08-10
+RCG_66C9ECC05204,27.19,PP0027796,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-01-11
+RCG_3908EACA7BA8,1905.29,PP0037826,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-04-28
+RCG_53CA6405E7B5,1958.73,PP1059423,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-08-31
+RCG_BB63AE4B181E,1982.79,PP1078499,Recharge_Bills,Cable Tv,Failed,Insufficient amount,2024-07-21
+RCG_AB66C60AA076,988.3,PP1056230,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-06-15
+RCG_10C3D2455531,797.83,PP1085243,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-05-21
+RCG_3B0DDC2015FD,1317.97,PP0004206,Recharge_Bills,Cable Tv,Successful,Successful,2024-10-27
+RCG_2AB9C65C2C92,1501.14,PP1096128,Recharge_Bills,Dth,Successful,Successful,2024-03-06
+RCG_FC87BDCCEBD1,596.5,PP0018629,Recharge_Bills,Dth,Successful,Successful,2024-10-20
+RCG_8EBB186F845E,1686.04,PP1064080,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-02-17
+RCG_689BF576AE45,993.09,PP0021813,Recharge_Bills,Cable Tv,Successful,Successful,2024-01-10
+RCG_99A10523C45A,486.78,PP0020439,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-07-13
+RCG_19E0D41AFA92,232.03,PP1088035,Recharge_Bills,Cable Tv,Successful,Unknown,2024-11-07
+RCG_4ACB49E31CBA,1734.15,PP1068780,Recharge_Bills,Cable Tv,Successful,Successful,2024-09-30
+RCG_A12DF4BAD49C,1356.64,PP1089344,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-02-18
+RCG_4BFF90E18CCE,557.28,PP1081934,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-03-16
+RCG_F4C0B870E982,1627.12,PP0024458,Recharge_Bills,Cable Tv,Successful,Successful,2024-09-17
+RCG_8426CC10D571,1406.29,PP1073434,Recharge_Bills,Fastag Recharge,Failed,Wrong PIN,2024-10-15
+RCG_1F22649964F5,320.99,PP0004336,Recharge_Bills,Cable Tv,Successful,Successful,2024-12-10
+RCG_0A6E875A0E60,933.0,PP0042281,Recharge_Bills,Dth,Successful,Successful,2024-09-18
+RCG_54E69424130C,393.51,PP0045348,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-09-05
+RCG_2DFAD4C7F467,113.47,PP0016474,Recharge_Bills,Fastag Recharge,Successful,Unknown,2024-09-22
+RCG_EE779B461D51,1334.78,PP1062703,Recharge_Bills,Cable Tv,Successful,Successful,2024-07-16
+RCG_D70065385D51,364.06,PP1071549,Recharge_Bills,Dth,Successful,Successful,2024-05-06
+RCG_FBCD891AD7BC,349.4,PP0026180,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-12-15
+RCG_CB0050F2939F,1242.48,PP0009965,Recharge_Bills,Cable Tv,Successful,Successful,2024-09-17
+RCG_B259A4A2E513,781.02,PP0019205,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-11-18
+RCG_66715858D192,571.1,PP1076530,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-06-03
+RCG_1E3E1C2FB001,748.39,PP1089983,Recharge_Bills,Cable Tv,Successful,Successful,2024-06-16
+RCG_F01AC6A89CF3,1662.05,PP0038121,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-03-27
+RCG_7FB4012300D0,141.74,PP1105181,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-12-08
+RCG_6A82779836EF,848.89,PP0048822,Recharge_Bills,Cable Tv,Successful,Successful,2024-11-03
+RCG_1CD8DD237A55,1086.34,PP1066325,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-06-04
+RCG_039FAD448785,445.44,PP1086592,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-01-31
+RCG_2906FD6F0554,1215.06,PP1094083,Recharge_Bills,Cable Tv,Successful,Successful,2024-05-15
+RCG_6F590E90938C,500.67,PP0006743,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-09-06
+RCG_D6AE62C2D20C,378.88,PP0039490,Recharge_Bills,Dth,Successful,Successful,2024-05-21
+RCG_DBF80277870A,711.21,PP0024351,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-03-31
+RCG_9D825DED551A,1449.88,PP1079303,Recharge_Bills,Dth,Successful,Successful,2024-09-14
+RCG_545FA9CAD132,425.35,PP1051293,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-01-16
+RCG_C286ABC9A56F,791.67,PP1085212,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-10-24
+RCG_6CC2C7606911,1429.29,PP0002600,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-08-16
+RCG_49ABBEEC5B31,770.86,PP0037798,Recharge_Bills,Cable Tv,Unknown,Successful,2024-09-28
+RCG_E06B676B2BC9,1916.02,PP1084178,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-11-01
+RCG_2561BDE28541,1701.12,PP0001185,Recharge_Bills,Cable Tv,Successful,Successful,2024-11-24
+RCG_688D17F72B7D,1780.81,PP1102769,Recharge_Bills,Dth,Successful,Successful,2024-02-04
+RCG_09C8696D1EF5,783.83,Unknown,Recharge_Bills,Cable Tv ,Successful,Successful,2024-02-24
+RCG_CE52BC456E17,814.08,PP0031280,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-03-30
+RCG_6B47D3499B25,1000.18,PP0018708,Recharge_Bills,Mobile Recharge,Failed,Server error,2024-02-17
+RCG_6C3AEA17AE6E,685.31,PP0022431,Recharge_Bills,Dth,Successful,Successful,2024-06-18
+RCG_5A7841272D8B,245.47,Unknown,Recharge_Bills,Dth,Successful,Successful,2024-12-30
+RCG_0DB51E311CC5,515.51,PP1094049,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-10-23
+RCG_3B914E57D56D,1296.55,PP1075000,Recharge_Bills,Cable Tv,Successful,Successful,2024-01-19
+RCG_5306BF26F1F9,1858.62,PP1049720,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-09-07
+RCG_F1842E4E2691,1269.36,PP0022548,Recharge_Bills,Cable Tv,Successful,Unknown,2024-03-18
+RCG_21559B7874BF,835.23,PP0023608,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-04-01
+RCG_A97B95E3D7F7,1380.53,PP1054967,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-04-18
+RCG_8678099FD7E4,1667.68,PP1053866,Recharge_Bills,Dth,Successful,Successful,2024-08-12
+RCG_C82B37FDEFDD,1889.75,PP1099675,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-09-30
+RCG_DE8D76E8A251,1884.53,PP1052823,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-08-09
+RCG_075E1298FB42,1539.35,PP0044012,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-03-03
+RCG_0C7036392318,1049.54,PP1065968,Recharge_Bills,Mobile Recharge,Unknown,Successful,2024-03-01
+RCG_A997F8C584B2,519.03,PP0034089,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-09-11
+RCG_E6BA7BEBECD2,160.19,PP0012608,Recharge_Bills,Dth,Successful,Successful,2024-02-06
+RCG_DC5C0DCB3E33,1692.92,PP0049822,Recharge_Bills,Cable Tv,Successful,Successful,2024-05-09
+RCG_4EBE7BF6215D,1273.92,PP0006707,Recharge_Bills,Cable Tv,Successful,Successful,2024-06-12
+RCG_AB6A14C26FF3,287.79,PP0005785,Recharge_Bills,Dth,Successful,Successful,2024-05-20
+RCG_B88C954A5B63,1299.77,PP1099131,Recharge_Bills,Dth,Successful,Successful,2024-02-16
+RCG_70CD0429B295,1569.79,PP0047103,Recharge_Bills,Cable Tv,Successful,Successful,2024-11-06
+RCG_BA8070E80E5A,741.13,PP0016908,Recharge_Bills,Mobile Recharge,Successful,Unknown,2024-08-06
+RCG_498705AC243C,579.69,Unknown,Recharge_Bills,Fastag Recharge ,Successful,Successful,2024-09-21
+RCG_CBE20464F017,511.69,PP0009391,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-11-14
+RCG_E573327D9AF4,1014.3,PP0040907,Recharge_Bills,Cable Tv,Successful,Successful,2024-07-10
+RCG_E840DBF93057,101.72,PP0008185,Recharge_Bills,Cable Tv,Successful,Successful,2024-03-26
+RCG_788E113951EE,472.03,PP0012363,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-10-17
+RCG_4C556B17EB1A,1393.81,PP1077263,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-01-03
+RCG_2FB0FB3914AF,1147.23,PP1090776,Recharge_Bills,Fastag Recharge,Failed,Insufficient amount,2024-09-04
+RCG_0422CC813790,406.0,PP0015044,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-10-31
+RCG_8CC558DFF91A,987.3,PP1095676,Recharge_Bills,Dth,Successful,Unknown,2024-04-27
+RCG_E9C8ABAB44AF,1214.3,PP0045702,Recharge_Bills,Dth,Successful,Successful,2024-03-29
+RCG_9BD0A1A13465,569.81,PP1100008,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-09-05
+RCG_5C9542D73F0E,159.33,PP1095056,Recharge_Bills,Dth,Successful,Successful,2024-01-01
+RCG_8E2222B529DE,1329.98,PP0006688,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-10-01
+RCG_A411C8992D47,776.33,PP1073090,Recharge_Bills,Cable Tv,Successful,Successful,2024-12-07
+RCG_6227830FE89F,48.24,PP1089929,Recharge_Bills,Cable Tv,Successful,Successful,2024-07-07
+RCG_CCDB313C05A3,400.04,PP1059508,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-09-28
+RCG_553DCAF52A43,92.54,PP1101339,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-10-09
+RCG_096D8F67A542,1410.72,PP0048476,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-04-09
+RCG_F0200DE8A0F5,1046.09,Unknown,Recharge_Bills,Dth,Successful,Successful,2024-01-23
+RCG_8AC2F61D97E1,403.92,PP1075507,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-01-17
+RCG_325D6828E8B5,1773.01,PP1094283,Recharge_Bills,Mobile Recharge,Successful,Unknown,2024-12-15
+RCG_260827E05C9E,154.08,PP1073617,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-10-12
+RCG_59207C2A707E,905.16,PP0037811,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-04-02
+RCG_25739086E118,1580.12,PP0002578,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-06-07
+RCG_4653DD4D7A58,67.52,PP1103444,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-04-22
+RCG_C38C3DF6D103,1177.11,PP1078200,Recharge_Bills,Cable Tv,Successful,Successful,2024-11-09
+RCG_BFE12C867FB8,1602.22,Unknown,Recharge_Bills,Cable Tv ,Successful,Successful,2024-12-10
+RCG_ED42B599901E,778.98,PP0008577,Recharge_Bills,Cable Tv,Successful,Successful,2024-04-08
+RCG_93F99ACB0866,56.58,PP0029858,Recharge_Bills,Cable Tv,Successful,Successful,2024-06-05
+RCG_60E114788EB4,1742.6,PP0015539,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-01-07
+RCG_E5EC64AFB607,330.21,PP0049865,Recharge_Bills,Dth,Successful,Successful,2024-04-12
+RCG_A18627D9372E,183.85,PP1054042,Recharge_Bills,Dth,Successful,Successful,2024-02-22
+RCG_85E2CA863AED,1973.0,PP0035689,Recharge_Bills,Cable Tv,Successful,Successful,2024-10-19
+RCG_499A98D6F101,751.73,PP0003196,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-09-10
+RCG_A82D4B68CBEF,1806.71,PP1101468,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-06-20
+RCG_F265473AB825,798.8,PP0033128,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-06-27
+RCG_03EE64F0E370,1915.03,PP1096798,Recharge_Bills,Cable Tv,Successful,Successful,2024-02-24
+RCG_CB955C31FE81,1615.24,PP1066407,Recharge_Bills,Dth,Successful,Successful,2024-11-28
+RCG_03420CC1799E,456.32,PP1065379,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-04-12
+RCG_857C6E601FE3,1858.24,PP0016959,Recharge_Bills,Dth,Successful,Successful,2024-06-06
+RCG_83A4A80E180E,1268.92,PP0027988,Recharge_Bills,Cable Tv,Successful,Successful,2024-01-20
+RCG_14B7C90E3046,349.3,PP0002041,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-12-17
+RCG_0517373A1700,947.47,PP0032035,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-01-22
+RCG_B7A613362B88,758.5,PP1062607,Recharge_Bills,Dth,Failed,Server error,2024-03-28
+RCG_5C5D1701D0B7,1436.51,PP0037063,Recharge_Bills,Dth,Successful,Successful,2024-02-04
+RCG_7440D9099395,59.87,PP1070375,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-12-12
+RCG_3334ECD1CA29,859.08,PP1068825,Recharge_Bills,Cable Tv,Successful,Successful,2024-09-08
+RCG_620DE92B9084,47.83,PP0014561,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-02-01
+RCG_70369DE23DE9,941.74,PP1088290,Recharge_Bills,Dth,Successful,Successful,2024-04-26
+RCG_F139109F3BDD,875.82,PP1076771,Recharge_Bills,Dth,Successful,Successful,2024-06-24
+RCG_21F25A10E0E2,276.12,PP0006448,Recharge_Bills,Mobile Recharge,Failed,Server error,2024-08-02
+RCG_C7650A8B5981,542.6,PP1058933,Recharge_Bills,Fastag Recharge,Unknown,Successful,2024-10-31
+RCG_C70B0A334A2F,277.34,PP1050347,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-12-26
+RCG_E51A35E1599B,1620.1,PP0048969,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-10-23
+RCG_D8A2B50D0373,1626.38,PP0020310,Recharge_Bills,Dth,Successful,Successful,2024-08-30
+RCG_391DE3FE06DD,164.39,PP1102527,Recharge_Bills,Mobile Recharge ,Successful,Successful,2024-07-15
+RCG_3533FC6F22B0,1087.01,PP0030991,Recharge_Bills,Cable Tv,Successful,Successful,2024-05-08
+RCG_2163E52B7D9D,1239.52,PP1069706,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-10-06
+RCG_A5691714003D,111.07,PP1087291,Recharge_Bills,Cable Tv,Successful,Successful,2024-02-21
+RCG_0769DF379FBE,678.41,PP1091659,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-07-10
+RCG_519C17030593,1409.95,PP0007719,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-05-09
+RCG_492766DE05EF,1578.15,PP0002381,Recharge_Bills,Dth,Successful,Successful,2024-12-04
+RCG_B5DC19B321A8,648.39,PP1053891,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-04-14
+RCG_A97BB2B3E7B6,1010.04,PP1099119,Recharge_Bills,Mobile Recharge,Failed,Server error,2024-08-29
+RCG_E4F7CA448A5F,1932.09,PP0006531,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-04-26
+RCG_6FF39D424B32,1628.27,PP1069527,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-11-28
+RCG_7214A21CBA7A,1532.26,PP1080519,Recharge_Bills,Cable Tv,Successful,Successful,2024-12-03
+RCG_89503CB39B0E,1105.89,PP0021983,Recharge_Bills,Cable Tv,Unknown,Successful,2024-06-16
+RCG_C2FA303CD12C,874.39,PP1052772,Recharge_Bills,Cable Tv,Successful,Successful,2024-03-18
+RCG_B493FADADEC3,736.03,PP1053002,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-09-02
+RCG_4E1F432F26CF,469.75,PP1100337,Recharge_Bills,Cable Tv,Successful,Successful,2024-07-11
+RCG_E49F9DD601D6,1497.64,Unknown,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-11-15
+RCG_3B89F5E56960,103.5,PP1099616,Recharge_Bills,Dth,Successful,Unknown,2024-03-11
+RCG_9DF7DF8CEA93,1609.82,PP1078998,Recharge_Bills,Dth,Successful,Successful,2024-11-30
+RCG_BF1C121546F3,1091.13,PP0028523,Recharge_Bills,Dth,Failed,Insufficient amount,2024-09-02
+RCG_7B78F773D6BA,308.7,PP0003408,Recharge_Bills,Dth,Successful,Successful,2024-09-29
+RCG_ED5B594E47AD,1016.17,PP0015454,Recharge_Bills,Cable Tv,Successful,Successful,2024-08-04
+RCG_30F082A0D522,174.63,PP1064296,Recharge_Bills,Cable Tv,Successful,Successful,2024-02-12
+RCG_3CB978F8B176,88.68,PP0037107,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-07-29
+RCG_6E694E50F81D,505.94,PP0020346,Recharge_Bills,Cable Tv,Unknown,Successful,2024-10-25
+RCG_EBEACB3CEB25,248.95,PP0007883,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-05-10
+RCG_10057715C467,1576.34,PP0045767,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-03-31
+RCG_741E2F0D42B0,1014.3,PP0043695,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-08-19
+RCG_C480C6F6A931,1247.91,PP0004261,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-02-05
+RCG_F09306E00BCA,1418.43,PP1050512,Recharge_Bills,Cable Tv,Successful,Successful,2024-11-30
+RCG_33E61D5EBAC7,517.98,PP0004417,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-01-27
+RCG_7B5365295E1A,1125.58,PP1101996,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-06-12
+RCG_AB3D248BD76B,1363.94,PP1107563,Recharge_Bills,Dth,Successful,Successful,2024-03-17
+RCG_7F04C94D4163,1735.71,PP0013981,Recharge_Bills,Dth,Successful,Successful,2024-06-02
+RCG_6D17C858409D,1890.68,PP1058215,Recharge_Bills,Cable Tv,Successful,Successful,2024-02-17
+RCG_271F70D641D1,271.29,PP0011939,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-09-30
+RCG_AAE38B9D36E1,114.6,PP1092620,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-12-17
+RCG_B880D2FE3EA9,192.79,PP0045225,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-04-04
+RCG_6BB7FBD042AE,1537.06,PP0031743,Recharge_Bills,Mobile Recharge,Unknown,Successful,2024-12-04
+RCG_389FDC68A7C5,618.13,PP0011879,Recharge_Bills,Dth,Unknown,Successful,2024-05-23
+RCG_DCA9A228BE96,166.15,PP1103422,Recharge_Bills,Cable Tv,Successful,Successful,2024-04-19
+RCG_CEB58DA3BCD6,1140.29,PP1076798,Recharge_Bills,Dth,Successful,Successful,2024-01-14
+RCG_1BD9437DC28A,1350.15,PP0010636,Recharge_Bills,Mobile Recharge,Unknown,Successful,2024-05-21
+RCG_6815C5BA8FE3,320.62,PP1107101,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-09-05
+RCG_DCE26FACBCF0,1982.57,PP1079022,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-12-18
+RCG_4ED8E27289EE,1228.3,PP1070972,Recharge_Bills,Dth,Successful,Successful,2024-07-10
+RCG_C61829056496,797.69,PP0037146,Recharge_Bills,Dth ,Successful,Successful,2024-10-10
+RCG_550CB4F6089F,888.72,PP0006757,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-12-08
+RCG_6005C43D9025,1014.3,PP1066309,Recharge_Bills,Cable Tv,Successful,Successful,2024-04-05
+RCG_7B76585C3DF8,338.1,PP0032399,Recharge_Bills,Dth,Successful,Successful,2024-10-04
+RCG_442E9D90FD97,1023.86,PP1075602,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-06-22
+RCG_2D26CA2767ED,1706.24,PP0031517,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-01-18
+RCG_8D046D961463,1271.13,PP1098872,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-12-20
+RCG_54E3B8F5BCB5,1014.3,PP1080264,Recharge_Bills,Cable Tv,Successful,Successful,2024-11-10
+RCG_7E9D64CE1084,1369.71,PP0011108,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-05-30
+RCG_D825C159AC34,1014.3,PP0035271,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-06-05
+RCG_F7A868C2BD3A,1540.91,PP0035878,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-04-27
+RCG_920F05615298,1014.3,PP1092166,Recharge_Bills,Dth,Successful,Successful,2024-07-14
+RCG_A45AD8190B52,91.88,PP0012272,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-03-17
+RCG_F66F30634D93,1529.05,PP0020084,Recharge_Bills,Cable Tv,Successful,Successful,2024-05-24
+RCG_B3BF9E89B0AB,1454.78,PP1072257,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-01-06
+RCG_8060A6901111,1647.7,PP1055402,Recharge_Bills,Dth,Successful,Successful,2024-06-28
+RCG_9837CB245873,1607.25,PP1106672,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-10-18
+RCG_3970CACE0063,1815.89,PP1104931,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-11-05
+RCG_726E4BCF3490,178.32,PP0018367,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-05-11
+RCG_886CC52B76CF,1834.01,PP0026526,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-10-31
+RCG_933997367CFF,809.75,PP0004712,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-05-05
+RCG_26029545499D,228.35,PP0033909,Recharge_Bills,Dth,Successful,Successful,2024-02-03
+RCG_BA43B4552E8A,825.78,PP0023355,Recharge_Bills,Dth,Successful,Successful,2024-05-14
+RCG_A74111FA7D28,496.52,PP0011511,Recharge_Bills,Dth,Successful,Successful,2024-02-16
+RCG_56B176E714D6,1992.77,Unknown,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-08-25
+RCG_B00780999064,1212.72,PP0039907,Recharge_Bills,Cable Tv,Successful,Successful,2024-11-06
+RCG_82D1B62E0ADF,1615.81,PP0005113,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-03-27
+RCG_B1E3EBAB001F,1162.79,PP0001073,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-08-14
+RCG_1E561CA75361,1899.53,PP1080164,Recharge_Bills,Cable Tv,Successful,Successful,2024-01-16
+RCG_0C8DD70797F4,164.28,PP0037944,Recharge_Bills,Dth,Successful,Successful,2024-03-05
+RCG_856E956DF3EA,339.7,Unknown,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-06-29
+RCG_10F0DA0723D2,1885.55,PP1088708,Recharge_Bills,Cable Tv,Successful,Successful,2024-04-07
+RCG_C9954F3A91A2,510.63,PP0040142,Recharge_Bills,Dth,Successful,Successful,2024-02-11
+RCG_553F1FE22B7F,656.54,PP1067447,Recharge_Bills,Cable Tv,Successful,Successful,2024-09-19
+RCG_FC1730EB53CA,1792.26,PP1051034,Recharge_Bills,Cable Tv,Successful,Successful,2024-11-20
+RCG_B17725245B6D,1417.14,PP0027420,Recharge_Bills,Dth,Successful,Successful,2024-11-02
+RCG_5CB305651B6A,510.58,PP1101701,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-09-11
+RCG_A82EDAD5CC15,890.23,PP1055780,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-10-04
+RCG_3FF1B822F692,1031.68,PP0015567,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-02-03
+RCG_2CA0DFC947A0,1080.79,PP1099932,Recharge_Bills,Dth,Successful,Successful,2024-07-01
+RCG_14B08D8761EC,280.17,PP0000226,Recharge_Bills,Dth,Successful,Successful,2024-04-26
+RCG_90601F49924B,188.71,PP0007320,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-07-30
+RCG_7582958DA28F,966.28,PP0019030,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-10-17
+RCG_A84F7B454FEC,1874.6,PP1093444,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-10-05
+RCG_12092E253433,964.5,PP0009076,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-04-19
+RCG_E94AB76154F2,756.23,PP1085984,Recharge_Bills,Dth,Successful,Successful,2024-05-17
+RCG_2D8FD36338E0,1334.9,PP0044063,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-01-22
+RCG_D8FE23155A02,1437.13,PP1079161,Recharge_Bills,Mobile Recharge,Successful,Unknown,2024-02-21
+RCG_F70809BDE326,304.07,PP1084995,Recharge_Bills,Dth,Successful,Successful,2024-10-07
+RCG_5C2B498EE5BE,516.77,PP1102423,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-10-15
+RCG_4F4D475D4637,647.07,PP1073094,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-08-17
+RCG_EA586C729128,1522.23,PP1090154,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-09-04
+RCG_EFECCC53766A,815.63,PP1068601,Recharge_Bills,Dth,Successful,Successful,2024-12-28
+RCG_4C60E97D6110,1002.33,PP0030699,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-01-24
+RCG_4180C5CA4CE3,1878.45,PP1081716,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-09-12
+RCG_9BEEDA78AF1C,1059.69,PP1080126,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-06-10
+RCG_92F4233A579F,1094.03,PP1074983,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-06-06
+RCG_1E14714CCC35,1607.58,PP0004891,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-02-24
+RCG_C822E27F0270,1912.26,PP0001843,Recharge_Bills,Dth,Successful,Unknown,2024-01-08
+RCG_AFC7598489C4,1270.9,PP0005331,Recharge_Bills,Dth,Successful,Successful,2024-08-26
+RCG_3F561BB0F9FC,912.78,PP1102158,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-06-23
+RCG_47D23F9AD2D7,1168.94,PP1085853,Recharge_Bills,Mobile Recharge,Unknown,Successful,2024-07-11
+RCG_8EBD2D54BC54,773.92,PP1081568,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-05-22
+RCG_7A506267F51C,121.37,PP1080680,Recharge_Bills,Fastag Recharge ,Successful,Successful,2024-05-31
+RCG_4C2BD1FAB474,1060.65,PP1103059,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-08-12
+RCG_69A1CD1AD2BE,1035.84,PP1071411,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-09-21
+RCG_338D0E3FAD67,1558.74,PP0002184,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-02-29
+RCG_8B8DCF194A24,1346.64,PP1071189,Recharge_Bills,Dth,Successful,Successful,2024-10-29
+RCG_E9B2862E42F1,1097.61,PP1082671,Recharge_Bills,Mobile Recharge,Failed,Insufficient amount,2024-12-12
+RCG_E4D8F754DB76,384.18,PP1069591,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-09-18
+RCG_CC92E76A5C30,1158.8,PP1087294,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-10-19
+RCG_83DE305B9180,618.52,PP1087699,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-05-12
+RCG_6B7B8E0897D2,570.68,PP0020000,Recharge_Bills,Cable Tv,Successful,Successful,2024-09-14
+RCG_98EB3690927A,170.24,PP1050088,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-11-06
+RCG_2715D10D5AE9,272.46,PP1054706,Recharge_Bills,Cable Tv,Successful,Successful,2024-01-08
+RCG_3D6147B9F4D6,1577.18,PP1062900,Recharge_Bills,Cable Tv,Successful,Successful,2024-03-19
+RCG_71194E41A9C6,753.11,Unknown,Recharge_Bills,Dth,Successful,Successful,2024-10-22
+RCG_7D1553E0BDB7,346.95,PP1051570,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-08-15
+RCG_8B0B4E654C0D,1747.24,PP1079533,Recharge_Bills,Cable Tv,Successful,Successful,2024-11-26
+RCG_9F3BB7AE2770,603.19,PP1072500,Recharge_Bills,Dth,Successful,Successful,2024-04-15
+RCG_E392F6AA90F4,506.6,PP1052014,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-03-20
+RCG_89690E054A69,1014.3,PP0045426,Recharge_Bills,Dth,Successful,Successful,2024-04-30
+RCG_D4FC7F8B93C5,147.67,PP0019085,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-12-24
+RCG_E0BDAF6695D7,1836.91,PP0027368,Recharge_Bills,Dth,Successful,Successful,2024-10-22
+RCG_64B6A39FA402,534.92,PP1083761,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-08-30
+RCG_647510D6E801,1930.5,PP1090662,Recharge_Bills,Cable Tv,Successful,Successful,2024-10-21
+RCG_6A9AF8BB5FF3,1426.25,PP0017290,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-01-30
+RCG_73277C79BFFC,93.78,PP0014505,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-01-25
+RCG_F7FD3DF3A726,1763.33,PP0019224,Recharge_Bills,Mobile Recharge,Successful,Unknown,2024-04-02
+RCG_4A04B8A9ABF0,1367.49,Unknown,Recharge_Bills,Cable Tv,Successful,Unknown,2024-05-10
+RCG_CFCBFD9AE60E,184.11,PP1077745,Recharge_Bills,Dth,Successful,Successful,2024-10-07
+RCG_54E51A155350,690.67,PP1088907,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-06-09
+RCG_6B083DA055DE,21.01,PP0012987,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-06-30
+RCG_31A28DD1DF92,1555.54,PP1081548,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-12-08
+RCG_C110A49E0C18,92.75,PP1052994,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-06-09
+RCG_E7A817AA6E16,585.16,PP0039815,Recharge_Bills,Dth,Successful,Successful,2024-07-09
+RCG_58D99A4F3CF6,243.67,PP1096153,Recharge_Bills,Fastag Recharge,Successful,Unknown,2024-06-12
+RCG_75A056F27CC1,1192.31,PP1060219,Recharge_Bills,Cable Tv,Successful,Successful,2024-01-10
+RCG_CCD900108F88,820.38,PP1103605,Recharge_Bills,Cable Tv,Successful,Successful,2024-04-03
+RCG_1B4F7DE9A3FF,226.69,PP0046961,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-07-20
+RCG_6ADF0925EE5A,227.86,PP0032117,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-06-17
+RCG_D6A9AFDBC749,479.63,PP0037701,Recharge_Bills,Cable Tv,Successful,Successful,2024-11-06
+RCG_22D70B70143E,1591.03,PP0042684,Recharge_Bills,Cable Tv,Successful,Successful,2024-01-03
+RCG_FB2191CC7CD4,1212.54,PP0038813,Recharge_Bills,Cable Tv,Successful,Successful,2024-03-26
+RCG_6CD251E67D4D,1701.72,PP0006867,Recharge_Bills,Cable Tv,Successful,Successful,2024-08-26
+RCG_07B85B680456,1764.33,PP0036651,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-02-20
+RCG_BBD0341BB77B,1616.55,PP0004515,Recharge_Bills,Dth,Successful,Successful,2024-04-14
+RCG_3408100AA56E,1143.52,PP1052754,Recharge_Bills,Cable Tv,Successful,Successful,2024-07-15
+RCG_D6AEA71990E3,222.4,PP0004055,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-05-16
+RCG_A9FE0BC21454,1891.96,PP1070057,Recharge_Bills,Cable Tv,Unknown,Successful,2024-12-04
+RCG_3AAC81F56341,154.02,PP0014677,Recharge_Bills,Cable Tv,Successful,Successful,2024-08-05
+RCG_0BE110067155,1014.3,Unknown,Recharge_Bills,Dth,Successful,Successful,2024-05-20
+RCG_5586BA24B526,1178.77,PP1100341,Recharge_Bills,Cable Tv,Unknown,Successful,2024-04-09
+RCG_4707D10A71ED,762.25,PP1092318,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-04-24
+RCG_D747EABF3064,1254.03,PP0004894,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-07-27
+RCG_CC9420520CD7,841.25,PP0026610,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-04-15
+RCG_18E6D008D9D7,1381.92,PP1064680,Recharge_Bills,Cable Tv,Successful,Successful,2024-02-13
+RCG_87EE39C06CCF,200.89,Unknown,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-07-28
+RCG_BE35091F9056,1245.71,PP0049282,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-01-03
+RCG_3BC93B864392,1325.86,PP1052005,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-11-17
+RCG_962BE4E80B7E,946.99,PP0047424,Recharge_Bills,Dth,Successful,Successful,2024-08-29
+RCG_79851749F058,1865.08,PP1069423,Recharge_Bills,Cable Tv,Successful,Successful,2024-02-27
+RCG_BF7CDF911E02,1854.24,PP0041338,Recharge_Bills,Dth,Successful,Successful,2024-01-20
+RCG_102B9405444A,521.54,PP1054887,Recharge_Bills,Dth,Successful,Successful,2024-12-14
+RCG_E0D78A19CD26,1668.6,PP1055081,Recharge_Bills,Cable Tv,Successful,Successful,2024-11-26
+RCG_07D01DBA6F4C,622.05,PP0023567,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-09-10
+RCG_B36383B47565,1608.94,PP0045730,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-06-28
+RCG_0D7D416DED33,1025.6,PP1063653,Recharge_Bills,Dth,Successful,Successful,2024-08-22
+RCG_C926CF1884ED,827.85,PP1055583,Recharge_Bills,Cable Tv,Successful,Successful,2024-11-25
+RCG_47B7FCB6F92C,61.17,PP0005172,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-05-01
+RCG_C55AF096BFA7,1692.74,PP1086391,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-06-24
+RCG_8C5EAA096A8E,983.19,PP1102226,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-03-09
+RCG_FC6AABD122A9,1504.48,PP0009165,Recharge_Bills,Dth,Successful,Successful,2024-03-02
+RCG_606CDDCD41DF,178.26,PP1075318,Recharge_Bills,Cable Tv,Successful,Successful,2024-04-11
+RCG_180FC3E714BD,1642.11,PP1061499,Recharge_Bills,Dth,Successful,Successful,2024-11-04
+RCG_40B02FFBDBD0,658.74,PP0033220,Recharge_Bills,Dth,Unknown,Successful,2024-08-16
+RCG_A9C2E2271D7B,364.58,PP1057988,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-09-05
+RCG_D58DC5A313F4,1279.68,PP0045700,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-11-22
+RCG_545584797BEE,1886.89,PP1092323,Recharge_Bills,Dth,Unknown,Successful,2024-07-03
+RCG_796DB9F05CCC,1866.04,PP1053651,Recharge_Bills,Cable Tv,Successful,Successful,2024-02-17
+RCG_B1B0023BB141,588.62,PP1082671,Recharge_Bills,Dth,Successful,Successful,2024-12-26
+RCG_5B3BFB1ACF5E,460.07,PP1095834,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-11-05
+RCG_E49DF612A748,767.75,PP1096015,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-01-28
+RCG_CB807E67FB09,1959.18,PP1078788,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-11-22
+RCG_A90BF47CEECB,254.88,PP1106108,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-10-24
+RCG_7C73D7066AA7,1082.5,PP0002522,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-09-12
+RCG_79507BA3F747,887.62,PP0027169,Recharge_Bills,Cable Tv,Successful,Successful,2024-09-18
+RCG_D34432F2E921,113.17,PP1106557,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-01-18
+RCG_A855203D9495,70.66,PP0018682,Recharge_Bills,Fastag Recharge,Failed,Insufficient amount,2024-09-23
+RCG_2E11C4445CA7,950.05,PP0042453,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-05-28
+RCG_11FFD8DB853A,286.3,PP0040337,Recharge_Bills,Dth,Successful,Successful,2024-05-20
+RCG_65EEB9C7A907,1441.13,PP0003006,Recharge_Bills,Cable Tv,Successful,Successful,2024-02-09
+RCG_03937A965523,110.29,PP1089083,Recharge_Bills,Dth,Successful,Successful,2024-08-28
+RCG_7235983F7194,1790.55,PP0017166,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-11-16
+RCG_723C8712D476,1916.13,PP1060207,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-09-14
+RCG_4246462998ED,1450.37,PP0001431,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-06-01
+RCG_EE74F4173610,447.47,PP0049908,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-01-31
+RCG_58840354CB43,493.99,PP0003320,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-01-11
+RCG_5290878D34F5,1304.32,PP0028966,Recharge_Bills,Cable Tv,Successful,Successful,2024-02-18
+RCG_CAC50809C32B,1477.9,PP1073954,Recharge_Bills,Dth,Successful,Successful,2024-01-10
+RCG_7D9BC49F9EC3,1168.75,PP1107433,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-12-19
+RCG_C84B5DBC7A9C,465.46,PP1062928,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-01-26
+RCG_A7218BD78E8B,1840.01,PP1104805,Recharge_Bills,Cable Tv,Successful,Successful,2024-01-11
+RCG_C653F0A93B22,1036.17,PP1052255,Recharge_Bills,Dth,Successful,Successful,2024-09-15
+RCG_9AAD8C87051D,905.92,PP1065563,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-12-25
+RCG_31B5011C36A3,1177.29,PP1083243,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-09-17
+RCG_64FB84A8D3F9,1176.78,PP1057964,Recharge_Bills,Dth,Successful,Successful,2024-09-01
+RCG_662383413C33,761.52,PP0025364,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-10-02
+RCG_D0B4E402CEC8,227.83,PP1094945,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-06-17
+RCG_50C7C0893213,841.75,PP1055599,Recharge_Bills,Dth,Successful,Successful,2024-11-22
+RCG_B395D931CDD3,890.46,PP1098490,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-12-12
+RCG_8BE57A62939D,1311.48,PP1088127,Recharge_Bills,Dth,Successful,Successful,2024-08-20
+RCG_AE19BB21C7C1,1142.94,PP0006978,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-07-05
+RCG_190EB1379964,1505.33,PP1062134,Recharge_Bills,Cable Tv,Successful,Successful,2024-11-24
+RCG_70E1E170EFD1,1732.81,PP0021135,Recharge_Bills,Cable Tv,Successful,Successful,2024-02-12
+RCG_F63E4ABB1568,1978.36,PP0038191,Recharge_Bills,Mobile Recharge,Unknown,Successful,2024-12-20
+RCG_CCF977EC7AD2,1539.11,PP1066492,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-10-07
+RCG_FBA2B780AD87,510.14,PP0004794,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-11-06
+RCG_C210F4FD0B8C,1418.9,PP1095660,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-11-24
+RCG_DE5E679330AE,1304.72,PP0020097,Recharge_Bills,Cable Tv,Successful,Successful,2024-11-30
+RCG_87BDE5D3B9BF,1348.03,PP0034180,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-06-24
+RCG_5243120D9FE8,1988.81,PP1071064,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-09-27
+RCG_4705E0368AC5,1141.14,PP0016478,Recharge_Bills,Cable Tv,Successful,Successful,2024-01-09
+RCG_029A95CF7A3C,747.78,PP0001353,Recharge_Bills,Cable Tv,Successful,Successful,2024-10-24
+RCG_135F29A87E05,1691.94,PP0001171,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-10-14
+RCG_B7FF4D5D0BC5,1557.2,PP0015741,Recharge_Bills,Dth,Successful,Successful,2024-07-27
+RCG_2147B23B9863,474.78,PP1052711,Recharge_Bills,Cable Tv,Successful,Unknown,2024-07-22
+RCG_77735160ED51,507.88,PP1049129,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-12-23
+RCG_0FD18604560C,336.55,PP1097717,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-12-26
+RCG_0F65DBE73111,1722.64,PP0033355,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-03-31
+RCG_B2D3DA3FF923,902.62,PP1090421,Recharge_Bills,Cable Tv,Unknown,Successful,2024-11-13
+RCG_8295BC1D9D91,1388.75,PP1086783,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-10-02
+RCG_D10064878CF4,1095.21,PP1097977,Recharge_Bills,Cable Tv,Successful,Successful,2024-03-30
+RCG_640FFCAA074C,1899.35,PP0001165,Recharge_Bills,Dth,Successful,Successful,2024-02-03
+RCG_65196C021009,1189.12,PP1082266,Recharge_Bills,Dth,Successful,Successful,2024-07-23
+RCG_62B0D2C6E884,1369.13,PP0005563,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-06-06
+RCG_C978C1D5208D,77.78,PP1100011,Recharge_Bills,Cable Tv,Unknown,Successful,2024-01-23
+RCG_032905A37E80,85.79,PP1095442,Recharge_Bills,Mobile Recharge,Failed,Wrong PIN,2024-09-18
+RCG_6A535F2567F8,509.53,PP0028610,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-05-23
+RCG_D109DF6C53A7,1111.42,PP1057374,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-04-26
+RCG_2B2076A4C7ED,1722.58,PP0005978,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-04-05
+RCG_E80C6800E500,162.6,PP1107267,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-01-13
+RCG_BD079C20A5AD,1076.59,PP1093024,Recharge_Bills,Dth,Successful,Successful,2024-06-28
+RCG_35F39B580621,63.87,PP0013962,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-11-26
+RCG_4C928E092030,1564.08,PP0041160,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-04-25
+RCG_83471A227671,153.89,PP1107511,Recharge_Bills,Dth,Successful,Successful,2024-08-08
+RCG_03643CD585C1,777.41,PP0026325,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-05-03
+RCG_D976963AD05D,1906.28,PP0026911,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-06-03
+RCG_D176FAFB55F4,1932.34,PP1100325,Recharge_Bills,Cable Tv,Successful,Successful,2024-06-20
+RCG_46CAAF362E7A,1886.94,PP1075297,Recharge_Bills,Cable Tv,Successful,Successful,2024-01-22
+RCG_DACC6336F65B,1334.95,PP0039297,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-03-23
+RCG_B1B1117085D8,1754.34,PP1087501,Recharge_Bills,Cable Tv,Successful,Successful,2024-09-01
+RCG_7EBCCAC17BDF,1210.95,PP1067485,Recharge_Bills,Cable Tv,Successful,Successful,2024-07-22
+RCG_22B13E85F394,1160.52,PP1053799,Recharge_Bills,Mobile Recharge,Failed,Server error,2024-07-28
+RCG_2A1E058BF7BB,736.96,PP1070532,Recharge_Bills,Cable Tv,Successful,Successful,2024-10-20
+RCG_97C3625CFB13,1761.9,PP1080243,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-06-03
+RCG_8CAFF4B259D9,237.01,PP1064072,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-06-16
+RCG_B6F1E8F77E6F,788.01,PP1088733,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-10-11
+RCG_0B5E636614B4,1014.3,PP0001701,Recharge_Bills,Cable Tv,Successful,Successful,2024-04-04
+RCG_CFAB985FADCE,40.68,PP0037265,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-07-24
+RCG_CAD52E50C647,1145.77,Unknown,Recharge_Bills,Cable Tv,Successful,Successful,2024-09-21
+RCG_E2289C6C9A7E,539.57,PP1059322,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-10-07
+RCG_59B7BC0C8C0C,748.0,PP1050089,Recharge_Bills,Cable Tv,Successful,Successful,2024-08-07
+RCG_F98F7ADC8F2F,971.59,PP1067194,Recharge_Bills,Cable Tv ,Successful,Successful,2024-02-05
+RCG_656CCDB75652,1497.37,Unknown,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-04-22
+RCG_C41517DA82F2,1560.74,PP0015603,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-05-03
+RCG_7EC93F50C8AC,1375.37,PP1057233,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-01-20
+RCG_DC3FEBB8E3B6,1034.64,PP1099288,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-03-05
+RCG_E7E8BC652B17,887.26,PP0008953,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-08-17
+RCG_600CE9365B07,447.75,PP0036231,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-05-25
+RCG_3C0B20B62C71,657.46,PP1049591,Recharge_Bills,Cable Tv,Successful,Successful,2024-05-20
+RCG_DF0FA8FDDC14,1131.18,PP1100765,Recharge_Bills,Cable Tv,Successful,Successful,2024-08-31
+RCG_F08F0F92C488,349.86,PP0045633,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-12-29
+RCG_667418CAC09A,1589.28,PP0029069,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-04-17
+RCG_5214B0D3F928,1148.71,PP0019759,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-10-31
+RCG_F7AECC7EB917,462.24,PP0049111,Recharge_Bills,Cable Tv,Successful,Successful,2024-09-16
+RCG_1723FD87F72A,312.03,PP1062100,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-03-28
+RCG_39440DBAC019,1374.7,PP0005865,Recharge_Bills,Mobile Recharge,Successful,Unknown,2024-08-30
+RCG_4879B5781ED2,1441.02,PP0001173,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-12-19
+RCG_43C2AA6F27D2,1470.17,Unknown,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-06-29
+RCG_8AA49C40BAE2,26.12,PP1097072,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-06-23
+RCG_C4C47BA0BBFC,1665.44,PP1063750,Recharge_Bills,Dth,Successful,Successful,2024-05-08
+RCG_E2B84068D0E5,311.76,PP0036737,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-11-18
+RCG_A70A88AF3201,533.37,PP1079047,Recharge_Bills,Cable Tv,Successful,Successful,2024-05-22
+RCG_5A9D68A343C1,531.86,PP1080239,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-08-09
+RCG_91F9FBA662E4,939.49,PP1060391,Recharge_Bills,Dth,Successful,Successful,2024-07-19
+RCG_BA591080B856,1168.13,PP1051436,Recharge_Bills,Cable Tv,Successful,Successful,2024-01-12
+RCG_7B3055A68EBE,1335.43,PP1072556,Recharge_Bills,Cable Tv,Successful,Successful,2024-11-15
+RCG_A0409E46556F,425.79,PP1052389,Recharge_Bills,Dth,Successful,Successful,2024-12-02
+RCG_0DDE27F31191,1919.54,PP1059413,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-09-06
+RCG_09C9E8AABF60,735.41,PP1102881,Recharge_Bills,Dth,Successful,Successful,2024-05-12
+RCG_B8569A7BC60E,1642.54,PP1071737,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-04-03
+RCG_AF1ADD5493DD,553.03,PP0010630,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-11-22
+RCG_1250365454D9,1996.69,PP0015318,Recharge_Bills,Dth,Successful,Successful,2024-10-10
+RCG_776DDBBE05A8,1675.22,PP0013395,Recharge_Bills,Cable Tv,Successful,Successful,2024-04-04
+RCG_ADA1975E08F2,1992.24,PP0022595,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-07-28
+RCG_DF2D2E6F9C9A,1021.28,PP1100146,Recharge_Bills,Fastag Recharge,Unknown,Successful,2024-05-21
+RCG_F281A95421B5,486.49,PP1102427,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-05-12
+RCG_E32285BC6718,616.06,PP1080656,Recharge_Bills,Dth,Successful,Successful,2024-03-29
+RCG_D1183F911128,1948.34,PP0028871,Recharge_Bills,Cable Tv,Successful,Successful,2024-07-10
+RCG_A7B155B9AF3C,1572.87,PP0037974,Recharge_Bills,Dth,Successful,Successful,2024-01-11
+RCG_FCBCC5347FB2,1015.36,PP1056497,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-12-12
+RCG_C957D048C8C6,252.86,PP0037654,Recharge_Bills,Cable Tv,Successful,Successful,2024-03-22
+RCG_512293AE0028,693.3,PP0049148,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-04-19
+RCG_58C2C6C4AC77,728.88,PP1072117,Recharge_Bills,Cable Tv,Successful,Successful,2024-09-12
+RCG_1F37AF9DE1C2,701.57,PP1070174,Recharge_Bills,Dth,Successful,Successful,2024-11-25
+RCG_D3B4D7FCBCD4,1217.73,PP0041309,Recharge_Bills,Dth,Unknown,Successful,2024-08-12
+RCG_1781D8A24163,284.5,PP1106747,Recharge_Bills,Dth,Successful,Successful,2024-02-01
+RCG_280D2F0FD2D7,492.83,PP1088687,Recharge_Bills,Dth,Successful,Successful,2024-02-18
+RCG_03B44411AC16,560.91,PP1077815,Recharge_Bills,Dth,Failed,Insufficient amount,2024-06-22
+RCG_B56FBEECCD76,589.8,PP0006657,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-07-27
+RCG_C5044C955A01,114.15,PP0009296,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-03-18
+RCG_76250C204B81,1980.0,PP0029934,Recharge_Bills,Cable Tv,Successful,Successful,2024-11-14
+RCG_8B4039B1B10C,1199.12,PP0027837,Recharge_Bills,Dth,Successful,Successful,2024-02-17
+RCG_26390A98FA5C,1284.55,PP1053951,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-02-14
+RCG_9972C316EC9C,1108.49,PP0023492,Recharge_Bills,Dth,Successful,Successful,2024-01-25
+RCG_A09278CE081C,1610.66,PP0024577,Recharge_Bills,Dth,Successful,Successful,2024-01-30
+RCG_524DD94D8DC4,369.26,PP0000932,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-01-26
+RCG_2320E724A861,1826.31,PP0035986,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-06-09
+RCG_5C3A3E5F0AA5,1789.89,PP1101194,Recharge_Bills,Dth ,Successful,Successful,2024-06-11
+RCG_38E3F223F41E,527.53,PP1096321,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-02-21
+RCG_6FF7574F75D5,388.68,PP1080228,Recharge_Bills,Dth,Successful,Successful,2024-05-13
+RCG_A79D504043D3,1779.14,PP1100199,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-06-15
+RCG_5381C602C5BE,1006.02,PP0020245,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-07-11
+RCG_4CD2CEFF800F,1129.5,PP1063073,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-07-14
+RCG_B2E38DA907D7,1173.55,PP1088827,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-07-12
+RCG_88EA9E26EE78,1014.3,PP1050088,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-04-23
+RCG_0FC4B17180C2,151.02,PP1095926,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-05-29
+RCG_276D85BF10A9,498.18,PP0044876,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-10-27
+RCG_F897EBCC09ED,132.85,PP0001670,Recharge_Bills,Dth,Successful,Successful,2024-05-22
+RCG_FC891AAC2555,1014.3,PP0001018,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-09-12
+RCG_4C147AA2A223,814.09,PP0024532,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-03-23
+RCG_B0FD9FBFF96C,1120.94,PP1105674,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-04-10
+RCG_22ED94EE9DCA,1992.17,PP0006701,Recharge_Bills,Dth,Successful,Successful,2024-05-13
+RCG_0C4697634E70,1437.69,PP0032370,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-12-22
+RCG_3B90CD94277B,1832.97,PP0040377,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-09-25
+RCG_4C315B4F6E47,638.32,PP1068252,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-07-09
+RCG_8C4EE9065F3A,1805.28,PP1079294,Recharge_Bills,Cable Tv,Successful,Successful,2024-12-10
+RCG_0C9065D1AEDA,1995.3,PP0038634,Recharge_Bills,Fastag Recharge,Failed,Insufficient amount,2024-09-22
+RCG_A18A2F121703,1943.27,PP0015461,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-11-25
+RCG_CDDD45215B07,1278.85,PP0027179,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-11-15
+RCG_4ACF51A76C78,1963.65,PP0033045,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-01-31
+RCG_7CE6257190C6,650.04,PP0034486,Recharge_Bills,Dth,Successful,Successful,2024-02-14
+RCG_879F7304186B,360.91,PP1082273,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-07-08
+RCG_7B841E18A01D,1542.95,PP1050303,Recharge_Bills,Cable Tv,Successful,Successful,2024-05-24
+RCG_13331C66C58E,675.57,PP0049491,Recharge_Bills,Dth,Successful,Successful,2024-02-22
+RCG_F59E5C90107B,494.17,PP1095327,Recharge_Bills,Dth,Successful,Successful,2024-04-21
+RCG_1D07D665A58F,213.65,PP1060845,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-02-07
+RCG_8BC3EFDF3C7A,227.53,PP0015653,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-07-11
+RCG_D3BA83B20EDB,744.43,PP0025856,Recharge_Bills,Fastag Recharge,Successful,Unknown,2024-12-21
+RCG_EA15B99F3BE0,1156.92,PP1084321,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-03-01
+RCG_121EC6E16EE8,494.07,PP0039704,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-03-21
+RCG_D2119FC89784,179.42,PP0005939,Recharge_Bills,Mobile Recharge,Unknown,Successful,2024-11-25
+RCG_CF1A0C79525B,1546.7,PP1093742,Recharge_Bills,Cable Tv,Unknown,Successful,2024-06-10
+RCG_089FAFBD9842,811.83,PP1079066,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-03-01
+RCG_D657A6E6C741,238.27,PP1098535,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-10-28
+RCG_0DB824E082C2,629.5,PP0035316,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-04-30
+RCG_AB1D306A44E0,1379.96,PP1086374,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-10-14
+RCG_E696186C28E1,1379.93,PP1083399,Recharge_Bills,Cable Tv,Successful,Successful,2024-02-04
+RCG_482B6F8DA500,828.32,PP0002932,Recharge_Bills,Cable Tv,Successful,Successful,2024-01-27
+RCG_AEE8C0A775AF,1869.35,PP0026977,Recharge_Bills,Cable Tv,Successful,Successful,2024-12-02
+RCG_FF17B5D5E657,344.33,PP1091957,Recharge_Bills,Cable Tv,Successful,Successful,2024-06-10
+RCG_482BBB4CF591,1299.98,PP1065160,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-01-12
+RCG_74E8560E8372,695.23,PP0033260,Recharge_Bills,Dth,Successful,Successful,2024-06-22
+RCG_F9D3DA2807CD,43.92,PP0047793,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-10-22
+RCG_42228B55EEB5,35.74,PP1084041,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-04-22
+RCG_2EC42C1880FF,1262.39,PP0001126,Recharge_Bills,Dth,Successful,Successful,2024-05-09
+RCG_A75CE63443A1,960.97,PP0020366,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-08-11
+RCG_68D4E626BC94,1965.88,PP0043015,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-01-07
+RCG_A43F51A8C88E,721.88,PP1060876,Recharge_Bills,Cable Tv,Successful,Successful,2024-08-25
+RCG_C45713782F65,773.37,PP1085869,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-10-19
+RCG_832CA9F0E0CF,104.71,PP0047257,Recharge_Bills,Dth,Successful,Successful,2024-09-18
+RCG_1ADD0CB7D64D,1926.45,PP0042681,Recharge_Bills,Fastag Recharge,Unknown,Successful,2024-06-01
+RCG_7257FC782CAA,1608.02,PP0036476,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-05-15
+RCG_3A579652D402,1765.33,PP1055754,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-02-05
+RCG_4C81CC569FA2,1037.18,PP1053521,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-06-13
+RCG_DBDFF119F2C4,1299.75,PP1050441,Recharge_Bills,Cable Tv,Successful,Successful,2024-12-27
+RCG_FFC8E245ADF0,1955.84,PP0027293,Recharge_Bills,Dth,Successful,Successful,2024-12-04
+RCG_34EF86842C13,476.39,PP1063475,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-08-08
+RCG_2F29C5B048E0,1577.98,PP0019235,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-11-11
+RCG_2C4C1024046C,569.66,PP0042453,Recharge_Bills,Cable Tv,Failed,Server error,2024-10-21
+RCG_E576989D710A,524.77,PP0032978,Recharge_Bills,Cable Tv,Successful,Successful,2024-12-01
+RCG_DB6270A55492,1483.1,PP0027248,Recharge_Bills,Fastag Recharge,Unknown,Successful,2024-01-17
+RCG_4D23F2B902CE,1478.59,PP0018030,Recharge_Bills,Cable Tv ,Successful,Successful,2024-07-27
+RCG_87CBE46EE4F3,1458.18,PP1095267,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-08-07
+RCG_7FEF6252E29A,619.11,PP0031434,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-02-29
+RCG_650C3BBC60F8,614.49,PP0033672,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-02-12
+RCG_D15FFBA255E2,480.49,PP1098143,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-05-23
+RCG_53BAC559AC89,94.43,PP1052992,Recharge_Bills,Dth,Successful,Unknown,2024-01-30
+RCG_850BE137AFA7,963.41,PP0034127,Recharge_Bills,Cable Tv,Successful,Successful,2024-02-20
+RCG_E99E4AC42C64,1075.14,PP0030039,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-04-08
+RCG_335C3F23A61A,1237.49,PP1073635,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-11-14
+RCG_A380DF3430BE,1014.3,PP0000743,Recharge_Bills,Cable Tv,Successful,Successful,2024-02-09
+RCG_A96A33DC4A66,1847.32,PP1079720,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-07-27
+RCG_E87B44496F39,1014.3,PP0023998,Recharge_Bills,Cable Tv,Successful,Successful,2024-06-15
+RCG_F7F928981B36,1654.17,PP1098065,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-08-21
+RCG_C2E118579401,1558.69,PP1063042,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-10-01
+RCG_F8ED317B0616,624.49,PP0005107,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-04-21
+RCG_1B192827F52A,1905.63,PP0008853,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-08-17
+RCG_3C56A94E0E19,699.6,Unknown,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-07-21
+RCG_9B20649CAD3D,978.33,PP1103484,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-05-30
+RCG_704454C487DC,911.66,PP0018986,Recharge_Bills,Cable Tv,Successful,Successful,2024-09-29
+RCG_988C9422D5E0,886.61,PP0019305,Recharge_Bills,Dth,Successful,Successful,2024-11-22
+RCG_655BFD311993,1020.24,PP0009048,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-09-30
+RCG_1ED7B0FF0605,1403.14,PP1060120,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-05-07
+RCG_3A7907F372AF,1093.02,PP1091728,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-06-27
+RCG_7D33E0E47A9D,1725.39,PP0048248,Recharge_Bills,Cable Tv,Successful,Successful,2024-02-15
+RCG_2B1D8351EE8B,67.17,PP1101670,Recharge_Bills,Cable Tv,Failed,Insufficient amount,2024-05-11
+RCG_4532D1771760,397.32,PP1050793,Recharge_Bills,Mobile Recharge,Unknown,Successful,2024-09-02
+RCG_84B1CE78CA43,1877.49,PP0016808,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-05-15
+RCG_FF3A3FFAB4C5,1357.02,PP1060850,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-12-19
+RCG_9E507099D31F,1438.81,PP0007849,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-09-20
+RCG_8487F3E12447,433.21,PP0017403,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-09-04
+RCG_93F3E894D57A,26.1,PP1086351,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-01-17
+RCG_D4B3165D47DF,396.36,PP0026401,Recharge_Bills,Dth,Successful,Successful,2024-04-28
+RCG_F4463806B390,1620.5,PP0010586,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-07-08
+RCG_170589806B44,1481.31,PP0016198,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-02-04
+RCG_46F5E1BEB266,1274.94,PP1062436,Recharge_Bills,Dth,Successful,Successful,2024-12-27
+RCG_6544EB99B944,1403.12,PP0004053,Recharge_Bills,Cable Tv,Successful,Successful,2024-04-17
+RCG_213CFE850FFF,636.04,PP0002809,Recharge_Bills,Cable Tv,Successful,Successful,2024-09-04
+RCG_29A9CD3245EF,679.12,PP1106581,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-10-03
+RCG_D13DBC668976,561.45,PP1106670,Recharge_Bills,Dth,Successful,Successful,2024-05-20
+RCG_0977503CF7E7,1103.93,PP1053370,Recharge_Bills,Dth,Successful,Successful,2024-05-20
+RCG_A970ABCDC64C,1755.87,PP1103687,Recharge_Bills,Dth,Successful,Successful,2024-11-02
+RCG_A709EA40ABDD,1592.11,PP1084189,Recharge_Bills,Dth,Unknown,Successful,2024-10-23
+RCG_9E7E1455A916,1524.06,PP0035161,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-04-26
+RCG_C1F1BA8C837C,1570.46,PP1080611,Recharge_Bills,Dth,Successful,Successful,2024-10-22
+RCG_853F680418F7,1524.86,PP1079589,Recharge_Bills,Cable Tv,Successful,Successful,2024-08-13
+RCG_12C206213732,321.52,PP0013038,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-08-05
+RCG_C463D418AB15,625.42,PP1071676,Recharge_Bills,Fastag Recharge,Failed,Server error,2024-11-19
+RCG_53210AA74038,204.19,PP1070921,Recharge_Bills,Fastag Recharge,Unknown,Successful,2024-10-03
+RCG_F81CA3999DE3,887.6,PP1090579,Recharge_Bills,Mobile Recharge,Unknown,Successful,2024-12-10
+RCG_5C9EE957A648,484.64,PP1059507,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-01-21
+RCG_1746D5DE8175,1127.03,PP0033388,Recharge_Bills,Cable Tv,Successful,Successful,2024-11-13
+RCG_B428DD4030DE,111.53,PP1104488,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-05-28
+RCG_32E0FE6AB3E9,1874.5,PP0036366,Recharge_Bills,Dth,Successful,Successful,2024-11-12
+RCG_3F289677A318,914.48,PP1077300,Recharge_Bills,Cable Tv,Successful,Successful,2024-09-20
+RCG_1F969CBAFFEC,1520.35,PP0042234,Recharge_Bills,Dth,Successful,Successful,2024-01-22
+RCG_C4D3F87B06F0,442.06,PP0000007,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-04-12
+RCG_8EACCFAEBB48,1193.45,PP0041935,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-01-19
+RCG_6E250B2FCDD4,1819.78,PP1067490,Recharge_Bills,Dth,Successful,Successful,2024-08-22
+RCG_A3977E15FBAD,1961.27,PP0008305,Recharge_Bills,Cable Tv,Successful,Successful,2024-04-15
+RCG_9CE521BFDE25,1463.55,PP0010345,Recharge_Bills,Cable Tv,Successful,Successful,2024-07-01
+RCG_B7238C217D46,1735.05,PP0015113,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-04-26
+RCG_FBCE432C8139,994.42,PP1069536,Recharge_Bills,Cable Tv,Successful,Successful,2024-09-14
+RCG_BA82AFAE8F44,1101.86,PP1061375,Recharge_Bills,Cable Tv,Successful,Successful,2024-04-14
+RCG_008661649A36,278.54,PP1050487,Recharge_Bills,Cable Tv,Successful,Successful,2024-10-10
+RCG_D4CC538E99F9,867.43,PP1071591,Recharge_Bills,Mobile Recharge,Successful,Unknown,2024-01-21
+RCG_DDAD0831B746,1097.19,PP1107632,Recharge_Bills,Dth,Successful,Successful,2024-12-04
+RCG_8C27CA5E3EC3,1221.86,PP0044123,Recharge_Bills,Dth,Successful,Successful,2024-01-09
+RCG_42CF4879B725,1823.39,PP0025829,Recharge_Bills,Dth,Successful,Successful,2024-12-17
+RCG_F6CED8142F26,215.15,PP0042291,Recharge_Bills,Cable Tv,Successful,Successful,2024-11-21
+RCG_546E6D0001EE,204.42,PP1066122,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-02-15
+RCG_76626724578A,1014.3,PP1063404,Recharge_Bills,Dth,Unknown,Successful,2024-02-16
+RCG_AE5F1D8EFC4A,195.91,PP1105810,Recharge_Bills,Cable Tv,Successful,Successful,2024-01-29
+RCG_88A8B770DA64,1303.94,PP0039063,Recharge_Bills,Fastag Recharge,Unknown,Successful,2024-09-14
+RCG_15CAF10D4F32,1204.15,PP1053567,Recharge_Bills,Dth,Unknown,Successful,2024-11-06
+RCG_58ED383D8326,977.62,PP1101721,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-10-24
+RCG_4378FD8DE0FF,408.83,PP1092079,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-08-04
+RCG_10619851EC2A,1014.3,PP0004067,Recharge_Bills,Dth,Successful,Successful,2024-05-11
+RCG_83E4EC76DFD8,120.33,PP1081028,Recharge_Bills,Dth,Successful,Successful,2024-01-12
+RCG_7AC44C2A797D,632.8,PP0049943,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-11-05
+RCG_44A84992F7FC,1014.3,PP1069790,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-03-20
+RCG_417FF7FF36D1,168.19,PP0007407,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-10-20
+RCG_3A1DD54D949C,1689.66,PP0007968,Recharge_Bills,Dth,Successful,Successful,2024-10-12
+RCG_61A7334ECD2E,888.61,PP1070769,Recharge_Bills,Dth,Successful,Successful,2024-02-03
+RCG_54636197542D,1202.98,PP0027452,Recharge_Bills,Cable Tv,Successful,Successful,2024-07-16
+RCG_084E6EB1197D,154.71,PP1097078,Recharge_Bills,Dth ,Successful,Successful,2024-03-13
+RCG_E71E19B20267,1723.04,PP1093188,Recharge_Bills,Cable Tv,Successful,Successful,2024-07-06
+RCG_465A9C5C90FB,1859.34,PP1107120,Recharge_Bills,Fastag Recharge,Unknown,Successful,2024-12-26
+RCG_576FAB27D87C,1092.02,PP0035780,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-03-14
+RCG_C3BF90ECB74B,476.28,PP1053658,Recharge_Bills,Nan ,Successful,Successful,2024-03-03
+RCG_486ACF5FEE58,840.61,PP0031270,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-04-18
+RCG_AE6EC9A4EF5A,1707.69,Unknown,Recharge_Bills,Dth,Successful,Successful,2024-11-03
+RCG_98F8594DAD21,1221.06,PP1060229,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-12-03
+RCG_14F57FC2D3E9,1565.38,PP0007401,Recharge_Bills,Cable Tv,Successful,Successful,2024-02-17
+RCG_FA45A9311B4C,1335.03,PP1052383,Recharge_Bills,Cable Tv,Successful,Successful,2024-05-22
+RCG_008E72D608DA,1147.13,PP0030471,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-05-26
+RCG_56D8347ECE93,702.5,PP1083651,Recharge_Bills,Dth,Successful,Successful,2024-06-04
+RCG_88EFE7F71A67,465.8,PP1090690,Recharge_Bills,Dth,Successful,Successful,2024-06-01
+RCG_43E908265EBF,687.33,PP1091524,Recharge_Bills,Cable Tv,Successful,Successful,2024-08-17
+RCG_3241EC4720C6,989.5,PP0034885,Recharge_Bills,Cable Tv,Successful,Successful,2024-12-09
+RCG_E200A8F6ACF7,964.34,PP1078254,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-03-17
+RCG_67E34BD829AD,1691.74,PP1083978,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-01-24
+RCG_3E13C8D55D9F,46.88,PP1067114,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-10-24
+RCG_120828A6B83D,76.85,PP0022753,Recharge_Bills,Cable Tv,Successful,Successful,2024-05-15
+RCG_502E223909D4,1316.75,PP0039411,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-02-13
+RCG_D7939EB2FC19,1961.11,PP0049257,Recharge_Bills,Dth,Successful,Successful,2024-06-13
+RCG_E6778CA44BF4,1751.08,PP0002808,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-10-23
+RCG_5C8CEC62C1FB,942.28,PP0043339,Recharge_Bills,Cable Tv,Successful,Successful,2024-12-28
+RCG_6770EA4C0FAD,218.91,PP0017223,Recharge_Bills,Dth,Successful,Successful,2024-07-03
+RCG_622643FDC4FE,565.16,PP1072977,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-11-27
+RCG_217AEEEBC796,1683.76,PP1059377,Recharge_Bills,Cable Tv,Successful,Successful,2024-05-05
+RCG_0483CFFA2CF1,1331.21,PP0033923,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-06-10
+RCG_AA24B9BFF607,1697.88,PP1083020,Recharge_Bills,Dth,Successful,Unknown,2024-07-18
+RCG_CBA993F3106A,828.9,PP0046452,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-03-24
+RCG_67B46FFA7A30,1014.3,PP0040274,Recharge_Bills,Cable Tv,Successful,Successful,2024-10-09
+RCG_ED90426DA49E,1312.41,PP1104619,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-09-15
+RCG_0FF8FD133835,1874.2,PP0037742,Recharge_Bills,Cable Tv,Successful,Successful,2024-09-10
+RCG_FE566714D778,272.56,PP0005983,Recharge_Bills,Cable Tv,Successful,Successful,2024-05-27
+RCG_A24E769F2961,620.61,PP1082712,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-03-16
+RCG_E551F69FD98E,1443.88,PP1105679,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-09-26
+RCG_33F0CC673F58,1401.63,PP1077510,Recharge_Bills,Dth,Successful,Successful,2024-01-04
+RCG_68C67CCDFE40,93.72,PP0015874,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-12-30
+RCG_09967DCAC675,165.15,PP0044804,Recharge_Bills,Cable Tv,Successful,Successful,2024-07-05
+RCG_0F74ED5E8F54,1940.1,PP0020879,Recharge_Bills,Dth,Successful,Successful,2024-11-10
+RCG_E31026CCF09E,612.06,PP1061077,Recharge_Bills,Cable Tv ,Successful,Successful,2024-10-29
+RCG_56B820DC4C4F,1234.21,PP0014004,Recharge_Bills,Dth,Failed,Insufficient amount,2024-02-10
+RCG_CD4A7E72FAD6,943.06,PP1105831,Recharge_Bills,Dth,Successful,Successful,2024-01-30
+RCG_1EF3BE3FC1FE,1515.18,PP0014455,Recharge_Bills,Dth,Successful,Successful,2024-04-07
+RCG_08128D189D96,1083.82,PP1066783,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-02-07
+RCG_F891057CA121,1014.3,PP1075682,Recharge_Bills,Dth,Successful,Successful,2024-10-13
+RCG_FCE956BA8861,1872.2,PP1099167,Recharge_Bills,Dth,Successful,Successful,2024-04-10
+RCG_73C6567A5EFD,957.18,PP0046462,Recharge_Bills,Cable Tv,Successful,Successful,2024-09-27
+RCG_54F4B8433340,1014.3,PP0024902,Recharge_Bills,Mobile Recharge,Successful,Unknown,2024-05-14
+RCG_86FB876E776A,529.74,PP1093734,Recharge_Bills,Dth,Successful,Successful,2024-10-10
+RCG_2645ED97821E,1495.22,PP1092481,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-10-12
+RCG_05B66813CC70,172.51,Unknown,Recharge_Bills,Dth,Successful,Successful,2024-11-01
+RCG_642F357E8704,1115.89,PP0003674,Recharge_Bills,Dth,Successful,Successful,2024-09-05
+RCG_34C87EBC2CD9,1183.37,PP1084215,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-05-23
+RCG_67BAF3E1835B,436.24,PP0000905,Recharge_Bills,Dth,Successful,Successful,2024-08-29
+RCG_9AA102D9BE3E,127.92,PP1059634,Recharge_Bills,Dth,Successful,Successful,2024-06-16
+RCG_1C7D2688DA23,885.12,PP0030762,Recharge_Bills,Dth,Successful,Successful,2024-03-07
+RCG_ED2CFEAE0C90,456.43,PP1081448,Recharge_Bills,Dth,Successful,Successful,2024-12-06
+RCG_C4A6C2E919F2,735.36,PP0027652,Recharge_Bills,Dth,Successful,Successful,2024-04-11
+RCG_9CB9A396D6A0,1084.16,PP1085337,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-05-11
+RCG_E963A1D4CCB5,1728.57,PP1099650,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-08-04
+RCG_0C0615C2B0E1,1463.22,PP1073987,Recharge_Bills,Fastag Recharge ,Successful,Successful,2024-08-28
+RCG_B255C03C506A,1213.39,PP1098021,Recharge_Bills,Mobile Recharge,Successful,Unknown,2024-10-27
+RCG_83A9372C1148,805.92,PP0022039,Recharge_Bills,Cable Tv,Successful,Unknown,2024-11-02
+RCG_5D5BB54AA7F0,1991.37,PP1088946,Recharge_Bills,Dth,Successful,Successful,2024-08-05
+RCG_27EDC6B3A874,1951.56,PP0041448,Recharge_Bills,Dth,Successful,Successful,2024-02-23
+RCG_F5B51901E192,163.58,PP0045256,Recharge_Bills,Cable Tv,Successful,Successful,2024-07-23
+RCG_1985AEEB3351,49.12,PP1088358,Recharge_Bills,Dth,Successful,Successful,2024-09-30
+RCG_99C051325CF4,1653.23,PP1056763,Recharge_Bills,Dth,Successful,Successful,2024-09-21
+RCG_017C82D19CBC,1709.03,PP0017287,Recharge_Bills,Dth,Successful,Unknown,2024-11-04
+RCG_16CB472EC407,1557.39,PP1093832,Recharge_Bills,Dth,Successful,Successful,2024-05-27
+RCG_040124315397,758.0,PP1099850,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-02-13
+RCG_D290FEE5D495,1014.3,PP0048797,Recharge_Bills,Dth,Successful,Successful,2024-12-27
+RCG_BE52F2E29884,1911.7,PP0041231,Recharge_Bills,Fastag Recharge,Successful,Unknown,2024-10-20
+RCG_523EBB407992,714.44,PP0015926,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-12-07
+RCG_C187D8D85B41,994.51,PP0011110,Recharge_Bills,Dth,Successful,Successful,2024-09-17
+RCG_C6F08E528911,49.07,PP1082804,Recharge_Bills,Cable Tv,Successful,Successful,2024-06-25
+RCG_1E89DA111F29,170.72,PP1102605,Recharge_Bills,Cable Tv,Successful,Successful,2024-09-05
+RCG_C57B99CFBA5D,1051.02,PP1097102,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-01-18
+RCG_608FEC000C0C,1231.19,PP0044644,Recharge_Bills,Dth,Successful,Successful,2024-11-09
+RCG_2D3A4894F009,1103.42,PP0003755,Recharge_Bills,Cable Tv,Successful,Unknown,2024-12-03
+RCG_56AF15D10B77,370.85,PP1096214,Recharge_Bills,Cable Tv,Successful,Successful,2024-01-30
+RCG_323C1811FC80,1164.96,PP1058567,Recharge_Bills,Dth,Successful,Successful,2024-09-12
+RCG_16054BD4B66D,944.55,PP0023498,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-01-07
+RCG_7F7E9DD72944,1566.82,PP1063795,Recharge_Bills,Cable Tv,Failed,Insufficient amount,2024-10-29
+RCG_894570214342,1255.38,PP1054085,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-07-28
+RCG_755F190B6627,432.66,PP0048703,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-11-01
+RCG_2895BD9D18BD,544.73,PP0036550,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-05-05
+RCG_2993BB4584DC,688.45,PP0041307,Recharge_Bills,Dth,Successful,Successful,2024-01-09
+RCG_BCC709B9A182,1904.49,PP0038429,Recharge_Bills,Cable Tv,Successful,Successful,2024-11-15
+RCG_A940C4048C27,547.05,PP0020932,Recharge_Bills,Cable Tv,Successful,Successful,2024-03-23
+RCG_3A8E61346048,1187.65,PP1053586,Recharge_Bills,Cable Tv,Successful,Successful,2024-08-04
+RCG_CB22BB6BA04C,114.41,PP1063508,Recharge_Bills,Dth,Successful,Successful,2024-08-01
+RCG_7CC3F9C34CC8,1002.19,PP0027551,Recharge_Bills,Dth,Successful,Successful,2024-01-13
+RCG_5324C2C64386,1014.3,PP1092382,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-03-05
+RCG_761E2BA067FF,1966.95,PP0031605,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-09-11
+RCG_4A0AB218D836,1220.96,PP1089801,Recharge_Bills,Cable Tv,Successful,Successful,2024-07-24
+RCG_36715EF165E2,125.36,PP0028216,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-03-20
+RCG_8CBD6E22B0CD,268.16,PP0001619,Recharge_Bills,Dth,Successful,Successful,2024-07-21
+RCG_BD27EA32D875,1873.73,PP0023505,Recharge_Bills,Dth,Successful,Successful,2024-01-21
+RCG_82D7B8BBCE36,933.4,PP0027303,Recharge_Bills,Fastag Recharge,Failed,Insufficient amount,2024-09-20
+RCG_2753FD75337D,783.52,PP1103998,Recharge_Bills,Dth,Successful,Successful,2024-02-13
+RCG_5B3B5418845D,1904.33,PP1084992,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-03-12
+RCG_8B65A5E6AAA2,1187.74,PP1068014,Recharge_Bills,Fastag Recharge ,Successful,Successful,2024-03-01
+RCG_D183544CCCD3,86.87,PP0016142,Recharge_Bills,Dth,Successful,Successful,2024-10-20
+RCG_691C0C953EA7,1914.29,PP1072372,Recharge_Bills,Cable Tv,Successful,Successful,2024-06-24
+RCG_FFE8F16FED0A,231.9,PP1069933,Recharge_Bills,Dth,Successful,Unknown,2024-06-27
+RCG_65361FBECA74,97.14,PP0008016,Recharge_Bills,Cable Tv,Successful,Successful,2024-09-20
+RCG_D4FE359BCEC2,584.92,PP1099245,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-01-25
+RCG_91B7815F1329,364.24,PP1060835,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-09-09
+RCG_5D6AFC7F0D86,1357.42,PP0033062,Recharge_Bills,Dth,Successful,Successful,2024-08-23
+RCG_3ACE4171BA4F,1400.91,PP1075225,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-06-27
+RCG_BCEA52D5EAB7,288.63,PP1067608,Recharge_Bills,Cable Tv,Successful,Successful,2024-02-11
+RCG_659C1C225837,1333.65,Unknown,Recharge_Bills,Cable Tv,Successful,Unknown,2024-12-24
+RCG_30C185A56E31,1042.62,PP0024937,Recharge_Bills,Cable Tv,Failed,Wrong PIN,2024-06-09
+RCG_462F7FC55C3A,1042.32,PP0048956,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-07-29
+RCG_CE0E0240F49F,840.74,PP1070728,Recharge_Bills,Cable Tv,Successful,Successful,2024-10-27
+RCG_49AD8DC858E0,1486.11,PP0048086,Recharge_Bills,Dth,Successful,Successful,2024-09-27
+RCG_AA2ED7C9608F,306.99,PP1095949,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-05-25
+RCG_06C5F79C4CFD,1414.96,PP1091540,Recharge_Bills,Dth,Successful,Successful,2024-04-12
+RCG_301E198C9389,856.89,PP0011608,Recharge_Bills,Cable Tv,Successful,Successful,2024-05-29
+RCG_28E55CFD6DF4,380.16,PP1075247,Recharge_Bills,Cable Tv,Successful,Successful,2024-08-18
+RCG_2359F80D65AB,923.21,PP1089491,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-12-14
+RCG_42F13F52E78D,27.76,PP0045953,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-03-21
+RCG_95BF5EE4D8A9,1011.23,PP0048315,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-02-05
+RCG_CFE943A4086B,1717.01,PP1096636,Recharge_Bills,Cable Tv,Successful,Successful,2024-03-24
+RCG_16E89EF77655,1760.33,PP1077186,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-03-26
+RCG_EEED08A90172,1014.3,PP0021621,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-06-12
+RCG_5CD9CBF95F84,902.7,PP1080084,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-05-14
+RCG_1D7475B0C641,1213.83,PP0008668,Recharge_Bills,Cable Tv,Successful,Successful,2024-10-06
+RCG_9D1213A18E09,827.69,PP1076839,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-08-30
+RCG_3F364B8B4C6C,1875.41,PP0022028,Recharge_Bills,Dth,Successful,Successful,2024-05-16
+RCG_64CF7995ADB6,1844.73,PP1100390,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-07-18
+RCG_037B10E33DB8,1523.28,PP1089511,Recharge_Bills,Dth,Successful,Successful,2024-12-14
+RCG_A858307125CB,650.07,PP0016606,Recharge_Bills,Dth,Successful,Successful,2024-06-30
+RCG_D82806B57D7C,430.86,PP1055016,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-02-15
+RCG_9E9F59E1F7F2,624.56,PP1094487,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-03-07
+RCG_F39D5CB98D04,1879.37,PP1054092,Recharge_Bills,Dth,Successful,Successful,2024-03-23
+RCG_07DEA6E31123,669.91,PP0022757,Recharge_Bills,Cable Tv,Successful,Successful,2024-06-20
+RCG_3BD18CCAE385,890.15,PP1105432,Recharge_Bills,Cable Tv,Successful,Successful,2024-10-11
+RCG_AB8C29D29D99,1461.54,PP0024710,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-01-27
+RCG_E0B19924F063,1654.13,PP1095260,Recharge_Bills,Cable Tv,Successful,Successful,2024-01-01
+RCG_1B875F01318C,1204.25,PP0039987,Recharge_Bills,Cable Tv,Successful,Successful,2024-05-30
+RCG_C7957F52EA7F,1392.44,PP0042186,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-03-28
+RCG_41128FE469E8,164.93,PP0041187,Recharge_Bills,Cable Tv,Successful,Successful,2024-01-21
+RCG_F3C8504F7070,1302.94,PP1097128,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-07-11
+RCG_02160EB8BD98,1910.34,PP0030346,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-11-02
+RCG_E131F18410DD,1687.14,PP1076517,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-06-13
+RCG_8B7629392B92,1285.55,PP1064932,Recharge_Bills,Cable Tv,Successful,Successful,2024-05-20
+RCG_8FCDE2055E32,134.17,PP1097434,Recharge_Bills,Cable Tv,Successful,Successful,2024-12-18
+RCG_F4C735F2DBE3,1014.3,PP0041592,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-12-01
+RCG_D56059523577,365.48,PP1079601,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-11-04
+RCG_A05AA5CB172B,633.02,PP0028380,Recharge_Bills,Dth,Successful,Successful,2024-03-29
+RCG_DEC5652FF377,1599.78,PP0018781,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-12-08
+RCG_E3422394ECD5,1054.14,PP1074908,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-06-11
+RCG_200A731B206F,727.56,PP1084440,Recharge_Bills,Cable Tv,Successful,Successful,2024-06-11
+RCG_858789880C27,1657.41,PP1091969,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-06-17
+RCG_DF01297F7F8E,724.71,PP1067771,Recharge_Bills,Cable Tv,Successful,Successful,2024-05-31
+RCG_800A706A4734,1700.21,PP0039861,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-12-21
+RCG_C8BBA8D0A925,311.72,PP0031359,Recharge_Bills,Cable Tv,Successful,Successful,2024-08-01
+RCG_6102A051B45A,1266.46,Unknown,Recharge_Bills,Dth,Successful,Successful,2024-09-25
+RCG_5DAF8D2DE6E8,742.41,PP0004777,Recharge_Bills,Mobile Recharge,Failed,Server error,2024-09-02
+RCG_8269CD95BDF4,42.87,PP1052744,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-08-07
+RCG_7547A2007FF7,1230.05,PP1097596,Recharge_Bills,Dth,Successful,Successful,2024-02-08
+RCG_113D8AD15238,244.25,PP0002989,Recharge_Bills,Dth,Successful,Successful,2024-11-05
+RCG_D481AC43B6C2,1923.97,PP0031691,Recharge_Bills,Dth,Successful,Successful,2024-10-14
+RCG_2755F4977580,1981.67,PP1082117,Recharge_Bills,Dth,Successful,Successful,2024-01-01
+RCG_F5DB182C2C81,1905.59,PP0026142,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-09-01
+RCG_74800850CEC8,610.17,PP1094323,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-10-26
+RCG_9F7740CF1C1A,1416.75,PP1064968,Recharge_Bills,Cable Tv,Successful,Successful,2024-07-16
+RCG_2A6E49DEBC44,620.28,PP0036863,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-03-22
+RCG_026C110B6916,352.02,PP1069944,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-01-06
+RCG_18FE5429DE4C,1997.4,PP0030916,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-03-17
+RCG_A45D3EA79047,1557.7,PP1064020,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-10-04
+RCG_6F7E3E81E7EB,901.86,PP1051202,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-03-02
+RCG_724556981724,328.27,Unknown,Recharge_Bills,Cable Tv,Successful,Successful,2024-07-19
+RCG_4451AD4D712B,714.56,PP0029191,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-08-04
+RCG_1837F8FA0CDD,1236.43,PP1097384,Recharge_Bills,Dth,Successful,Successful,2024-10-31
+RCG_8E9F288F8678,1024.78,PP0021333,Recharge_Bills,Dth,Successful,Successful,2024-05-17
+RCG_BD1EA1AFD8AE,1028.56,PP0013364,Recharge_Bills,Dth ,Successful,Successful,2024-02-28
+RCG_D3F24B5ED4C6,1117.1,PP1056053,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-06-03
+RCG_001C756CAC52,509.72,PP0014225,Recharge_Bills,Cable Tv,Failed,Server error,2024-09-04
+RCG_81D286589DF1,74.71,PP0018406,Recharge_Bills,Cable Tv,Successful,Successful,2024-01-19
+RCG_E74E1639E5B8,1693.06,PP1058636,Recharge_Bills,Cable Tv,Successful,Successful,2024-08-08
+RCG_C3B144173FEA,991.52,PP1070902,Recharge_Bills,Cable Tv,Successful,Successful,2024-10-29
+RCG_90541BD105E7,324.12,PP1092398,Recharge_Bills,Dth,Successful,Successful,2024-02-07
+RCG_59F0D9291401,455.36,PP1054800,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-11-14
+RCG_2C2B1681828C,1337.9,PP0029919,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-08-20
+RCG_13AFFC947013,1218.37,PP0020817,Recharge_Bills,Cable Tv,Successful,Successful,2024-05-14
+RCG_9B3402EC5FE9,981.14,PP0034672,Recharge_Bills,Cable Tv,Successful,Successful,2024-03-30
+RCG_34576B15B6F1,1267.17,PP0014057,Recharge_Bills,Dth,Successful,Successful,2024-02-23
+RCG_CBB9D2CB7C8B,542.93,PP0036149,Recharge_Bills,Cable Tv,Successful,Successful,2024-07-02
+RCG_9C0EEF7C228A,1431.68,PP1049486,Recharge_Bills,Cable Tv,Successful,Successful,2024-09-10
+RCG_E0AB13A8D647,116.93,PP0040348,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-06-14
+RCG_C5BEB89F6BD9,409.14,PP1055727,Recharge_Bills,Dth,Successful,Successful,2024-11-01
+RCG_CCA7119ADAC2,554.73,PP0002631,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-06-27
+RCG_EE04D7EA288A,238.51,PP0036481,Recharge_Bills,Cable Tv,Successful,Successful,2024-02-28
+RCG_6D8510895DE3,504.59,PP0041035,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-11-14
+RCG_A88A589EBE87,185.52,PP0045513,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-04-28
+RCG_509AC09996A8,218.9,PP0039788,Recharge_Bills,Dth,Failed,Insufficient amount,2024-11-03
+RCG_03F919BE42E9,80.54,PP0021515,Recharge_Bills,Cable Tv,Successful,Successful,2024-01-06
+RCG_D1054AF41464,1929.61,PP1102428,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-09-01
+RCG_ADA64054A293,468.08,PP1079238,Recharge_Bills,Dth,Successful,Successful,2024-09-18
+RCG_2CE33B5EC270,1445.01,PP0008795,Recharge_Bills,Cable Tv,Successful,Successful,2024-09-03
+RCG_B78BBDF87697,53.13,PP0026477,Recharge_Bills,Cable Tv,Successful,Successful,2024-12-09
+RCG_F4D05877F116,1984.54,PP0015418,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-10-03
+RCG_019B2A15B6C4,1466.56,PP0005610,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-06-06
+RCG_807ACDAEC920,1647.53,PP1067957,Recharge_Bills,Cable Tv,Successful,Successful,2024-02-07
+RCG_6D67C67CAE27,1507.5,PP1063408,Recharge_Bills,Cable Tv,Successful,Successful,2024-12-01
+RCG_B911DD004829,737.76,PP1096279,Recharge_Bills,Cable Tv,Successful,Successful,2024-04-08
+RCG_C5FA46072F44,1764.82,PP0036872,Recharge_Bills,Dth,Successful,Successful,2024-07-19
+RCG_0E4D18651E6A,420.61,PP1056729,Recharge_Bills,Cable Tv,Unknown,Successful,2024-02-05
+RCG_001FCB8D495C,517.87,PP0034433,Recharge_Bills,Dth,Successful,Successful,2024-07-27
+RCG_25A4676486B1,1979.06,PP1094196,Recharge_Bills,Cable Tv,Successful,Successful,2024-10-23
+RCG_DEF0F6151E2F,1285.8,PP1054054,Recharge_Bills,Cable Tv,Successful,Successful,2024-05-31
+RCG_84CB08A7DE4D,1710.21,PP1082121,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-04-01
+RCG_D0D79760DDA2,806.55,Unknown,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-09-26
+RCG_16EFB5CFA833,340.83,PP0019748,Recharge_Bills,Dth,Successful,Successful,2024-08-01
+RCG_534CE6BB5178,1672.7,PP1084016,Recharge_Bills,Dth,Successful,Successful,2024-10-01
+RCG_D752AAD76367,483.65,PP1094396,Recharge_Bills,Cable Tv,Successful,Successful,2024-02-09
+RCG_D20969967872,1397.11,PP0032681,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-07-16
+RCG_B0A544215836,853.67,PP0047994,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-10-02
+RCG_4B56B6933B44,919.57,Unknown,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-12-27
+RCG_ED4DC37C1A10,1722.84,PP1102577,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-12-11
+RCG_6EBC584E1D4F,1473.86,PP1062279,Recharge_Bills,Fastag Recharge,Failed,Wrong PIN,2024-06-19
+RCG_EBCB6D911AD3,1910.57,PP1090624,Recharge_Bills,Cable Tv,Successful,Successful,2024-10-31
+RCG_513E26103E51,1936.26,PP0010144,Recharge_Bills,Dth,Successful,Successful,2024-09-27
+RCG_CF0FECCEAC04,572.75,PP0016225,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-05-02
+RCG_64394FA60C1B,533.48,PP1056867,Recharge_Bills,Dth,Successful,Successful,2024-02-13
+RCG_63A7EF6C1D29,880.41,PP0033982,Recharge_Bills,Dth,Successful,Successful,2024-11-03
+RCG_D9D7B9B427B3,1249.75,PP0010788,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-04-29
+RCG_5EEE5EA996C2,903.0,PP0022485,Recharge_Bills,Dth,Successful,Successful,2024-01-27
+RCG_33CA9B98F6B2,650.36,PP1101513,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-09-15
+RCG_E7D4777ECA38,721.82,PP1054286,Recharge_Bills,Cable Tv,Successful,Successful,2024-03-05
+RCG_747ED7F98302,478.93,PP0003796,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-09-20
+RCG_F4B4818CA249,160.13,PP1075559,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-01-14
+RCG_C4FBE10FAB09,1014.3,PP0022562,Recharge_Bills,Dth,Successful,Successful,2024-03-18
+RCG_F2F9045E60D1,1550.04,PP0004838,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-09-30
+RCG_D85C75296CA2,923.37,PP1082971,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-11-11
+RCG_257FBC9E62B3,1135.46,PP0010277,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-11-23
+RCG_FB3C55076DB8,486.59,PP1107368,Recharge_Bills,Dth,Unknown,Successful,2024-01-27
+RCG_DB080C5C983D,486.42,PP0035941,Recharge_Bills,Dth,Successful,Successful,2024-10-21
+RCG_767109DF4D38,754.81,PP1070124,Recharge_Bills,Mobile Recharge ,Successful,Successful,2024-09-04
+RCG_0F50954A1533,298.0,PP0012580,Recharge_Bills,Cable Tv,Successful,Successful,2024-04-10
+RCG_8EBB6CDC1E8C,936.33,PP0030494,Recharge_Bills,Cable Tv,Successful,Successful,2024-01-12
+RCG_3D8FA83843A1,1014.3,PP0004512,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-12-16
+RCG_A17E9657A7E7,1014.3,PP1072322,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-04-30
+RCG_0AC6FB0CF0BC,896.12,PP0011411,Recharge_Bills,Cable Tv,Successful,Successful,2024-11-10
+RCG_0CE2FB794D30,686.6,PP0011812,Recharge_Bills,Dth,Successful,Successful,2024-09-23
+RCG_6F3C3B918DC8,549.97,PP1067650,Recharge_Bills,Fastag Recharge,Failed,Server error,2024-01-23
+RCG_60FF2DBAD44C,760.64,PP1094788,Recharge_Bills,Dth,Successful,Successful,2024-08-14
+RCG_8C2A580313FA,521.86,PP0038637,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-09-20
+RCG_A4C041F953AD,1848.46,PP1084434,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-10-11
+RCG_EEC24EF84650,377.39,PP0026227,Recharge_Bills,Dth,Unknown,Successful,2024-01-02
+RCG_40BD39220EB9,166.98,PP1072052,Recharge_Bills,Fastag Recharge,Failed,Insufficient amount,2024-05-11
+RCG_8A268BE94630,1074.97,PP1071612,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-03-10
+RCG_E317AD8B25DB,716.27,PP1065357,Recharge_Bills,Cable Tv,Unknown,Successful,2024-06-29
+RCG_0E2034D749AA,510.49,PP0019063,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-06-05
+RCG_9B8400A7FFDC,1850.9,PP1069776,Recharge_Bills,Dth,Successful,Successful,2024-05-26
+RCG_91D907E9A19D,1282.29,PP1099213,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-04-26
+RCG_331399C15AD7,1600.59,PP0023612,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-01-08
+RCG_24BC653344AD,1155.24,PP0046426,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-04-16
+RCG_C343463CB939,1014.3,PP1050364,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-01-11
+RCG_DE5D370F440D,242.0,PP0027163,Recharge_Bills,Fastag Recharge ,Successful,Successful,2024-12-28
+RCG_24F40C829C8B,1581.89,PP1049552,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-12-30
+RCG_D9E1FC279878,940.0,PP1106364,Recharge_Bills,Dth,Successful,Successful,2024-04-22
+RCG_A6DAC2B2BD63,293.25,PP1063945,Recharge_Bills,Dth,Successful,Successful,2024-03-26
+RCG_D5ABD5E7600B,1780.09,PP0000103,Recharge_Bills,Dth,Successful,Successful,2024-08-16
+RCG_55F592DCA11C,1420.5,PP0004960,Recharge_Bills,Dth,Successful,Successful,2024-06-15
+RCG_F4DD23E5CF99,398.3,PP1105091,Recharge_Bills,Dth,Successful,Successful,2024-02-24
+RCG_02C111F08540,746.92,PP0038631,Recharge_Bills,Dth,Successful,Successful,2024-09-14
+RCG_2F190054DA32,1585.61,PP0006374,Recharge_Bills,Cable Tv,Successful,Successful,2024-02-28
+RCG_7943E7C1A5BF,310.16,PP0002344,Recharge_Bills,Fastag Recharge,Successful,Unknown,2024-11-19
+RCG_677D9A0A7DA1,893.43,PP1097188,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-04-26
+RCG_BF45BC0A583D,1822.59,PP1097490,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-03-05
+RCG_4D24F7FC22F2,1550.27,PP1067968,Recharge_Bills,Cable Tv,Successful,Successful,2024-05-19
+RCG_230FBED681D2,1444.09,PP0002984,Recharge_Bills,Cable Tv,Successful,Successful,2024-03-05
+RCG_23C88D494200,338.65,PP1075486,Recharge_Bills,Dth,Successful,Successful,2024-12-11
+RCG_781745F1FB79,1526.89,PP0020968,Recharge_Bills,Cable Tv,Successful,Successful,2024-03-30
+RCG_3704C832E572,1493.0,PP0032008,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-04-18
+RCG_69CF21A34A97,1081.76,PP0020398,Recharge_Bills,Mobile Recharge,Failed,Wrong PIN,2024-06-27
+RCG_AF1734C0CA46,1606.05,PP1060688,Recharge_Bills,Cable Tv,Successful,Successful,2024-04-14
+RCG_4416BA5E02FC,1728.84,PP1066284,Recharge_Bills,Dth,Successful,Successful,2024-10-18
+RCG_CC738E4C3C30,273.05,PP1099366,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-02-06
+RCG_FFA24920427C,1875.2,PP0008993,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-12-22
+RCG_759CE8F580DF,48.14,PP1064104,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-11-01
+RCG_E0C7D4F14749,1098.83,PP1055628,Recharge_Bills,Dth,Successful,Successful,2024-11-16
+RCG_C8CFA0225E96,1893.62,PP0023846,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-12-09
+RCG_1BE1855AEBA6,1948.92,PP1051502,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-02-28
+RCG_A97A06174273,565.89,PP0029052,Recharge_Bills,Dth,Successful,Successful,2024-07-13
+RCG_11D82D7E9C9F,959.69,PP0039651,Recharge_Bills,Cable Tv,Successful,Successful,2024-11-02
+RCG_5886FD894469,1509.7,PP0044696,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-04-15
+RCG_CE9F52D6D814,1014.3,PP1058776,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-08-02
+RCG_7A23F5C41D11,131.79,PP0005545,Recharge_Bills,Cable Tv,Successful,Successful,2024-06-06
+RCG_948F341E7710,1417.3,PP1051129,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-11-30
+RCG_F3D64E1FC93A,1300.59,PP1078026,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-08-06
+RCG_4C9120CC337F,509.41,PP0038364,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-05-16
+RCG_845C3B53B5B3,428.2,PP1097440,Recharge_Bills,Dth,Successful,Successful,2024-03-16
+RCG_48A1D27A302F,1326.98,PP1072130,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-10-26
+RCG_0DA79EF65B05,278.96,PP1049989,Recharge_Bills,Dth,Successful,Successful,2024-05-07
+RCG_C8B792745806,891.78,PP0033084,Recharge_Bills,Dth,Successful,Successful,2024-10-29
+RCG_39607915256F,394.91,PP1102385,Recharge_Bills,Cable Tv,Successful,Successful,2024-08-17
+RCG_431812B6E212,400.76,PP1099040,Recharge_Bills,Dth,Successful,Successful,2024-08-01
+RCG_D8AE93B99DEC,1467.01,PP0008212,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-09-21
+RCG_03B3336A2921,1925.85,PP1102504,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-03-18
+RCG_961AA2A3B14D,1198.63,PP0015768,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-01-26
+RCG_3DC0C7BD386F,1240.0,PP1065638,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-01-02
+RCG_A74FDE4B00C3,176.95,PP1059236,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-01-28
+RCG_2F3D6976530E,1814.47,PP0034972,Recharge_Bills,Cable Tv,Successful,Successful,2024-07-03
+RCG_7BECB670E042,1607.32,PP0003481,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-12-11
+RCG_EE1F5EE225F3,381.15,PP1056089,Recharge_Bills,Dth,Successful,Successful,2024-11-17
+RCG_17115661AE01,761.42,PP1052560,Recharge_Bills,Fastag Recharge,Successful,Unknown,2024-11-25
+RCG_1D21A13662C3,1455.96,PP1098906,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-10-05
+RCG_A4344C35D863,680.52,PP1088804,Recharge_Bills,Cable Tv,Successful,Successful,2024-11-06
+RCG_A14C539223C0,1939.11,PP0005467,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-04-23
+RCG_8EA227A2198D,161.53,PP1075930,Recharge_Bills,Dth,Successful,Successful,2024-08-19
+RCG_4F9BA1489EEA,91.39,PP1094934,Recharge_Bills,Dth,Successful,Successful,2024-01-06
+RCG_962719B4AE7E,1696.94,PP0016605,Recharge_Bills,Dth,Successful,Successful,2024-08-24
+RCG_D84F85F5FFE5,1979.54,PP0025654,Recharge_Bills,Dth,Successful,Successful,2024-02-15
+RCG_FCB943F0EFA6,1579.91,PP0049763,Recharge_Bills,Cable Tv,Successful,Successful,2024-09-10
+RCG_B8844201582D,1453.91,PP1060957,Recharge_Bills,Cable Tv,Successful,Successful,2024-12-16
+RCG_835C2B1C0B22,1456.6,PP1069398,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-05-01
+RCG_02D785EB629A,782.97,PP1097961,Recharge_Bills,Dth,Successful,Unknown,2024-04-21
+RCG_CBA228FF0AC5,1681.12,PP1082821,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-12-16
+RCG_B555A4740FF6,476.71,PP0038952,Recharge_Bills,Dth,Successful,Successful,2024-12-01
+RCG_F5851374DE55,1563.66,PP0016233,Recharge_Bills,Dth,Successful,Successful,2024-10-10
+RCG_5D1FCE33E9BC,1909.23,PP1062222,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-11-08
+RCG_DD88B3C51A7E,1214.24,PP1095678,Recharge_Bills,Fastag Recharge,Failed,Insufficient amount,2024-01-10
+RCG_E8E56C156024,780.47,PP1103387,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-07-26
+RCG_0B3F2618FFCB,1014.3,PP1084010,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-07-25
+RCG_4D3BBEDFF010,169.3,PP0035999,Recharge_Bills,Dth,Successful,Successful,2024-07-21
+RCG_333906270B46,1368.75,PP0029621,Recharge_Bills,Fastag Recharge ,Successful,Successful,2024-02-27
+RCG_546B7BE611BF,1390.34,PP1093638,Recharge_Bills,Dth,Successful,Successful,2024-07-30
+RCG_E6294DF25161,1615.84,PP1063469,Recharge_Bills,Dth,Successful,Successful,2024-11-13
+RCG_2A9AB4DAC9D1,254.32,PP0003758,Recharge_Bills,Cable Tv,Successful,Successful,2024-03-31
+RCG_AFC14ACEFE27,1453.15,PP0023130,Recharge_Bills,Dth,Successful,Successful,2024-12-13
+RCG_0DC80DB92FB1,645.53,PP1063606,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-10-19
+RCG_060F0E5E8645,411.0,PP1084451,Recharge_Bills,Dth,Successful,Successful,2024-12-28
+RCG_674609B418E0,521.4,PP0038577,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-03-03
+RCG_D9F646291FCB,1537.59,PP1083507,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-10-26
+RCG_7B45F071C745,852.93,PP1063503,Recharge_Bills,Cable Tv,Successful,Successful,2024-07-11
+RCG_ED50766CA590,665.67,PP0019892,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-07-25
+RCG_DC8024E1CC48,707.35,PP1090182,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-03-01
+RCG_DC5476BD8D7F,1264.47,PP0004105,Recharge_Bills,Dth,Successful,Successful,2024-10-22
+RCG_05D984989AFB,904.06,PP1084968,Recharge_Bills,Dth,Successful,Successful,2024-10-15
+RCG_12A80487AA3F,837.44,PP0017566,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-08-28
+RCG_8AEEA2C4B980,330.03,PP1076753,Recharge_Bills,Cable Tv,Successful,Successful,2024-06-08
+RCG_1695B1850EBF,1034.31,PP0012986,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-04-25
+RCG_BF48CCE86BCF,474.2,PP0036325,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-11-01
+RCG_BF21D8C3EA1B,620.09,PP1085569,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-08-13
+RCG_3C58184F7369,556.18,PP0013362,Recharge_Bills,Dth,Failed,Server error,2024-04-21
+RCG_B8E51B602710,1401.91,PP1078759,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-02-20
+RCG_AB6EA71A31E6,615.48,PP1084384,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-03-24
+RCG_8383470CFBD1,1209.08,PP0031690,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-06-09
+RCG_D237F033D42B,569.83,PP1063204,Recharge_Bills,Cable Tv,Successful,Successful,2024-05-19
+RCG_C8D4D95A3E5F,1014.3,PP1065825,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-06-01
+RCG_5A05E7B39E0E,69.46,PP1054934,Recharge_Bills,Cable Tv,Successful,Successful,2024-10-14
+RCG_7670E0C9151D,986.85,PP0019832,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-11-22
+RCG_68DF22ACA7DE,1164.61,PP1097096,Recharge_Bills,Dth,Successful,Successful,2024-07-19
+RCG_E44668AE2655,1004.91,PP0032758,Recharge_Bills,Cable Tv,Successful,Successful,2024-04-01
+RCG_797E30C3AC3F,1686.69,PP1070709,Recharge_Bills,Cable Tv,Successful,Successful,2024-05-03
+RCG_11391ABFC3CD,1884.34,PP0047768,Recharge_Bills,Cable Tv,Successful,Successful,2024-11-30
+RCG_67F421D7A4EF,363.3,PP0042073,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-08-19
+RCG_73A1C8E009E9,584.27,PP0042752,Recharge_Bills,Cable Tv,Successful,Successful,2024-07-21
+RCG_05E8B1E50E3F,1471.59,PP0038812,Recharge_Bills,Fastag Recharge,Failed,Wrong PIN,2024-08-29
+RCG_E2ACE8627E2E,660.24,PP1101432,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-02-22
+RCG_467BFE193B44,616.28,PP1076387,Recharge_Bills,Dth,Successful,Successful,2024-03-16
+RCG_7DD89B738F2E,1757.64,PP1074915,Recharge_Bills,Dth,Successful,Successful,2024-09-20
+RCG_021E24E2FC27,1259.57,PP0003487,Recharge_Bills,Cable Tv,Successful,Successful,2024-01-11
+RCG_DDF6DD58874F,515.43,PP1099450,Recharge_Bills,Dth,Successful,Successful,2024-03-20
+RCG_F215A9B2A880,1576.85,PP0010543,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-04-08
+RCG_36A48EA0E45E,1211.02,PP1073079,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-10-15
+RCG_04136630EAAC,1473.06,PP0021295,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-12-18
+RCG_EC06A6059D20,1009.49,PP1092636,Recharge_Bills,Dth,Successful,Successful,2024-12-04
+RCG_C754AE957F6B,1506.44,PP0000282,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-08-13
+RCG_4D68864BDA14,1039.36,PP1079939,Recharge_Bills,Cable Tv,Successful,Successful,2024-04-21
+RCG_BADB1E02F6AF,1541.14,PP0019910,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-06-25
+RCG_5BB1CD30AB82,878.78,PP0016377,Recharge_Bills,Mobile Recharge,Failed,Wrong PIN,2024-04-21
+RCG_CC359C103B50,513.81,PP1062857,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-12-26
+RCG_7C6651CC8FAD,1262.53,PP1052326,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-02-27
+RCG_3E1EC6016734,1670.44,PP0048109,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-01-10
+RCG_EB249C3FF332,1052.56,PP0010249,Recharge_Bills,Cable Tv,Successful,Successful,2024-04-26
+RCG_6AAB472096A7,214.84,PP0014989,Recharge_Bills,Mobile Recharge,Unknown,Successful,2024-03-08
+RCG_B0DE3CF03552,764.32,PP0041843,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-12-17
+RCG_F9688BD73463,1363.52,PP1090364,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-07-09
+RCG_581CCC597DDC,720.82,PP0030987,Recharge_Bills,Cable Tv,Successful,Successful,2024-12-13
+RCG_3D6F6EAF8F28,1838.88,PP1079165,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-02-08
+RCG_CE23E2C8F359,389.62,PP0040960,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-08-28
+RCG_4DBED4559C7D,1780.26,PP1059878,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-09-22
+RCG_CAA7DD82867D,376.29,PP0039791,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-04-30
+RCG_33E45FE671D7,1230.14,PP0000940,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-10-01
+RCG_E6C42F555A5D,1631.03,PP1083040,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-04-19
+RCG_4A017BC5D351,624.26,PP0011449,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-02-20
+RCG_E85129C75548,1335.38,PP1064608,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-02-28
+RCG_930DA971A1DF,443.16,PP0046461,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-01-21
+RCG_CD68276080F6,1263.52,PP1077908,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-02-12
+RCG_504831976F1F,1539.57,PP1085214,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-09-04
+RCG_0C8B5CF249BA,868.66,PP0019297,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-07-29
+RCG_6CBA52D225DA,1014.3,PP1099078,Recharge_Bills,Cable Tv,Successful,Successful,2024-01-31
+RCG_06B60C0DA40C,1539.48,PP0028231,Recharge_Bills,Mobile Recharge,Successful,Unknown,2024-02-15
+RCG_18DDA9EF93A8,957.34,PP1080499,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-10-01
+RCG_1E2C333A9F37,1412.44,PP0006299,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-11-07
+RCG_26091377B521,385.5,PP0008087,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-11-16
+RCG_CABD8DF2F5B4,1915.32,PP0016075,Recharge_Bills,Cable Tv,Successful,Successful,2024-02-17
+RCG_85F29D43B33E,1284.25,PP1051726,Recharge_Bills,Dth,Successful,Successful,2024-12-08
+RCG_A627E8B073AF,541.81,PP1062354,Recharge_Bills,Cable Tv,Successful,Unknown,2024-01-13
+RCG_45C51895F42F,795.92,PP1061118,Recharge_Bills,Cable Tv,Successful,Successful,2024-01-19
+RCG_F4A846BA3A4D,1710.91,PP0026145,Recharge_Bills,Fastag Recharge,Unknown,Successful,2024-06-20
+RCG_0369E3F97423,1753.71,PP1063952,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-10-21
+RCG_3A2362D1F7A7,1334.85,PP0025822,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-05-21
+RCG_4DF6326B94C9,1971.43,PP1069127,Recharge_Bills,Cable Tv,Successful,Unknown,2024-09-17
+RCG_27A644DAD590,76.17,PP0043962,Recharge_Bills,Dth,Successful,Successful,2024-05-05
+RCG_65ADC027ED21,1896.08,PP0031483,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-02-18
+RCG_5ADD6A0F0533,957.24,PP1079604,Recharge_Bills,Cable Tv,Successful,Successful,2024-11-22
+RCG_9EF43CF331D2,1700.51,PP1058458,Recharge_Bills,Dth,Successful,Successful,2024-06-04
+RCG_0CF3ED0531A7,478.87,PP1098858,Recharge_Bills,Cable Tv ,Successful,Successful,2024-10-22
+RCG_31E5A77F9265,1669.3,PP0025046,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-01-23
+RCG_F53031BB23BF,1014.3,PP1085843,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-04-22
+RCG_2E148FB0B47C,1420.64,PP1080537,Recharge_Bills,Cable Tv ,Successful,Successful,2024-11-12
+RCG_233F61D1E549,667.75,PP1105378,Recharge_Bills,Dth,Failed,Wrong PIN,2024-08-01
+RCG_CB53DEEE6920,632.28,PP0046524,Recharge_Bills,Dth,Successful,Successful,2024-01-25
+RCG_828E42F1A814,1627.01,PP0025636,Recharge_Bills,Cable Tv,Successful,Successful,2024-12-26
+RCG_AF4ABF780CA6,1679.73,PP1086643,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-07-06
+RCG_D16EF6450907,70.84,PP1065628,Recharge_Bills,Dth,Successful,Successful,2024-10-30
+RCG_80B484D162E7,1155.21,PP1092562,Recharge_Bills,Cable Tv,Successful,Successful,2024-05-16
+RCG_63663E2857A4,467.88,Unknown,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-05-12
+RCG_71AAB0B500DF,1079.45,PP1076582,Recharge_Bills,Cable Tv,Successful,Successful,2024-07-29
+RCG_2A19913EDE72,1433.8,PP0008616,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-01-02
+RCG_D1F51B0E23FC,1854.48,PP0023494,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-08-02
+RCG_4B8183651781,597.44,PP1089864,Recharge_Bills,Dth,Successful,Successful,2024-10-28
+RCG_768FEEFE5326,330.34,PP1085235,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-05-13
+RCG_90B8153655F6,1247.57,PP1066975,Recharge_Bills,Dth,Successful,Successful,2024-01-29
+RCG_63BC59035C25,1633.73,PP1095362,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-10-29
+RCG_E312A733A8BA,141.5,PP1083611,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-02-03
+RCG_F52A744FEF78,100.48,PP0027673,Recharge_Bills,Cable Tv,Successful,Successful,2024-11-02
+RCG_C48C19C67C03,675.48,PP0035546,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-01-09
+RCG_4FB808E309ED,1680.8,PP0025974,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-11-29
+RCG_42D5422267A8,667.88,PP1055355,Recharge_Bills,Dth,Successful,Successful,2024-01-20
+RCG_A9F4D0B85640,1734.28,PP0029937,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-06-29
+RCG_706AA31BB052,1814.48,PP0038015,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-01-26
+RCG_00D6885119E3,1091.7,PP1089609,Recharge_Bills,Dth,Successful,Successful,2024-04-06
+RCG_BC96A38D14A7,685.56,PP0004653,Recharge_Bills,Cable Tv,Successful,Successful,2024-06-19
+RCG_1201AB98BD81,1060.23,PP1063102,Recharge_Bills,Cable Tv,Successful,Successful,2024-10-10
+RCG_ABC080A9C01A,777.25,PP0047522,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-03-22
+RCG_8AABA3E2A903,680.96,PP0031265,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-02-26
+RCG_EC0E4830004B,1298.06,PP1096831,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-03-18
+RCG_1704D31BA8E7,614.73,PP1057340,Recharge_Bills,Cable Tv,Successful,Successful,2024-05-06
+RCG_ABA5741A7C02,1051.76,PP0021083,Recharge_Bills,Mobile Recharge,Successful,Unknown,2024-02-04
+RCG_A7D1B09B27CB,204.41,PP0035296,Recharge_Bills,Dth,Successful,Successful,2024-09-04
+RCG_C0DDE42D588B,619.58,PP0040621,Recharge_Bills,Cable Tv,Successful,Successful,2024-07-19
+RCG_77990B338FF6,1151.6,PP0019310,Recharge_Bills,Dth,Successful,Successful,2024-11-02
+RCG_8741D274FD42,1823.0,PP1094299,Recharge_Bills,Dth,Successful,Successful,2024-01-16
+RCG_7AEDD85DA3F2,342.35,PP1055888,Recharge_Bills,Dth,Successful,Successful,2024-10-02
+RCG_739144C6B769,621.85,PP1077220,Recharge_Bills,Cable Tv,Successful,Successful,2024-11-03
+RCG_3BD3BEB5B2F1,276.97,PP1076437,Recharge_Bills,Cable Tv,Successful,Successful,2024-08-27
+RCG_236A4C100070,1109.77,PP1098133,Recharge_Bills,Mobile Recharge ,Successful,Successful,2024-04-18
+RCG_89FCFE4A3EA8,1875.89,PP1098052,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-01-24
+RCG_9CC264CF1689,1725.71,PP0024845,Recharge_Bills,Cable Tv,Successful,Successful,2024-09-27
+RCG_83E2AE190549,481.13,PP1101686,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-06-04
+RCG_DB72B7327BE2,1405.73,PP0026375,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-05-22
+RCG_D3E97372FD2F,511.33,PP1075618,Recharge_Bills,Cable Tv,Successful,Successful,2024-05-23
+RCG_BE1CFC1D9C57,1266.52,PP0047496,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-07-14
+RCG_C51FAB2638D0,1047.96,PP1103660,Recharge_Bills,Dth,Successful,Successful,2024-09-15
+RCG_C4007B721DA0,1316.78,PP0047552,Recharge_Bills,Cable Tv,Successful,Successful,2024-01-22
+RCG_06FEF72BB8FA,217.68,PP0036485,Recharge_Bills,Dth,Successful,Successful,2024-03-30
+RCG_B4CB16C0D183,1041.91,PP0025462,Recharge_Bills,Cable Tv,Successful,Successful,2024-01-26
+RCG_28A6273FB3DE,179.19,PP0043215,Recharge_Bills,Cable Tv,Successful,Successful,2024-05-11
+RCG_3FB45C40326B,1609.7,PP0006186,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-02-25
+RCG_0236C3727ED7,1339.22,PP1106130,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-10-22
+RCG_CB2DB5CD65CD,1663.11,PP1059048,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-08-30
+RCG_D06C91B92EBD,1668.28,PP1091797,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-05-30
+RCG_9C09B1D7441B,760.81,PP0042516,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-02-13
+RCG_5E7D36AFF44A,1693.19,PP1063913,Recharge_Bills,Mobile Recharge,Failed,Wrong PIN,2024-09-16
+RCG_67CEB92D786D,753.26,PP0043622,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-06-30
+RCG_206555D176C5,863.26,PP1054266,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-12-18
+RCG_8D7EDA91CFC7,1713.12,PP1101995,Recharge_Bills,Dth,Successful,Successful,2024-12-06
+RCG_A9D3A08006B6,518.05,PP0015034,Recharge_Bills,Cable Tv,Successful,Successful,2024-08-12
+RCG_2B77E8C4ED34,1511.11,PP0025175,Recharge_Bills,Mobile Recharge,Successful,Unknown,2024-07-07
+RCG_3906DED5234D,1385.82,PP1103556,Recharge_Bills,Cable Tv,Successful,Successful,2024-02-14
+RCG_49BE160E58EC,836.58,PP0048551,Recharge_Bills,Cable Tv,Successful,Successful,2024-10-05
+RCG_0CF62A251BC7,1629.58,PP0042156,Recharge_Bills,Dth,Successful,Successful,2024-08-28
+RCG_792D6751AC7E,1407.69,PP0015805,Recharge_Bills,Cable Tv,Successful,Successful,2024-07-03
+RCG_A3A4ECE58B9C,235.2,PP0000636,Recharge_Bills,Dth,Successful,Successful,2024-10-14
+RCG_A5C867673430,1255.58,PP0044747,Recharge_Bills,Cable Tv,Successful,Successful,2024-10-04
+RCG_6D29BDE92637,423.41,PP1106047,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-02-17
+RCG_3B4C636A9985,1354.02,PP1050084,Recharge_Bills,Dth,Successful,Successful,2024-07-23
+RCG_A9C2FAA40565,732.66,PP1056739,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-01-23
+RCG_152758A0F5C7,1584.32,PP1088028,Recharge_Bills,Mobile Recharge,Successful,Unknown,2024-09-22
+RCG_01BB4807827A,965.59,PP0040320,Recharge_Bills,Cable Tv,Successful,Successful,2024-06-06
+RCG_FDB3AB467AC8,1521.26,PP0004122,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-11-26
+RCG_3011DC6DD6ED,1030.72,PP1094782,Recharge_Bills,Dth,Successful,Successful,2024-03-16
+RCG_3AC157C2C71A,597.41,PP1063715,Recharge_Bills,Dth,Successful,Successful,2024-02-18
+RCG_05C7AB245F25,1832.23,PP1059026,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-06-02
+RCG_6DE689EA3554,758.12,PP1095680,Recharge_Bills,Cable Tv,Failed,Wrong PIN,2024-04-21
+RCG_F03E6C738FF2,1014.3,PP1101597,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-06-04
+RCG_ADA723CF82D5,237.86,PP0003124,Recharge_Bills,Cable Tv,Successful,Successful,2024-08-12
+RCG_87F82D85E4FD,1881.32,PP1049177,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-10-14
+RCG_808D593DE6D7,1993.44,PP1056204,Recharge_Bills,Fastag Recharge,Unknown,Successful,2024-08-26
+RCG_FF397A7E9CAE,1011.37,PP1059591,Recharge_Bills,Cable Tv,Successful,Successful,2024-03-04
+RCG_44FA33A7681B,1167.78,PP1087288,Recharge_Bills,Cable Tv,Successful,Successful,2024-02-03
+RCG_7644276F3523,1222.07,PP1065345,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-08-25
+RCG_5BCE72A55524,1933.83,PP1103490,Recharge_Bills,Mobile Recharge ,Successful,Successful,2024-07-31
+RCG_3D5D42B1D685,1707.8,PP1054907,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-10-02
+RCG_76194B745304,838.86,PP0020896,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-08-08
+RCG_EA73048231E9,115.17,Unknown,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-02-04
+RCG_61AE9ADF54DC,1825.41,PP1100892,Recharge_Bills,Cable Tv,Successful,Successful,2024-07-01
+RCG_E171129154C7,1976.81,PP0017471,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-04-13
+RCG_FFFEB50D9742,1015.88,PP1071155,Recharge_Bills,Dth,Successful,Successful,2024-11-01
+RCG_0C50D64C23A3,180.91,PP1088241,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-11-02
+RCG_AB49E45DA63B,1241.39,PP1064523,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-11-02
+RCG_933F1A70A946,1014.3,PP0040054,Recharge_Bills,Cable Tv,Successful,Successful,2024-08-10
+RCG_502466B0B852,747.28,PP1104914,Recharge_Bills,Dth,Successful,Successful,2024-08-22
+RCG_16B08291B8F2,829.4,PP1060322,Recharge_Bills,Cable Tv,Successful,Successful,2024-09-06
+RCG_0A80FCB9D532,349.02,PP0045825,Recharge_Bills,Dth,Successful,Successful,2024-04-26
+RCG_D81B04E0283A,1515.66,PP0024594,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-01-06
+RCG_F85FA99E2E7A,876.73,PP0010935,Recharge_Bills,Dth,Successful,Successful,2024-02-29
+RCG_807055DD5669,366.52,PP1053549,Recharge_Bills,Cable Tv,Successful,Successful,2024-08-09
+RCG_4F1BF0D1C718,1741.04,PP1063658,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-07-08
+RCG_681C96B81045,466.28,PP1084608,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-10-17
+RCG_2F19F953A1E6,139.75,PP1056623,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-10-11
+RCG_1AF0D883E395,1530.21,Unknown,Recharge_Bills,Cable Tv,Successful,Successful,2024-08-09
+RCG_A1749DE6C8C1,151.13,PP1102312,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-02-23
+RCG_94135902F444,26.84,PP1054429,Recharge_Bills,Cable Tv,Failed,Insufficient amount,2024-05-01
+RCG_AF241C33168F,1069.97,PP0005968,Recharge_Bills,Dth,Successful,Successful,2024-08-19
+RCG_E03A363F2E91,465.04,PP0017896,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-03-13
+RCG_DC26DB0895F4,260.06,PP0013064,Recharge_Bills,Dth,Successful,Successful,2024-02-21
+RCG_82F8294F4C2B,1738.34,PP1088623,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-12-27
+RCG_EAC411C69453,1216.88,PP1072956,Recharge_Bills,Dth,Successful,Successful,2024-01-01
+RCG_0FEAB73ADADA,138.31,PP1077790,Recharge_Bills,Cable Tv,Successful,Successful,2024-04-01
+RCG_D5BE1524A0DC,1917.48,PP0039458,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-09-16
+RCG_F0B1BCBA7C70,502.24,PP0036450,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-08-02
+RCG_2F7925FE0D6D,1291.44,PP0014083,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-01-23
+RCG_282395384D5F,1654.06,PP1087002,Recharge_Bills,Cable Tv,Successful,Successful,2024-10-30
+RCG_7E805677CE5C,1955.96,PP1101328,Recharge_Bills,Fastag Recharge,Unknown,Successful,2024-08-27
+RCG_34E0244B7ACA,1291.13,PP0017929,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-06-19
+RCG_A3FF8E86162F,1902.81,PP1062095,Recharge_Bills,Dth,Successful,Unknown,2024-06-19
+RCG_5B415FEF3986,98.99,PP1060094,Recharge_Bills,Cable Tv,Successful,Successful,2024-09-03
+RCG_83DF0EB19110,1505.16,PP0049162,Recharge_Bills,Dth,Successful,Successful,2024-03-31
+RCG_D21EC2DCAAF4,1633.63,PP1071434,Recharge_Bills,Mobile Recharge,Failed,Insufficient amount,2024-09-03
+RCG_32566C9EFD0E,345.7,PP0047926,Recharge_Bills,Cable Tv,Successful,Successful,2024-07-10
+RCG_117E11FBB797,410.43,PP0042362,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-01-02
+RCG_5B4FEFB4F42D,1687.66,PP0024780,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-09-24
+RCG_7318BD026CEA,1214.93,PP1069922,Recharge_Bills,Dth,Successful,Successful,2024-01-03
+RCG_8C5381E6FD27,416.22,PP1052173,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-06-02
+RCG_4F350486B1AE,647.38,PP1078596,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-07-01
+RCG_44400DF002D3,1876.38,PP0033288,Recharge_Bills,Cable Tv,Successful,Successful,2024-06-25
+RCG_D092B2138BF4,1767.45,PP1107416,Recharge_Bills,Dth ,Successful,Successful,2024-12-18
+RCG_A4D5E72B3C36,171.08,PP0047746,Recharge_Bills,Cable Tv ,Successful,Successful,2024-12-25
+RCG_08FA1926AB23,730.95,PP0015862,Recharge_Bills,Fastag Recharge,Successful,Unknown,2024-03-17
+RCG_C8B97038FD82,1230.58,PP0040961,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-09-24
+RCG_23130B07DC30,1556.73,PP0013520,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-11-23
+RCG_6B4D0B00B9E0,1287.73,PP1052487,Recharge_Bills,Dth,Successful,Successful,2024-05-01
+RCG_7ED911A6A45F,337.05,PP0041786,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-04-03
+RCG_736896D47041,1553.81,PP0002498,Recharge_Bills,Cable Tv,Successful,Successful,2024-08-25
+RCG_8CEA5D5D3FFD,666.11,PP0016482,Recharge_Bills,Dth,Successful,Successful,2024-12-13
+RCG_89E2020DB776,472.1,PP0013819,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-12-28
+RCG_E6EEAE31D375,1300.2,PP0010634,Recharge_Bills,Cable Tv,Successful,Successful,2024-11-09
+RCG_DDB022B76662,197.49,PP0022417,Recharge_Bills,Cable Tv,Successful,Successful,2024-12-08
+RCG_E7A36FCFDAA0,454.23,PP0007663,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-12-21
+RCG_6DFB55C2121F,1665.94,PP1055433,Recharge_Bills,Cable Tv,Successful,Successful,2024-11-28
+RCG_68CF2AB82C5D,306.45,PP1066825,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-01-05
+RCG_47ACF80FC6D7,275.91,PP1102594,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-04-29
+RCG_20A50D2CB8F5,1285.67,PP0047127,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-03-10
+RCG_C690BB404909,1226.72,Unknown,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-05-18
+RCG_E468ADC26C7F,1108.81,PP1090803,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-05-08
+RCG_8A6FE8DE29F7,1153.93,PP0021270,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-08-21
+RCG_88EA8E1DE46A,1014.3,PP0011692,Recharge_Bills,Cable Tv,Successful,Successful,2024-08-10
+RCG_C57A9C02BC17,543.09,PP0038802,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-07-07
+RCG_C5118F36C266,1503.98,PP1052982,Recharge_Bills,Dth,Successful,Successful,2024-03-13
+RCG_865E5496F028,1452.37,PP1074303,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-07-01
+RCG_3E1A71774E76,1230.93,PP1104063,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-03-09
+RCG_E4C0D1FDBA39,208.02,PP1052905,Recharge_Bills,Cable Tv,Successful,Successful,2024-09-24
+RCG_BAE182AC1A6E,855.98,PP0009654,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-02-14
+RCG_79AB74A459F7,1306.71,PP1052106,Recharge_Bills,Dth,Successful,Successful,2024-10-12
+RCG_892DA2EB4761,151.36,Unknown,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-12-07
+RCG_E20DF490AC75,1266.12,PP1105137,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-12-19
+RCG_11859D59FD57,1014.3,PP1107550,Recharge_Bills,Fastag Recharge ,Successful,Successful,2024-05-01
+RCG_1EA896555053,25.53,PP1068186,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-01-11
+RCG_8A11650FB884,1204.58,PP1051962,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-02-04
+RCG_5A5808446C23,867.81,PP1084384,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-09-07
+RCG_AE08DF04E0CD,1802.81,PP0012288,Recharge_Bills,Cable Tv,Successful,Successful,2024-09-17
+RCG_D8410D8F8E97,664.68,PP1096491,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-11-15
+RCG_F6C3E254F50B,1822.16,PP0017245,Recharge_Bills,Cable Tv,Successful,Successful,2024-02-07
+RCG_A9998CBFBB8E,876.85,PP1094082,Recharge_Bills,Fastag Recharge,Successful,Unknown,2024-07-27
+RCG_FDB45FAE8E4E,1287.28,PP1087354,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-12-28
+RCG_8211D8DC8070,1831.05,PP0022169,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-01-17
+RCG_0DF88AB940A4,937.9,PP1064819,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-08-12
+RCG_0F10054D9DAD,151.64,PP1069743,Recharge_Bills,Dth,Successful,Successful,2024-11-24
+RCG_C7B18E2BD7CE,71.62,PP1099068,Recharge_Bills,Cable Tv,Successful,Successful,2024-03-23
+RCG_7990995B7C94,1955.26,PP1069762,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-07-06
+RCG_4B40B5023C34,1771.89,PP1104845,Recharge_Bills,Fastag Recharge,Failed,Server error,2024-11-08
+RCG_029AEE7D3554,1206.64,PP1070572,Recharge_Bills,Dth,Successful,Successful,2024-05-19
+RCG_F75B3B31B121,626.6,PP1062320,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-01-19
+RCG_EEDDBCD920F1,1952.38,PP1077642,Recharge_Bills,Dth,Successful,Successful,2024-02-10
+RCG_C7E17461A866,632.97,PP1066375,Recharge_Bills,Dth,Successful,Successful,2024-11-27
+RCG_4C29AC7D8C35,1287.22,PP0047278,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-09-13
+RCG_ABA79C798473,154.93,PP0024091,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-10-07
+RCG_D14E2E64D89F,991.64,PP0019335,Recharge_Bills,Cable Tv,Successful,Successful,2024-07-31
+RCG_4C6D2BB88516,666.87,PP0041755,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-11-30
+RCG_B2AC801452B7,1473.78,PP1083203,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-10-01
+RCG_BC3659F6C0BD,381.4,Unknown,Recharge_Bills,Cable Tv,Failed,Insufficient amount,2024-03-15
+RCG_D40081039484,1706.46,PP0014126,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-04-18
+RCG_F737CB9455D9,418.11,PP0035536,Recharge_Bills,Cable Tv,Successful,Successful,2024-12-17
+RCG_9103395FAAD8,516.08,PP1087087,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-02-09
+RCG_9D9873B2BA0A,1053.48,PP1104386,Recharge_Bills,Mobile Recharge,Failed,Insufficient amount,2024-09-18
+RCG_7562D0DF7EAE,313.15,Unknown,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-07-02
+RCG_785F792736A9,1664.67,PP0000223,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-04-03
+RCG_8ED53EAAB443,517.11,PP1086458,Recharge_Bills,Cable Tv,Successful,Successful,2024-03-21
+RCG_E26D7A8F650F,1518.96,PP1087611,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-08-11
+RCG_2F2E851AC3E2,101.89,PP1077391,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-04-12
+RCG_18E4F802CC54,550.47,PP1053881,Recharge_Bills,Cable Tv,Successful,Successful,2024-04-04
+RCG_5FB0CDBF6BB2,1150.24,PP0001666,Recharge_Bills,Cable Tv,Successful,Successful,2024-07-07
+RCG_B375A54B1287,1204.86,PP1066280,Recharge_Bills,Cable Tv,Successful,Successful,2024-12-12
+RCG_EF68C93BA68E,961.16,PP0018860,Recharge_Bills,Cable Tv,Successful,Successful,2024-06-28
+RCG_01B180B62D93,1014.3,PP1096157,Recharge_Bills,Fastag Recharge,Unknown,Successful,2024-06-24
+RCG_66A846469293,1338.11,PP1094722,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-06-09
+RCG_F45B68CB7E60,1082.16,PP1061748,Recharge_Bills,Dth,Successful,Successful,2024-10-10
+RCG_D7C825638547,1854.73,PP0018218,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-02-19
+RCG_E1E3654E3805,1301.3,PP1088458,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-10-02
+RCG_D96A693C6406,320.61,Unknown,Recharge_Bills,Dth,Successful,Successful,2024-07-07
+RCG_4ED96EE8A0D7,1335.71,PP0035726,Recharge_Bills,Dth,Successful,Successful,2024-08-31
+RCG_D83A4AFBCFB5,1973.98,PP0011067,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-03-21
+RCG_6E0F50EB5864,1852.4,PP1102520,Recharge_Bills,Cable Tv,Successful,Successful,2024-02-10
+RCG_C4403D544CDA,1613.48,PP0047128,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-02-12
+RCG_CC69BBBEC519,1387.52,PP1099693,Recharge_Bills,Dth,Successful,Successful,2024-09-27
+RCG_AFFEB2EE17B5,1100.6,PP0031821,Recharge_Bills,Dth,Successful,Successful,2024-12-15
+RCG_D0E9F701F950,1099.75,PP1062374,Recharge_Bills,Cable Tv,Successful,Successful,2024-07-16
+RCG_91821057B230,1458.05,PP0007696,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-03-26
+RCG_3513FBAD2A4E,1549.39,PP0038854,Recharge_Bills,Cable Tv,Successful,Successful,2024-02-20
+RCG_2D908A77ABE5,1558.95,PP0013530,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-08-12
+RCG_543607A35703,1076.98,PP1055216,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-06-05
+RCG_16DE2359D6F7,768.47,PP1059415,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-01-21
+RCG_DA9FF8D2471D,1172.55,PP0045602,Recharge_Bills,Cable Tv,Successful,Successful,2024-12-10
+RCG_0635B1104B1B,202.51,PP1080909,Recharge_Bills,Mobile Recharge,Failed,Insufficient amount,2024-12-09
+RCG_BE399C0B5569,292.39,PP1050618,Recharge_Bills,Cable Tv,Successful,Unknown,2024-09-22
+RCG_62379B1661BE,834.85,PP1057054,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-12-05
+RCG_698C92CC4CC4,1809.48,PP1070134,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-05-06
+RCG_1013E8689451,1667.77,PP0014400,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-05-25
+RCG_7E265D68F370,853.55,Unknown,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-07-13
+RCG_1F3A314FA40A,1653.27,PP0002097,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-09-16
+RCG_032CDCC1BFE0,1959.59,PP0047895,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-08-05
+RCG_1EBC6A50BA86,1036.14,PP1075529,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-05-02
+RCG_26034DA7A2E3,1476.43,PP0023894,Recharge_Bills,Cable Tv,Successful,Successful,2024-07-11
+RCG_C75A6B4B08D4,341.43,PP0022647,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-11-28
+RCG_26D56926FCCE,795.77,PP0016379,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-09-07
+RCG_A064860A4970,786.85,PP0033259,Recharge_Bills,Dth,Successful,Unknown,2024-05-27
+RCG_CC0CBD895715,697.04,PP1057189,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-07-22
+RCG_A82E9720D664,1263.06,PP0018823,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-06-05
+RCG_42E66F888687,1052.81,PP0009670,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-05-29
+RCG_AE66F9A39662,217.47,PP1071917,Recharge_Bills,Cable Tv,Successful,Unknown,2024-06-23
+RCG_87BBB70A22B1,33.44,PP0026073,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-09-03
+RCG_508DEB1DA597,1551.37,PP1067797,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-09-06
+RCG_AEDD77E3466C,675.45,PP1078992,Recharge_Bills,Cable Tv,Successful,Successful,2024-03-27
+RCG_5DD530FA6B8F,917.77,PP1090990,Recharge_Bills,Dth,Successful,Successful,2024-04-21
+RCG_469C247EFF3D,113.85,PP0038884,Recharge_Bills,Cable Tv,Successful,Successful,2024-08-01
+RCG_AE9CF26833F3,1902.93,PP0006281,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-07-27
+RCG_8AD4D810C766,386.06,PP0023072,Recharge_Bills,Dth,Successful,Successful,2024-08-02
+RCG_D6C94EB07C29,579.99,PP1082225,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-12-30
+RCG_F9349824297A,1878.02,PP0031687,Recharge_Bills,Mobile Recharge,Successful,Unknown,2024-12-19
+RCG_71194333A981,1345.58,PP1095305,Recharge_Bills,Cable Tv,Successful,Successful,2024-05-25
+RCG_713924D75E3C,1601.74,PP0020757,Recharge_Bills,Cable Tv,Successful,Successful,2024-04-27
+RCG_7F8C333A46F7,1758.22,PP1066596,Recharge_Bills,Cable Tv,Successful,Successful,2024-09-20
+RCG_317D2527360E,574.89,PP1099794,Recharge_Bills,Dth,Successful,Successful,2024-10-09
+RCG_F2EF1D6BA693,654.35,PP1079811,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-02-01
+RCG_353D135B4970,1573.76,PP0047679,Recharge_Bills,Dth,Successful,Successful,2024-01-23
+RCG_538B81CAB3EC,1387.69,PP0030909,Recharge_Bills,Cable Tv,Successful,Successful,2024-02-17
+RCG_F0ACB1C04582,229.7,PP0030753,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-06-17
+RCG_534A59A23E1F,839.04,PP1089677,Recharge_Bills,Dth,Successful,Successful,2024-12-18
+RCG_0429C0A06464,1014.3,PP0039804,Recharge_Bills,Dth,Unknown,Successful,2024-10-25
+RCG_8AD127CC1739,1822.94,PP1082745,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-07-25
+RCG_6F54FF2EC057,1323.29,PP0033071,Recharge_Bills,Cable Tv,Successful,Successful,2024-05-30
+RCG_76B1C33DCED2,1146.22,Unknown,Recharge_Bills,Dth,Successful,Successful,2024-08-24
+RCG_F29A95892D40,1814.89,PP1057525,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-01-10
+RCG_33ADF627A753,1228.69,PP1080577,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-03-03
+RCG_46775B430317,1029.46,PP1052145,Recharge_Bills,Cable Tv,Successful,Successful,2024-06-30
+RCG_6B303B1CFB5C,611.29,PP1105108,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-10-25
+RCG_79B0FCEEB6F8,1088.37,PP0019052,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-06-19
+RCG_4524F0B9011F,542.26,PP0016938,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-11-28
+RCG_09B138F018B0,32.1,PP1099698,Recharge_Bills,Dth,Successful,Successful,2024-05-26
+RCG_5930C617B0C8,573.4,PP1090235,Recharge_Bills,Dth,Successful,Successful,2024-09-20
+RCG_184B2E7723E3,1672.98,PP0048388,Recharge_Bills,Dth,Successful,Successful,2024-08-26
+RCG_1843708620BE,1014.3,PP0012042,Recharge_Bills,Cable Tv,Successful,Successful,2024-04-15
+RCG_437ACCE57356,320.19,PP0017256,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-10-25
+RCG_27449AF51532,1088.62,PP0000403,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-11-06
+RCG_4030A4C0F1D7,1524.14,PP1094417,Recharge_Bills,Cable Tv,Successful,Successful,2024-07-05
+RCG_9758383D3A75,943.97,PP1077503,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-04-22
+RCG_741204A1EAC7,523.37,PP0040224,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-05-16
+RCG_D9D19B007908,740.35,PP1089133,Recharge_Bills,Dth,Successful,Successful,2024-06-25
+RCG_067E099545BD,1546.23,PP1058773,Recharge_Bills,Cable Tv,Successful,Successful,2024-05-21
+RCG_29CE303C32EE,1796.3,PP1050572,Recharge_Bills,Dth,Successful,Successful,2024-09-09
+RCG_4FFF654F53E8,1003.48,PP1052726,Recharge_Bills,Dth,Successful,Successful,2024-12-03
+RCG_2303ADE13226,1805.31,PP1080466,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-08-21
+RCG_F15D28C85ED6,702.75,PP0048901,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-04-13
+RCG_8883EADE1B69,1901.79,PP0042598,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-08-03
+RCG_778C49AF7F5C,599.58,PP1061402,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-01-12
+RCG_08D41C9807A2,29.47,PP0037188,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-08-07
+RCG_9CEA7997E1E2,470.47,PP0000783,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-04-12
+RCG_8B9D2C48F326,1014.3,PP0030009,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-06-20
+RCG_C631BBAD0E5C,1044.95,PP0004169,Recharge_Bills,Dth,Unknown,Successful,2024-05-22
+RCG_539026181101,1003.92,PP0007991,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-11-06
+RCG_7F8DB3A003FA,541.43,PP0035384,Recharge_Bills,Dth,Successful,Successful,2024-02-07
+RCG_E4FF1E931ABC,520.29,PP1089395,Recharge_Bills,Fastag Recharge ,Successful,Successful,2024-06-03
+RCG_59063E0B1865,142.77,PP0034178,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-09-22
+RCG_C012D4648E81,532.94,PP0025102,Recharge_Bills,Dth,Successful,Successful,2024-08-12
+RCG_068BDE39587D,1275.77,PP0037100,Recharge_Bills,Cable Tv,Successful,Successful,2024-07-10
+RCG_1A16981523A7,1624.66,PP1089007,Recharge_Bills,Dth,Successful,Successful,2024-05-15
+RCG_5B368541D791,490.07,PP1090873,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-01-24
+RCG_1DFF95EB730E,638.54,PP1080846,Recharge_Bills,Dth,Failed,Wrong PIN,2024-03-08
+RCG_E669BBB96C2C,609.5,PP1104797,Recharge_Bills,Cable Tv,Successful,Successful,2024-01-13
+RCG_6A16C47D28C1,1180.8,PP1083363,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-07-22
+RCG_49942E86C6C2,862.19,PP0033664,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-06-11
+RCG_6A07AE9732B2,242.89,PP1063336,Recharge_Bills,Cable Tv,Successful,Successful,2024-10-30
+RCG_65E190D327FD,1319.29,PP1103258,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-02-29
+RCG_DB4FC71B16D8,331.35,PP1062429,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-05-07
+RCG_E2ABED7BF1E4,1014.3,PP0045921,Recharge_Bills,Dth,Successful,Successful,2024-08-13
+RCG_8F9FB994C3DE,782.15,PP0030100,Recharge_Bills,Dth,Successful,Successful,2024-12-13
+RCG_49C8398080D8,649.78,PP0018221,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-11-03
+RCG_808E36179564,339.71,PP1085587,Recharge_Bills,Dth,Successful,Successful,2024-07-15
+RCG_0A36471C35B9,527.72,PP0028359,Recharge_Bills,Cable Tv,Successful,Successful,2024-06-10
+RCG_A06450310FC1,441.25,PP1051086,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-06-04
+RCG_28F72948F3D2,1011.56,PP0012024,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-12-05
+RCG_3E2FC5BF7DDF,1527.85,PP0048378,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-03-16
+RCG_229B39CCF19D,1256.33,PP1074484,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-10-16
+RCG_2ED7863523FA,945.33,PP0009282,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-03-08
+RCG_1C80DFBDB564,1629.31,PP0004620,Recharge_Bills,Cable Tv,Successful,Successful,2024-01-20
+RCG_3F09B495C459,402.96,PP0002196,Recharge_Bills,Dth,Successful,Successful,2024-03-12
+RCG_5FD1367E67B3,996.86,PP1082161,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-05-17
+RCG_788895A9C729,210.2,PP0023802,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-05-16
+RCG_8335F0104A28,1755.67,PP1064825,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-11-07
+RCG_E46EA83C22EB,1181.99,PP1105841,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-12-17
+RCG_23331E10044C,20.56,PP0015657,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-09-09
+RCG_BDBECAC67A47,1014.3,PP1070198,Recharge_Bills,Cable Tv,Successful,Unknown,2024-11-21
+RCG_CA8B2651BB8B,1188.17,PP1106791,Recharge_Bills,Fastag Recharge,Unknown,Successful,2024-07-29
+RCG_8655221A57DE,889.63,PP0033639,Recharge_Bills,Dth,Successful,Successful,2024-04-15
+RCG_4D646DA93C5C,1021.51,PP1074211,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-03-17
+RCG_1B240A54F8C5,127.11,PP1102546,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-08-07
+RCG_F4BA73386E41,1422.67,PP0047794,Recharge_Bills,Fastag Recharge,Unknown,Successful,2024-06-05
+RCG_766A24E02478,1970.94,PP1080472,Recharge_Bills,Dth,Successful,Successful,2024-09-05
+RCG_DCD1E4A5C31F,683.75,PP1050867,Recharge_Bills,Dth,Successful,Successful,2024-04-17
+RCG_2F47C2371DF3,1245.72,PP0017729,Recharge_Bills,Cable Tv,Successful,Successful,2024-01-22
+RCG_6657F14E203C,1338.51,PP0033181,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-04-19
+RCG_E3BF3A96B808,1910.36,PP0012987,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-01-26
+RCG_E13A777BA171,643.71,PP0002800,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-06-16
+RCG_8054D4854DF7,955.07,PP0045379,Recharge_Bills,Cable Tv,Successful,Successful,2024-11-17
+RCG_E30C39714FFA,91.92,PP1085704,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-04-14
+RCG_AE8B74BEEB5B,441.49,PP0045144,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-04-26
+RCG_FA37CF54FC9C,184.37,PP0033325,Recharge_Bills,Dth,Successful,Successful,2024-07-08
+RCG_BBA99C00BBE2,517.59,PP0031343,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-02-20
+RCG_072EF5FDAC20,118.82,PP0012692,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-03-12
+RCG_66D837161450,66.96,PP1051186,Recharge_Bills,Dth,Successful,Successful,2024-01-05
+RCG_A5536D9DECA8,1201.3,PP1061885,Recharge_Bills,Dth,Successful,Successful,2024-06-13
+RCG_D42EF26DD726,247.99,PP0048029,Recharge_Bills,Dth,Successful,Successful,2024-11-14
+RCG_CAB2738850C9,196.19,PP0034371,Recharge_Bills,Dth,Successful,Successful,2024-08-26
+RCG_21733F75C72D,616.28,PP1101829,Recharge_Bills,Dth,Failed,Wrong PIN,2024-04-11
+RCG_6EFDC82EDFF2,239.39,PP0009298,Recharge_Bills,Dth,Successful,Successful,2024-06-11
+RCG_365F771B8FD1,225.7,PP1105496,Recharge_Bills,Cable Tv,Successful,Successful,2024-10-09
+RCG_0AE20C3EBB14,1607.12,PP0027763,Recharge_Bills,Cable Tv,Successful,Successful,2024-07-27
+RCG_0C767AEB3E6B,414.55,PP0034950,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-03-04
+RCG_5362BE18C927,241.33,PP1079110,Recharge_Bills,Dth,Successful,Successful,2024-01-01
+RCG_64CEDCB81E4F,894.29,PP0021928,Recharge_Bills,Cable Tv,Successful,Successful,2024-01-02
+RCG_53925815A717,1338.98,Unknown,Recharge_Bills,Dth,Successful,Successful,2024-11-04
+RCG_54B106EF8A18,1398.3,PP0029969,Recharge_Bills,Cable Tv,Successful,Successful,2024-04-26
+RCG_EFE87ECF5ABD,1911.68,PP0047776,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-07-14
+RCG_A8A3C910648C,1014.3,PP0032675,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-01-27
+RCG_265870553D99,389.44,PP1079359,Recharge_Bills,Dth,Successful,Successful,2024-04-30
+RCG_331DB40439E5,1422.65,PP0028152,Recharge_Bills,Fastag Recharge,Unknown,Successful,2024-08-06
+RCG_B3631E976B68,126.98,PP0046382,Recharge_Bills,Dth,Successful,Successful,2024-04-20
+RCG_1FB92DD718F3,487.53,PP0045302,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-04-29
+RCG_F092DC0AC2CE,111.6,PP1073728,Recharge_Bills,Cable Tv,Successful,Successful,2024-02-23
+RCG_7FAE44DBFC5C,941.51,PP1085133,Recharge_Bills,Dth,Successful,Successful,2024-08-08
+RCG_C0F12129EB37,1829.34,PP0031642,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-08-05
+RCG_6EB9CEA3138F,1468.34,PP1076034,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-03-07
+RCG_8D74AFADD90C,1434.28,PP1103753,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-02-22
+RCG_9126EE03ADEC,251.74,PP0029766,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-01-02
+RCG_E386E756D807,1203.41,PP1072226,Recharge_Bills,Dth,Successful,Successful,2024-01-23
+RCG_DD3FBDE21B17,713.54,PP0035839,Recharge_Bills,Cable Tv,Successful,Successful,2024-04-08
+RCG_DABCB542D442,560.06,PP0038937,Recharge_Bills,Cable Tv,Successful,Successful,2024-06-30
+RCG_895E22A6E5D6,448.94,PP1058742,Recharge_Bills,Dth,Successful,Successful,2024-10-09
+RCG_9425FEB4A5CA,751.01,PP1093314,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-09-21
+RCG_0B2C85AEA26A,1463.65,PP0042934,Recharge_Bills,Mobile Recharge,Unknown,Successful,2024-07-31
+RCG_36E9FA25F5BB,1399.2,PP1103468,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-04-30
+RCG_DA8B0A3A304F,939.24,PP0007632,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-10-18
+RCG_EA00366C0A7B,1373.89,PP1060000,Recharge_Bills,Cable Tv,Successful,Successful,2024-09-16
+RCG_463E84B6E16E,1015.68,PP1074847,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-01-03
+RCG_AF4E6FABCD3A,1475.71,PP1069413,Recharge_Bills,Dth,Successful,Successful,2024-10-07
+RCG_2F5F5B100FD7,1782.79,PP1085135,Recharge_Bills,Dth,Successful,Successful,2024-04-02
+RCG_5A2B2DD558C9,600.01,Unknown,Recharge_Bills,Dth,Successful,Unknown,2024-08-12
+RCG_0A7DAE50986C,1915.65,PP0015069,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-06-17
+RCG_BAF8AE5BF2F6,932.97,PP1050930,Recharge_Bills,Mobile Recharge,Failed,Wrong PIN,2024-07-17
+RCG_0B1D37A75DF8,1235.79,PP0020550,Recharge_Bills,Cable Tv,Successful,Successful,2024-06-25
+RCG_7AD0A0BD12D4,1216.34,PP0043736,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-10-01
+RCG_BE270429BDEE,705.46,Unknown,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-04-11
+RCG_56CAAA6DB2BB,1408.96,PP0043692,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-03-06
+RCG_6819152940C8,1212.43,PP1085760,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-11-20
+RCG_16E147BAC977,1579.48,PP0001813,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-10-01
+RCG_4918B2C40669,1753.07,PP1099083,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-04-04
+RCG_840C2203AD45,957.44,PP0025686,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-05-10
+RCG_F55AD93C73AD,1215.81,PP0029704,Recharge_Bills,Cable Tv,Failed,Unknown,2024-12-22
+RCG_B09F6A8DAA9A,427.34,PP0013236,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-04-07
+RCG_EF4574BE8DE8,1359.23,PP1052557,Recharge_Bills,Fastag Recharge,Unknown,Successful,2024-07-08
+RCG_90078D754BD3,1774.65,PP0017566,Recharge_Bills,Cable Tv,Successful,Successful,2024-04-27
+RCG_5EA775BC41AC,1443.21,PP0037010,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-08-18
+RCG_B93F0649507A,1031.5,PP0016378,Recharge_Bills,Dth,Successful,Successful,2024-10-29
+RCG_EB565DDF0752,1014.3,PP1102521,Recharge_Bills,Dth,Successful,Successful,2024-05-21
+RCG_9C164E9DA92D,736.25,PP0039554,Recharge_Bills,Cable Tv,Successful,Successful,2024-03-29
+RCG_DF6C83AEC148,595.18,PP1075937,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-09-02
+RCG_781BD162922D,1819.86,Unknown,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-06-10
+RCG_A62343A3A892,1985.53,PP0008256,Recharge_Bills,Dth,Unknown,Successful,2024-09-03
+RCG_41AFCFFA053B,1189.78,PP0031582,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-10-05
+RCG_9F32DB6F9A14,1014.3,PP0031942,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-12-02
+RCG_865E48F302A7,444.93,PP0014338,Recharge_Bills,Cable Tv,Successful,Successful,2024-12-16
+RCG_4A660FCE9489,1700.96,PP0041877,Recharge_Bills,Dth,Successful,Successful,2024-02-07
+RCG_1BB48B442AD2,1940.54,PP0042890,Recharge_Bills,Dth,Successful,Unknown,2024-06-22
+RCG_B699A73EBCBA,1487.7,PP1056529,Recharge_Bills,Cable Tv,Successful,Successful,2024-08-27
+RCG_670F81BE5EC1,831.82,PP0034723,Recharge_Bills,Dth,Successful,Successful,2024-10-20
+RCG_E498008631B8,26.27,PP1071032,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-01-09
+RCG_3C2A4E8C12FB,509.65,Unknown,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-02-09
+RCG_3F30B46F860F,1945.22,PP1080840,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-11-08
+RCG_D841B03E8932,801.16,PP0038687,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-07-26
+RCG_648E91F877DD,886.05,PP1063890,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-04-18
+RCG_F9CC1E78EAA9,670.15,Unknown,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-08-01
+RCG_E4E5FA5CF063,1317.9,PP1077388,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-04-11
+RCG_F5AC3DD07EDC,276.42,PP1083602,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-08-25
+RCG_E53FBE3FA003,1164.03,PP1096933,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-02-13
+RCG_B45B245BCBF0,987.3,PP0043118,Recharge_Bills,Dth,Successful,Successful,2024-04-20
+RCG_082D80CC7C27,1572.52,PP1069935,Recharge_Bills,Cable Tv,Successful,Successful,2024-08-20
+RCG_FC65A7AF6BDE,597.37,PP1097550,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-11-06
+RCG_9D7F14FBDE36,1125.33,PP0032700,Recharge_Bills,Dth,Successful,Successful,2024-12-15
+RCG_BE14487A5A45,1102.37,PP1089945,Recharge_Bills,Dth,Successful,Successful,2024-02-28
+RCG_C65C55C0CD9E,272.17,PP0041762,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-09-22
+RCG_7E2605D281FD,394.8,PP0012300,Recharge_Bills,Dth,Successful,Successful,2024-10-28
+RCG_76CD0F4D9859,1861.32,PP1058294,Recharge_Bills,Cable Tv,Successful,Successful,2024-02-22
+RCG_C400B5E44F29,207.48,PP1077840,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-10-09
+RCG_7DD48E88C864,1460.83,PP1051043,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-11-13
+RCG_296CF77D186B,1041.4,PP0047265,Recharge_Bills,Cable Tv,Successful,Successful,2024-07-18
+RCG_691722B7F2FD,1032.99,Unknown,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-08-11
+RCG_AFEAB3548384,722.84,PP0039817,Recharge_Bills,Dth,Successful,Successful,2024-11-12
+RCG_0C65343360F2,640.2,PP1058724,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-08-04
+RCG_C6DB2B2A619D,258.66,PP0036173,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-05-17
+RCG_43A035AC4331,1715.91,PP0017243,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-04-05
+RCG_812442F9983C,451.97,PP1059885,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-05-23
+RCG_D387945D50DE,763.49,PP1085685,Recharge_Bills,Cable Tv,Successful,Successful,2024-03-02
+RCG_099D2EE4D138,1822.7,PP1075969,Recharge_Bills,Cable Tv,Successful,Successful,2024-02-29
+RCG_3338986023B6,1014.3,PP0028014,Recharge_Bills,Dth,Successful,Successful,2024-09-13
+RCG_025DF89A506B,967.91,PP1086531,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-09-18
+RCG_BC59056C0752,91.74,PP1105421,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-05-15
+RCG_AF821A558DE0,1192.15,PP0022136,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-01-12
+RCG_8696661DC089,328.4,PP1065015,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-05-11
+RCG_0B342DDA1AFC,144.44,PP1078414,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-12-07
+RCG_C18AAF1AF039,287.2,PP0039203,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-03-25
+RCG_F45D86674F59,130.24,PP1094787,Recharge_Bills,Cable Tv,Successful,Successful,2024-07-08
+RCG_B485D8C6E0E6,89.64,PP0027526,Recharge_Bills,Cable Tv,Successful,Successful,2024-04-10
+RCG_42A89CDCDA6D,273.86,PP1077176,Recharge_Bills,Cable Tv,Successful,Successful,2024-09-08
+RCG_DD9EA3A083CB,168.39,PP1091617,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-12-09
+RCG_24677030BDCF,1286.65,PP1050913,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-02-29
+RCG_FD7E0229DCF4,963.28,PP1059412,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-04-05
+RCG_8FC81F79AF71,1153.77,PP0023767,Recharge_Bills,Fastag Recharge,Failed,Insufficient amount,2024-09-12
+RCG_85C5E543D15A,537.16,PP1094256,Recharge_Bills,Dth,Successful,Successful,2024-04-24
+RCG_6B303DE3028D,1338.36,PP0049796,Recharge_Bills,Cable Tv,Successful,Successful,2024-12-06
+RCG_D9F77258A1D5,1200.23,PP0011615,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-05-14
+RCG_A3B5D280FA69,841.54,PP1098000,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-10-08
+RCG_CC7CBA98551B,841.24,PP1058449,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-11-01
+RCG_39DA0016893A,1716.05,PP0038019,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-04-05
+RCG_1CC169FB9FCE,1508.51,Unknown,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-06-16
+RCG_6750E554F57B,769.38,PP0023630,Recharge_Bills,Dth,Successful,Successful,2024-12-18
+RCG_9CD784B1C99A,1171.46,PP0007649,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-02-24
+RCG_DF8671099A14,81.02,PP0048408,Recharge_Bills,Fastag Recharge,Successful,Unknown,2024-08-05
+RCG_5357EACB381B,92.25,PP1070424,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-04-22
+RCG_377279B8B32E,1199.82,PP1091723,Recharge_Bills,Mobile Recharge,Failed,Server error,2024-07-27
+RCG_E646C168AA18,473.56,PP0029358,Recharge_Bills,Cable Tv,Successful,Unknown,2024-08-07
+RCG_0D1CC7166E33,320.2,PP1068118,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-05-26
+RCG_E8E811991BBB,383.17,PP0002803,Recharge_Bills,Cable Tv,Successful,Successful,2024-08-19
+RCG_1CE03FA914B0,259.57,PP1076413,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-08-24
+RCG_DB067C6B0546,352.33,PP1107171,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-11-12
+RCG_AB80CBB28E1B,242.77,PP1060834,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-06-02
+RCG_BFC0B5BE978B,1881.71,PP0022533,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-08-14
+RCG_E556431D021C,1281.19,PP0022469,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-10-05
+RCG_A732CE0FD265,864.4,PP0039807,Recharge_Bills,Cable Tv,Successful,Successful,2024-10-07
+RCG_7E975F5B3871,1492.62,PP0003591,Recharge_Bills,Cable Tv,Successful,Successful,2024-12-08
+RCG_34FC60CF47E8,1283.61,PP0002560,Recharge_Bills,Mobile Recharge,Unknown,Successful,2024-08-29
+RCG_02708BE84BED,343.53,PP0044397,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-11-14
+RCG_6FACB7BC3C7C,633.79,PP0017553,Recharge_Bills,Cable Tv,Successful,Successful,2024-11-30
+RCG_2462A5FF5510,700.79,PP0038631,Recharge_Bills,Dth,Successful,Successful,2024-07-09
+RCG_80CBC8CC04E6,1982.81,PP1066483,Recharge_Bills,Dth,Successful,Successful,2024-10-22
+RCG_F3C851186E3E,284.01,PP1055505,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-04-02
+RCG_EAF527A4A1C3,1056.32,PP1090202,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-12-16
+RCG_5C60579B7DF2,1203.45,PP1077353,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-03-02
+RCG_1E74F6312A77,984.1,PP0023460,Recharge_Bills,Cable Tv,Successful,Successful,2024-12-20
+RCG_7010FB7AE26C,1589.28,PP1059469,Recharge_Bills,Dth,Successful,Successful,2024-12-04
+RCG_99FC6385CD66,478.43,PP0030965,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-07-19
+RCG_1DF51AF9F512,876.23,PP1051487,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-10-17
+RCG_9072B2A0751D,477.05,PP0012315,Recharge_Bills,Dth,Successful,Successful,2024-02-16
+RCG_40D9E0F9CE90,1225.56,PP0029670,Recharge_Bills,Fastag Recharge,Successful,Unknown,2024-03-31
+RCG_FD44F92950CE,1859.7,PP1088842,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-12-15
+RCG_B5E384B95991,1728.28,PP0020357,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-05-28
+RCG_8417B789467A,680.78,PP1103543,Recharge_Bills,Dth,Successful,Successful,2024-01-10
+RCG_5B838330CF15,96.58,PP0006693,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-02-02
+RCG_7437008A0C1B,96.53,PP1052130,Recharge_Bills,Dth,Successful,Successful,2024-04-22
+RCG_CB4889FBDFED,1816.95,PP0001173,Recharge_Bills,Cable Tv,Successful,Successful,2024-07-05
+RCG_44F7336277F9,1413.67,PP0035480,Recharge_Bills,Cable Tv,Successful,Unknown,2024-08-09
+RCG_DC17FA2B9943,173.11,PP1064594,Recharge_Bills,Dth,Successful,Successful,2024-10-10
+RCG_1C54B3341420,526.1,PP0048110,Recharge_Bills,Cable Tv,Successful,Successful,2024-10-09
+RCG_19BC8EDB7D5A,1328.61,PP0004158,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-03-17
+RCG_E49C85372E35,446.55,PP0015617,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-11-27
+RCG_98FA4756AFA0,202.84,PP0034884,Recharge_Bills,Dth,Successful,Successful,2024-10-17
+RCG_47A225FD9BD9,1586.92,PP0007988,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-08-25
+RCG_9B6549C08923,1709.13,PP0043027,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-09-22
+RCG_DFE918209A33,1221.31,PP1058540,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-03-26
+RCG_D04E724345D0,982.55,PP1083551,Recharge_Bills,Cable Tv,Successful,Successful,2024-10-27
+RCG_B5A88D9F2CE5,201.74,PP0031982,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-09-14
+RCG_8638F2FD4439,1802.33,PP0040873,Recharge_Bills,Dth,Successful,Successful,2024-01-01
+RCG_E24B212F4483,287.35,PP1064913,Recharge_Bills,Cable Tv,Successful,Successful,2024-04-23
+RCG_E6FF96273D7D,667.39,PP0043786,Recharge_Bills,Dth,Successful,Successful,2024-07-05
+RCG_05A4F6510871,540.33,PP0043342,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-08-27
+RCG_11BF63C3DC6B,1014.3,PP0033742,Recharge_Bills,Cable Tv,Successful,Successful,2024-03-01
+RCG_AAFE6CCB0B4B,1557.39,PP0006128,Recharge_Bills,Cable Tv,Successful,Successful,2024-02-29
+RCG_D2D770242CD2,1528.81,PP0029587,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-02-16
+RCG_C85370ABB640,383.75,PP0014584,Recharge_Bills,Mobile Recharge ,Successful,Successful,2024-01-21
+RCG_5A169D7B170C,794.78,PP1062387,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-02-05
+RCG_DD44F4B1C966,1222.49,Unknown,Recharge_Bills,Dth,Successful,Successful,2024-11-21
+RCG_3252DE45F163,1469.27,PP1080861,Recharge_Bills,Dth,Successful,Successful,2024-08-02
+RCG_37F48567A487,679.16,PP1050243,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-05-18
+RCG_A6E1933B6D16,700.4,PP0015411,Recharge_Bills,Cable Tv,Failed,Insufficient amount,2024-01-27
+RCG_9B90CF2102C2,948.46,PP1091079,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-08-28
+RCG_11B72049ECD6,1603.24,PP0039017,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-12-21
+RCG_985A7CD344ED,59.77,PP0040930,Recharge_Bills,Dth,Failed,Server error,2024-07-10
+RCG_76DDC6EE1914,1946.17,PP1069421,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-11-03
+RCG_F9203F67464A,409.39,PP0048823,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-03-14
+RCG_1C1EE7767DE9,1796.01,PP0001952,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-06-04
+RCG_8EC9FB3D2C98,1016.17,PP0026244,Recharge_Bills,Dth,Successful,Successful,2024-01-20
+RCG_B1C51EB32F5B,1436.79,PP0047283,Recharge_Bills,Dth,Successful,Successful,2024-07-29
+RCG_95B5532C323B,1080.85,PP0037710,Recharge_Bills,Mobile Recharge,Failed,Insufficient amount,2024-09-30
+RCG_08EB3314BF25,1378.01,PP0019338,Recharge_Bills,Dth ,Successful,Successful,2024-11-06
+RCG_0F9807675B83,505.49,PP1106158,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-07-25
+RCG_AB16DE8B5B83,741.7,PP1074237,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-08-07
+RCG_9D6B92F49EA3,559.16,PP1078084,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-06-24
+RCG_BB3AEB4AD007,1261.32,PP1093710,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-01-06
+RCG_F127E046362A,1586.85,PP1082720,Recharge_Bills,Dth,Successful,Successful,2024-03-09
+RCG_ED7023A7C36D,240.02,PP1085711,Recharge_Bills,Cable Tv ,Successful,Successful,2024-04-28
+RCG_F8359CB65632,1970.41,PP0016200,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-11-02
+RCG_382A46E101C0,1394.8,PP1062832,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-02-17
+RCG_318CBBBDF3E0,867.65,PP1053828,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-01-16
+RCG_B33A70905747,42.5,PP1058061,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-05-02
+RCG_92027FA1B42B,1331.7,PP1067758,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-07-09
+RCG_B2B0A8343F64,1351.27,PP0032889,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-11-29
+RCG_A903F54DBE87,1721.03,PP1068468,Recharge_Bills,Dth,Successful,Successful,2024-06-15
+RCG_4322EDD2394D,182.93,PP0048322,Recharge_Bills,Cable Tv,Successful,Successful,2024-11-13
+RCG_DC7E39964B73,1743.62,PP1089592,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-02-01
+RCG_269392E6FEBE,1579.88,PP0035055,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-10-02
+RCG_1BD2C4051865,1168.76,PP0013627,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-12-28
+RCG_2E2681ACFDF5,1796.95,PP0044938,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-04-23
+RCG_08947025BADB,1761.21,PP0003919,Recharge_Bills,Dth,Successful,Successful,2024-07-16
+RCG_652D225964A2,27.49,PP0013707,Recharge_Bills,Dth,Successful,Successful,2024-05-18
+RCG_D02A903EB465,1203.69,PP1102398,Recharge_Bills,Dth,Successful,Successful,2024-06-02
+RCG_848EC59C6474,1451.54,PP1086144,Recharge_Bills,Dth,Successful,Successful,2024-07-25
+RCG_F18FBECC29D3,1562.16,Unknown,Recharge_Bills,Dth,Successful,Successful,2024-10-21
+RCG_721615F3A3A4,880.83,PP0015159,Recharge_Bills,Dth,Successful,Successful,2024-07-07
+RCG_9576D9184B1D,172.34,PP1067297,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-10-26
+RCG_6E8D036CDEB3,687.51,PP0014206,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-05-25
+RCG_1A8F7AF1654E,498.12,PP0022188,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-11-05
+RCG_A9D88CCC0DAA,1777.37,PP0022784,Recharge_Bills,Cable Tv,Failed,Insufficient amount,2024-07-20
+RCG_CAB507164054,313.9,PP1054865,Recharge_Bills,Cable Tv,Successful,Successful,2024-08-20
+RCG_E4A2255D655E,149.57,PP0030775,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-05-20
+RCG_BC5C58F6D660,1838.5,PP1093568,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-09-15
+RCG_B3B30FE8616B,104.61,PP0038746,Recharge_Bills,Cable Tv,Successful,Successful,2024-09-29
+RCG_7012A9B62AF2,1709.4,PP0033410,Recharge_Bills,Cable Tv,Successful,Successful,2024-01-30
+RCG_92ECD9D62FE2,522.96,PP1056653,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-09-20
+RCG_51E044E6CB9C,937.31,PP0015456,Recharge_Bills,Cable Tv,Successful,Successful,2024-04-18
+RCG_E28B5AB052E1,48.67,PP1103404,Recharge_Bills,Dth,Successful,Successful,2024-10-21
+RCG_FB68FFB636CC,96.74,PP0036865,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-08-15
+RCG_7590C7527D81,851.91,PP1065848,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-12-09
+RCG_C2D9AA300454,835.38,PP1077109,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-09-22
+RCG_447AD334D09D,189.54,PP1093828,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-10-15
+RCG_B78F4AF5A0F2,1014.3,PP0013126,Recharge_Bills,Mobile Recharge,Successful,Unknown,2024-08-29
+RCG_CD06DA2E99BA,1628.71,PP1091731,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-03-23
+RCG_DE8519C196F7,368.13,PP1090810,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-12-16
+RCG_3EE49C1D52E9,290.81,PP0006365,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-05-16
+RCG_C6A633903F02,438.48,PP1106067,Recharge_Bills,Dth,Unknown,Successful,2024-05-17
+RCG_85860722A86F,1355.78,PP1049506,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-08-12
+RCG_9B93C75E0246,263.97,PP0004811,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-12-25
+RCG_B70D731E631A,961.37,PP1094823,Recharge_Bills,Cable Tv,Successful,Successful,2024-07-05
+RCG_7282211C9E6B,1641.73,PP0000876,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-01-06
+RCG_6D127B2D34C8,712.71,PP1079532,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-04-04
+RCG_F7D89C430611,271.43,PP1072417,Recharge_Bills,Dth,Successful,Successful,2024-02-22
+RCG_64A735A56D75,747.7,PP1084859,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-10-05
+RCG_5092F17D782D,1354.67,PP0016032,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-12-26
+RCG_59EBF57B43AB,1690.66,PP1098603,Recharge_Bills,Cable Tv,Successful,Successful,2024-04-13
+RCG_C6CA4E68BB17,1014.3,PP0030268,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-07-22
+RCG_BCF18375C441,411.91,PP1060119,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-10-04
+RCG_C038D7185E49,405.79,PP0012225,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-07-15
+RCG_974AC21FC4DC,342.57,PP1062421,Recharge_Bills,Dth,Failed,Insufficient amount,2024-06-10
+RCG_A686DCD0F211,696.26,PP0022895,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-02-06
+RCG_365376A40A23,629.13,PP1056337,Recharge_Bills,Cable Tv,Successful,Successful,2024-09-11
+RCG_1E218D8463E6,1547.44,Unknown,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-08-17
+RCG_B7989C303C7A,1963.63,PP1069081,Recharge_Bills,Dth,Successful,Successful,2024-12-18
+RCG_972A2EA5D041,199.5,PP0026302,Recharge_Bills,Cable Tv,Successful,Successful,2024-07-14
+RCG_5BD53573B46C,147.44,PP0038304,Recharge_Bills,Dth,Failed,Server error,2024-09-03
+RCG_135F6C964615,567.3,Unknown,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-12-26
+RCG_72A2E583DCE4,414.47,PP0028556,Recharge_Bills,Dth,Successful,Successful,2024-11-25
+RCG_A60A6401808A,48.04,PP1090432,Recharge_Bills,Mobile Recharge,Failed,Server error,2024-07-28
+RCG_47DCFF1B9ED4,678.44,PP0012241,Recharge_Bills,Dth,Failed,Insufficient amount,2024-10-04
+RCG_EB2B76F3B8C1,1625.77,PP0000047,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-05-11
+RCG_76BDC5BB73E7,435.01,PP1097660,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-01-03
+RCG_6C19CBF00F91,1938.64,PP0008111,Recharge_Bills,Dth,Successful,Successful,2024-02-29
+RCG_2B75DD159162,1325.61,PP1077599,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-01-04
+RCG_F45900E32D87,971.6,PP0048239,Recharge_Bills,Dth,Successful,Successful,2024-10-17
+RCG_DB6D55D518ED,71.07,PP1104105,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-04-15
+RCG_68F493638FA2,1014.3,PP0040118,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-06-27
+RCG_8264977502B6,1135.18,PP1062652,Recharge_Bills,Dth,Successful,Successful,2024-02-02
+RCG_52B544F92A3F,850.34,Unknown,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-06-04
+RCG_2042AC8E8F02,1020.49,PP0034463,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-08-18
+RCG_2F214AFC8AC3,121.93,PP1081413,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-11-12
+RCG_27D21C6DA4F5,1566.95,PP1051317,Recharge_Bills,Cable Tv,Successful,Successful,2024-11-14
+RCG_4229A0341475,805.68,PP1077035,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-03-24
+RCG_88E453696427,281.21,PP0040138,Recharge_Bills,Dth,Successful,Successful,2024-11-01
+RCG_C1C6CDDA474C,1536.01,PP0027336,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-09-06
+RCG_E6BC05FC4256,1670.99,Unknown,Recharge_Bills,Dth,Successful,Successful,2024-12-16
+RCG_B67FEACA73E7,632.94,PP1102506,Recharge_Bills,Cable Tv,Successful,Successful,2024-12-28
+RCG_C36AF6DC589D,1396.33,PP1096604,Recharge_Bills,Mobile Recharge,Unknown,Successful,2024-07-14
+RCG_8352FCE0D19E,332.32,PP1087651,Recharge_Bills,Cable Tv,Successful,Successful,2024-02-03
+RCG_E8130E54C243,1601.47,PP0031394,Recharge_Bills,Cable Tv,Successful,Successful,2024-02-17
+RCG_CBE03E9D26B8,269.0,PP0021898,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-02-15
+RCG_242E0C65277C,1653.14,PP0044352,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-02-02
+RCG_C64BB3A840D5,849.53,PP0009561,Recharge_Bills,Cable Tv,Successful,Successful,2024-08-21
+RCG_D0DEA915DD06,450.0,PP1087344,Recharge_Bills,Cable Tv,Successful,Successful,2024-11-16
+RCG_0E6F149E18C7,935.83,PP1098049,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-12-15
+RCG_C5195F3D7C8C,1601.6,PP1069842,Recharge_Bills,Cable Tv,Successful,Successful,2024-07-28
+RCG_24F1284842A9,969.85,PP1086842,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-08-04
+RCG_4898CC6E492C,1990.51,PP1057645,Recharge_Bills,Cable Tv,Successful,Successful,2024-01-01
+RCG_739463BBF77C,1317.34,PP1070775,Recharge_Bills,Cable Tv,Successful,Successful,2024-09-22
+RCG_D1B19E9B685D,1934.85,PP0018518,Recharge_Bills,Cable Tv,Successful,Successful,2024-08-10
+RCG_EACF09BC19F6,366.33,PP1063420,Recharge_Bills,Dth,Successful,Successful,2024-04-30
+RCG_28407DF9D50A,879.41,PP0017693,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-04-25
+RCG_570242910A98,139.85,PP0040446,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-08-05
+RCG_671FD1A08B03,1656.41,PP0006032,Recharge_Bills,Dth,Successful,Successful,2024-05-16
+RCG_3E48245CA27A,1384.19,PP1073887,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-09-16
+RCG_F9E52F82F8F8,583.21,PP1071823,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-04-18
+RCG_075B41FA3A02,755.59,PP1077720,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-06-21
+RCG_0E5E31891CEE,1278.3,PP1099530,Recharge_Bills,Cable Tv,Successful,Successful,2024-01-28
+RCG_B18448105F95,1718.43,PP0019741,Recharge_Bills,Nan ,Successful,Successful,2024-09-05
+RCG_445832301FB1,212.32,PP1102173,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-07-29
+RCG_CBB6F77C6928,1656.22,PP1058250,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-11-28
+RCG_12277B9DE22A,940.56,PP1101065,Recharge_Bills,Dth,Successful,Successful,2024-07-02
+RCG_992A349CE08B,1740.28,PP1097153,Recharge_Bills,Cable Tv,Successful,Successful,2024-09-06
+RCG_E24467941AFA,1320.32,PP1104220,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-03-13
+RCG_3DE1C2870227,1604.71,Unknown,Recharge_Bills,Dth,Successful,Successful,2024-11-27
+RCG_041C3813DD61,743.93,PP1057091,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-05-12
+RCG_70DFA0016EF8,749.96,PP1094960,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-03-28
+RCG_839B7945101A,1127.09,PP1061535,Recharge_Bills,Cable Tv,Successful,Successful,2024-02-22
+RCG_0F0DBE08A3E3,77.21,PP1085614,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-03-20
+RCG_1AF0A0C9C628,1771.9,PP0016732,Recharge_Bills,Dth,Successful,Successful,2024-09-25
+RCG_11E3AFCB3131,32.1,PP0035269,Recharge_Bills,Fastag Recharge,Unknown,Successful,2024-04-12
+RCG_3396A888CF72,1548.25,PP0032053,Recharge_Bills,Cable Tv,Failed,Wrong PIN,2024-10-02
+RCG_32654D526179,1223.49,Unknown,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-03-30
+RCG_EAB1F46DFA65,388.02,PP1097187,Recharge_Bills,Dth,Successful,Successful,2024-11-25
+RCG_60DBAFC7727B,441.64,PP0035371,Recharge_Bills,Dth,Successful,Successful,2024-08-10
+RCG_95B9AA95BAA8,1129.95,PP0037830,Recharge_Bills,Dth,Successful,Successful,2024-08-20
+RCG_AE427562370C,1798.49,PP1080331,Recharge_Bills,Cable Tv,Successful,Successful,2024-05-15
+RCG_CB7C6B1DCFD0,1578.36,PP1091143,Recharge_Bills,Cable Tv,Successful,Successful,2024-02-14
+RCG_2BB47858ACDA,1786.85,PP1072641,Recharge_Bills,Cable Tv,Successful,Successful,2024-10-28
+RCG_C67443B7FB42,594.34,PP0019686,Recharge_Bills,Cable Tv,Successful,Successful,2024-12-27
+RCG_078D9DEC8946,124.24,PP0011650,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-10-27
+RCG_C1F728E57F9F,1109.05,PP1066999,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-10-01
+RCG_5DD8539D926E,1708.87,PP1103006,Recharge_Bills,Cable Tv,Successful,Successful,2024-08-13
+RCG_6CE8C249C993,940.6,PP1095978,Recharge_Bills,Cable Tv,Successful,Successful,2024-05-15
+RCG_4CCCE69B0D3C,578.43,PP1100743,Recharge_Bills,Cable Tv,Successful,Successful,2024-06-25
+RCG_B5592D61475C,507.04,PP1104514,Recharge_Bills,Cable Tv,Successful,Successful,2024-08-16
+RCG_FC7F0547EB66,1551.25,PP1078976,Recharge_Bills,Dth,Successful,Successful,2024-11-18
+RCG_7684B0832B6E,1265.49,PP0007403,Recharge_Bills,Dth,Successful,Successful,2024-11-03
+RCG_BF3B62922CC3,553.06,PP0000418,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-05-30
+RCG_4A778D691CBE,1916.84,PP0046250,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-05-03
+RCG_9F530A83CEAD,1464.77,PP0014161,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-05-10
+RCG_02DC3461B154,1534.94,PP1074008,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-12-21
+RCG_7FA5A7E25684,1754.27,PP0042992,Recharge_Bills,Cable Tv,Successful,Successful,2024-07-20
+RCG_A230A074D3A8,1149.51,PP1072994,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-06-27
+RCG_D6978500787F,1996.22,PP0038373,Recharge_Bills,Dth,Successful,Successful,2024-04-18
+RCG_CACD6F547877,1682.02,PP1067518,Recharge_Bills,Dth,Successful,Successful,2024-01-07
+RCG_9D825DED551A,1449.88,PP1079303,Recharge_Bills,Dth,Successful,Successful,2024-09-14
+RCG_3D9F1927964C,1103.75,PP1056389,Recharge_Bills,Dth,Successful,Successful,2024-01-28
+RCG_BF2F49FC9F28,1290.72,PP0018004,Recharge_Bills,Dth,Successful,Successful,2024-06-14
+RCG_F691F4AEB923,925.73,PP0023784,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-05-02
+RCG_9EACD8A9A04A,1014.3,PP0004453,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-07-29
+RCG_E2ABED7BF1E4,1997.23,PP0045921,Recharge_Bills,Dth,Successful,Successful,2024-08-13
+RCG_B0FDEAB9F05F,1726.23,PP0019953,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-11-20
+RCG_190EB1379964,1505.33,PP1062134,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-11-24
+RCG_25739086E118,1580.12,PP0002578,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-07-06
+RCG_0AD1030F0E68,1994.17,PP0015267,Recharge_Bills,Mobile Recharge,Successful,Unknown,2024-10-30
+RCG_D83A4AFBCFB5,1973.98,PP0011067,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-03-21
+RCG_C49F1D8043AB,1676.35,PP1097895,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-10-31
+RCG_7D1553E0BDB7,1014.3,PP1051570,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-08-15
+RCG_0E5E31891CEE,1278.3,PP1099530,Recharge_Bills,Cable Tv,Unknown,Successful,2024-01-28
+RCG_FFE8F16FED0A,231.9,PP1069933,Recharge_Bills,Dth,Successful,Successful,2024-06-27
+RCG_2A4EA52E7BB9,673.2,PP0042994,Recharge_Bills,Dth,Successful,Successful,2024-01-31
+RCG_B2D3DA3FF923,902.62,PP1090421,Recharge_Bills,Cable Tv,Successful,Successful,2024-11-13
+RCG_05B66813CC70,172.51,PP1097361,Recharge_Bills,Dth,Successful,Successful,2024-11-01
+RCG_3D6F6EAF8F28,1838.88,Unknown,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-02-08
+RCG_7AC44C2A797D,632.8,Unknown,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-11-05
+RCG_9EF43CF331D2,1700.51,PP1058458,Recharge_Bills,Dth,Successful,Successful,2024-04-06
+RCG_6A16C47D28C1,1180.8,Unknown,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-07-22
+RCG_E0D78A19CD26,1668.6,PP1055081,Recharge_Bills,Cable Tv,Successful,Unknown,2024-11-26
+RCG_EEED08A90172,385.8,PP0021621,Recharge_Bills,Mobile Recharge,Successful,Successful,2024-06-12
+RCG_F53031BB23BF,1399.41,PP1085843,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-04-22
+RCG_039FAD448785,445.44,PP1086592,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-01-31
+RCG_F579A0CA89CC,1683.22,PP1064156,Recharge_Bills,Fastag Recharge,Successful,Successful,2024-01-18
+RCG_ET844AJ87WMUX,777.19,PP3633125,Recharge_Bills,Dth,Success,Success,2026-07-19
+RCG_6MR7CF7Z6L2MG,280.74,PP6687550,Recharge_Bills,Fastag Recharge ,Failed,Insufficient Balance,2026-07-19
+RCG_VV5RPY9Z3UWMA,900.17,PP3744534,Recharge_Bills,Dth ,Success,Success,2026-07-19
+RCG_8VNHQJM46SDHL,917.41,PP2459904,Recharge_Bills,Dth,Success,Success,2026-07-19
+RCG_3AVDGPSBDOY0C,646.65,PP3537779,Recharge_Bills,Dth,Success,Success,2026-07-19
+RCG_LCGWS2GRJN44X,132.45,PP3960821,Recharge_Bills,Nan ,Success,Success,2026-07-19
+RCG_TO0NPAWJY9V3R,969.43,PP1193712,Recharge_Bills,Dth ,Success,Success,2026-07-19
+RCG_SNQXF1TCW2W3X,701.56,PP5080554,Recharge_Bills,Dth ,Success,Success,2026-07-19
+RCG_RXGO23DDCJS0C,1971.07,PP8142469,Recharge_Bills,Fastag Recharge,Success,Success,2026-07-19
+RCG_JPT4NBP7Z1T6D,620.95,PP8957070,Recharge_Bills,Fastag Recharge,Success,Success,2026-07-19
+RCG_UB5G20PA2W5TC,806.63,PP3273237,Recharge_Bills,Mobile Recharge,Success,Success,2026-07-19
+RCG_94R4AHJIOZJ7E,389.61,PP9181321,Recharge_Bills,Mobile Recharge,Success,Success,2026-07-19
+RCG_PI21AMXTXIN7R,1229.69,PP2418138,Recharge_Bills,Fastag Recharge ,Failed,Insufficient Balance,2026-07-19
+RCG_MT3VF7A45U8LL,786.18,PP3056041,Recharge_Bills,Fastag Recharge,Success,Success,2026-07-19
+RCG_0F4S6SNUWXT7U,588.84,PP9621817,Recharge_Bills,Dth,Success,Success,2026-07-19
+RCG_T1Q8UP1YFQI6G,1205.47,PP3746943,Recharge_Bills,Dth ,Success,Success,2026-07-19
+RCG_YZT3NEMOC4CVR,1837.46,PP6231822,Recharge_Bills,Mobile Recharge,Success,Success,2026-07-19
+RCG_XZT1Q4KEW86WQ,52.93,PP4673378,Recharge_Bills,Mobile Recharge,Success,Success,2026-07-19
+RCG_4WMMSC186VTTF,1194.48,PP5995461,Recharge_Bills,Mobile Recharge ,Success,Success,2026-07-19
+RCG_NU0RHP5Y9EAPV,1763.71,PP6277096,Recharge_Bills,Fastag Recharge ,Success,Success,2026-07-19
+RCG_BLCLMHKG9GAJ7,363.52,PP6323062,Recharge_Bills,Dth,Success,Success,2026-07-19
+RCG_GKKAY9K8SXYR3,1849.1,PP7344320,Recharge_Bills,Mobile Recharge,Success,Success,2026-07-19
+RCG_DG8DOBZHMXES9,1590.77,PP2345318,Recharge_Bills,Mobile Recharge ,Success,Success,2026-07-19
+RCG_7HZTG99TC2SWJ,219.89,PP1319998,Recharge_Bills,Cable Tv ,Success,Success,2026-07-19
+RCG_DAM9JSCZNHZ97,1611.13,PP8731934,Recharge_Bills,Nan ,Success,Success,2026-07-19
+RCG_KZ1GNF29CGC9G,1551.94,PP9802598,Recharge_Bills,Dth ,Success,Success,2026-07-19
+RCG_B3564SL87QX04,1554.6,PP1237832,Recharge_Bills,Dth,Success,Success,2026-07-19
+RCG_3N3AIR7GKN07W,1979.16,PP5925226,Recharge_Bills,Fastag Recharge,Success,Success,2026-07-19
+RCG_IEQIWKDXF1KLH,616.86,PP8144702,Recharge_Bills,Fastag Recharge,Success,Success,2026-07-19
+RCG_45I52JQ411RLZ,419.66,PP3235478,Recharge_Bills,Mobile Recharge ,Failed,Server Error,2026-07-19
+RCG_185OEYBRLLBH2,1457.1,PP6859850,Recharge_Bills,Cable Tv ,Success,Success,2026-07-19
+RCG_QA3B89BUK931A,1285.97,PP5821065,Recharge_Bills,Dth ,Success,Success,2026-07-19
+RCG_HQ1O6WDIA0PUB,700.87,PP7016672,Recharge_Bills,Fastag Recharge ,Success,Success,2026-07-19
+RCG_I50LCSKWGCD6D,1585.84,PP8271318,Recharge_Bills,Cable Tv ,Success,Success,2026-07-19
+RCG_QL365UXWRHBO2,158.47,PP5664933,Recharge_Bills,Fastag Recharge,Success,Success,2026-07-19
+RCG_E1VBE49MY0JML,892.91,PP6216414,Recharge_Bills,Fastag Recharge ,Success,Success,2026-07-19
+RCG_A8QT6XH0Y5IK8,1215.7,PP8958559,Recharge_Bills,Fastag Recharge,Success,Success,2026-07-19
+RCG_MGJK85I68SSXE,241.19,PP1813322,Recharge_Bills,Nan ,Failed,Server Error,2026-07-19
+RCG_1V1RYUCNBBVAI,1784.08,PP9911142,Recharge_Bills,Dth ,Success,Success,2026-07-19
+RCG_4T0F6M4FL4ZX3,537.14,PP5655574,Recharge_Bills,Cable Tv ,Failed,Server Error,2026-07-19
+RCG_JMOODWA21F0G8,1638.01,PP1305770,Recharge_Bills,Dth ,Success,Success,2026-07-19
+RCG_NAPDSELUP020L,1501.02,PP1773627,Recharge_Bills,Fastag Recharge,Success,Success,2026-07-19
+RCG_B8JXAPC7P3YGM,1581.77,PP8350965,Recharge_Bills,Dth,Success,Success,2026-07-19
+RCG_NE78S75DCXO5C,725.12,PP7929419,Recharge_Bills,Fastag Recharge ,Success,Success,2026-07-19
+RCG_WFRGBYK1YMXH6,539.38,PP3926110,Recharge_Bills,Dth ,Success,Success,2026-07-19
+RCG_408JTREE6EHCX,755.39,PP7631573,Recharge_Bills,Mobile Recharge,Success,Success,2026-07-19
+RCG_U8P7A0DAV9AQE,74.79,PP4792929,Recharge_Bills,Dth ,Success,Success,2026-07-19
+RCG_5VGQEK1RLLC47,1127.02,PP5759364,Recharge_Bills,Nan ,Success,Success,2026-07-19
+RCG_CHVDSADTO9L9U,962.25,PP4201913,Recharge_Bills,Cable Tv ,Success,Success,2026-07-19
+RCG_NYKTGLNZIYIQL,1446.1,PP5951380,Recharge_Bills,Nan ,Success,Success,2026-07-19

@@ -1,0 +1,51 @@
+Transaction ID,Amount,User ID,Service,Service Type,Payment_Status,Reason,Date
+RCG_O9CKOWHZ3AN8X,876.04,PP3605328,Recharge_Bills,Mobile Recharge ,Success,Success,21-07-2026
+RCG_XWGNQ43IMBNEN,374.5,PP1816965,Recharge_Bills,DTH ,Failed,Server Error,21-07-2026
+RCG_KODLDAKDDXISW,1325.69,PP5341829,Recharge_Bills,FASTag Recharge,Success,Success,21-07-2026
+RCG_EBZFM8X54IZR3,1155.15,PP1897849,Recharge_Bills,Cable TV,Success,Success,21-07-2026
+RCG_NEI587KTENCRK,725.81,PP9166209,Recharge_Bills,Mobile Recharge ,Success,Success,21-07-2026
+RCG_SYI6G1J0WN0OW,378.32,PP1363607,Recharge_Bills,nan ,Failed,Server Error,21-07-2026
+RCG_JH2WWQKKSFS0D,228.47,PP9579597,Recharge_Bills,Mobile Recharge,Success,Success,21-07-2026
+RCG_S77ZYSUKMJEXD,637.58,PP9272014,Recharge_Bills,DTH,Success,Success,21-07-2026
+RCG_B4UCIZ7YLODYI,1892.04,PP6637074,Recharge_Bills,DTH ,Success,Success,21-07-2026
+RCG_3FZW7IBE6JWVM,541.12,PP3993046,Recharge_Bills,Cable TV ,Failed,Network Error,21-07-2026
+RCG_T3QRHHY6PU79N,1494.25,PP8321702,Recharge_Bills,nan ,Success,Success,21-07-2026
+RCG_EGO5BM1P51INM,1257.29,PP4103222,Recharge_Bills,FASTag Recharge,Failed,Insufficient Balance,21-07-2026
+RCG_JC6JLFCOYU5AI,761.73,PP1038403,Recharge_Bills,Mobile Recharge,Success,Success,21-07-2026
+RCG_TMEM09CX60OIH,296.97,PP5597895,Recharge_Bills,DTH ,Success,Success,21-07-2026
+RCG_8ZJJFE6JW7PF2,1826.58,PP4404403,Recharge_Bills,Mobile Recharge ,Success,Success,21-07-2026
+RCG_2Q4FY0BNVLBIV,287.91,PP2677842,Recharge_Bills,nan ,Success,Success,21-07-2026
+RCG_WY40MYC87EV6O,1005.37,PP4870797,Recharge_Bills,Cable TV ,Success,Success,21-07-2026
+RCG_JZI1T7AROSR4C,353.73,PP6673519,Recharge_Bills,Mobile Recharge,Failed,Network Error,21-07-2026
+RCG_TQWJEE1IF50XC,1624.0,PP9959569,Recharge_Bills,DTH,Success,Success,21-07-2026
+RCG_54G4HLI868W3J,876.9,PP3458597,Recharge_Bills,Mobile Recharge,Success,Success,21-07-2026
+RCG_803AYA7N2IWDZ,1584.38,PP3836283,Recharge_Bills,DTH ,Success,Success,21-07-2026
+RCG_2JLN0TENUTL38,321.84,PP4720794,Recharge_Bills,nan ,Success,Success,21-07-2026
+RCG_6V5EIOUZZDKMS,812.05,PP7377540,Recharge_Bills,Mobile Recharge ,Success,Success,21-07-2026
+RCG_IDJ5ZYF8GZ51R,962.36,PP5443511,Recharge_Bills,nan ,Success,Success,21-07-2026
+RCG_6ALHFAVKBACL1,160.32,PP2814744,Recharge_Bills,Mobile Recharge,Success,Success,21-07-2026
+RCG_253V54MA7V4YB,758.56,PP3795942,Recharge_Bills,Mobile Recharge,Success,Success,21-07-2026
+RCG_5M2D702J5QLMZ,112.61,PP6947997,Recharge_Bills,FASTag Recharge,Success,Success,21-07-2026
+RCG_WL478480C7YPS,1804.36,PP8575936,Recharge_Bills,DTH,Success,Success,21-07-2026
+RCG_04J9BZRR24K9B,910.32,PP8891852,Recharge_Bills,Cable TV ,Success,Success,21-07-2026
+RCG_7KI1Q6HEUU9JW,1073.91,PP5082368,Recharge_Bills,FASTag Recharge,Success,Success,21-07-2026
+RCG_WIYFVCOQJOAVY,1510.53,PP4308636,Recharge_Bills,Mobile Recharge,Success,Success,21-07-2026
+RCG_NE26749UX5WVT,624.64,PP7890073,Recharge_Bills,FASTag Recharge,Success,Success,21-07-2026
+RCG_NBUCO3FM3MOUH,899.22,PP7497322,Recharge_Bills,nan ,Success,Success,21-07-2026
+RCG_HPTKWFUYOR9RA,1350.78,PP9077122,Recharge_Bills,Cable TV,Success,Success,21-07-2026
+RCG_G3MTJF7DZQRED,1030.39,PP8290335,Recharge_Bills,nan ,Success,Success,21-07-2026
+RCG_V5K8M0LC7OYWB,1189.03,PP3839628,Recharge_Bills,Cable TV,Success,Success,21-07-2026
+RCG_DT9Q4K7WQKHZ1,860.97,PP1456964,Recharge_Bills,DTH,Success,Success,21-07-2026
+RCG_7JS644JMZ5VWZ,751.92,PP2898081,Recharge_Bills,Cable TV ,Failed,Server Error,21-07-2026
+RCG_IQ7X41UAL42JB,727.37,PP1407106,Recharge_Bills,DTH ,Success,Success,21-07-2026
+RCG_S0AV20YSZIAOR,1023.46,PP8346240,Recharge_Bills,FASTag Recharge,Success,Success,21-07-2026
+RCG_584O42NB647UP,264.66,PP4352998,Recharge_Bills,Cable TV ,Success,Success,21-07-2026
+RCG_BD8CQRNVBQMJN,110.04,PP5068882,Recharge_Bills,DTH ,Success,Success,21-07-2026
+RCG_4XFND3MW06CCF,52.15,PP7413283,Recharge_Bills,Mobile Recharge ,Success,Success,21-07-2026
+RCG_U8WD4HD5FV9H2,1981.76,PP1060234,Recharge_Bills,Cable TV,Success,Success,21-07-2026
+RCG_RK4JY978CVJQO,1094.08,PP7401736,Recharge_Bills,Mobile Recharge ,Success,Success,21-07-2026
+RCG_KF9C8KSGQR6GU,1192.87,PP8679761,Recharge_Bills,Mobile Recharge,Success,Success,21-07-2026
+RCG_7RSOXRG7977N5,723.04,PP7692229,Recharge_Bills,nan ,Success,Success,21-07-2026
+RCG_9AHK3SXSOW8ST,631.64,PP9136574,Recharge_Bills,DTH ,Success,Success,21-07-2026
+RCG_C625V7NCILIT9,1148.02,PP8578787,Recharge_Bills,Mobile Recharge,Success,Success,21-07-2026
+RCG_SF8UDC4DHB0YS,1146.46,PP3353442,Recharge_Bills,Cable TV ,Success,Success,21-07-2026
