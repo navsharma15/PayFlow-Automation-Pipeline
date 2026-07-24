@@ -1,8 +1,8 @@
-#                                    🚀 PhonePe Transaction Automation & Analytics Pipeline
+#                                                                     🚀 PayFlow Automation Pipeline 
 
 ## 📌 Project Overview
 
-The **PhonePe Transaction Automation & Analytics Pipeline** is an end-to-end ETL automation project built using **Python, SQL Server, and Power BI**.
+The **PayFlow Automation Pipeline e** is an end-to-end ETL automation project built using **Python, SQL Server, and Power BI**.
 
 The project automates the complete data pipeline by generating daily transaction data, appending it to the master dataset, cleaning and validating the data, loading it into SQL Server, and visualizing business insights through Power BI dashboards.
 
